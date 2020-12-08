@@ -4,8 +4,8 @@ This recipe for **cereal and milk** has been passed down within my family for mo
 
 ## Ingredients 
 
-    * Cereal [you can find cool cereals here](https://spoonuniversity.com/lifestyle/the-7-sweetest-cereal-selections-to-shop-for)
-    * Milk 
+* Cereal [find cool cereals here](https://spoonuniversity.com/lifestyle/the-7-sweetest-cereal-selections-to-shop-for)
+* Milk 
 
 ## Directions 
 
