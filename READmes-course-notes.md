@@ -2,7 +2,7 @@
 The information presented below are my course notes compiled while taking:
 * Udacity Course:  Writing READMEs<br>
 * Course Developer: Walter Latimer <br>
-* Course Link: https://classroom.udacity.com/courses/ud777
+* Course Link: https://classroom.udacity.com/courses/ud777<br>
 Documentation is an important part of the development process.  Walter begins the course by explaining how a recipe book is like technical documentation.  He states that a Recipe Book exists to help us put to TASTY use the ingredients and tools we have in our kitchens.  Likewise, technical documentation helps us make sense of code. 
 
 ## BEST PRACTICES 
