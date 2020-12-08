@@ -1,4 +1,13 @@
-which make it functional. 
+Udacity Course:  Writing READMEs
+Course Developer: Walter Latimer 
+
+Documentation is an important part of the development process.  Walter begins the course by explaining how a recipe book is like technical documentation.  He states that a Recipe Book exists to help us put to TASTY use the ingredients and tools we have in our kitchens.  Likewise, technical documentation helps us make sense of code. 
+
+The best practice is to write documentation for all of your projects, without exception.  Technical documentation should be written in plain English, easy to read, and can serve the prupose of being a guide or tutorial, as well as refreshing our memory about what a particular segment of code does. Excellent documentation is needed, when working on Open Source coding projects, to find new users and contrbitors to your coding projects.  Further, your project may serve as your coding portfolio and good documentation is essential for finding development related work. 
+
+Anyone using third-party code libraries, must use documentation daily to understand the code to be able to use it. Often when there is no documentation written for the project, we kick ourselves later for the mistakes it creates. Often on older projects, which aren't documented, it is difficult to recall what we were thinking when we wrote it. 
+
+README.md files should contain all of the information we need to use the code within the repository.  There are several parts of a README which make it functional. 
 
 1. Title - Description (written for PEOPLE) 
 2. Installation or Getting Started (instructions) 
