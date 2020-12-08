@@ -1,7 +1,7 @@
 # leary-leerie
 **Hello World!**<br>
 
-This repo was made to follow along with the courses, as outlined below.<br>
+This repo was made to follow along with the courses outlined below.<br>
 
 # Writing READMEs Course:
 ![Course Completion](https://github.com/EO4wellness/leary-leerie/blob/master/images/Writing-READMEs.png)
