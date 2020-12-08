@@ -11,9 +11,13 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * [Course Assignment](https://github.com/EO4wellness/leary-leerie/blob/master/lesson-exercise-original.html) 
 * [My Assingment Answer](https://github.com/EO4wellness/leary-leerie/blob/master/lesson-exercise-my-md-file.md) 
 * [My Course Notes](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md)
-* **COURSE CHALLENGE**: add READme markdown files to every repository and project you create (past, present, and future tenses).
+* **ONGOING COURSE CHALLENGE**: add READme markdown files to every repository and project you create (past, present, and future tenses).
 
 # Version Control Course: 
 [Version Control](https://classroom.udacity.com/courses/ud123)
 
+
+# Issues 
+1.  Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown 
+2.  Need to finish write-up on Version Control Course as time affords me to do so. 
 
