@@ -44,6 +44,42 @@ A readme file can be written in Markdown or HTML. Markdown, or some version of i
 * Like languge has dialetcs, Markdown has flavors. 
 
 ## Markdown Syntax
-(fill in common examples here) 
+Feeling Bold?
 
+To make text bold, surround it with double asterisks. So this code:
+
+Isn't today a **wonderful** day?
+
+becomes: Isn't today a wonderful day?
+
+This reads a bit more nicely than a <strong> tag would in HTML, and takes considerably fewer keystrokes to type out.
+Italics, I tell you!
+
+To italicize text, surround it with underscores. So this code:
+
+And in that moment I thought to myself: _Did I turn off the stove?_
+
+becomes: And in that moment I thought to myself: Did I turn off the stove?
+
+Much like the previous example, this code reads much more like English, which is great for when you're skimming the original document.
+To code, or not to code?
+
+Inline code is useful for indicating that you're writing code and not a regular word. For this, you'll surround text in backticks (`, not a single quote). So this code:
+
+You should use the `strong` tag.
+
+becomes: You should use the strong tag.
+
+...which makes much more sense than "You should use the strong tag."
+The Title Sequence
+
+Headings are even simpler! For h1 through h6 tags, all you'll need is a # before your text. The number of #s you include tells Markdown which header tag you're using. For example:
+
+## This is an h2.
+
+### This is an h3.
+
+becomes...
+This is an h2.
+This is an h3.
 
