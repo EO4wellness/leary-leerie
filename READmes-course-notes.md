@@ -1,5 +1,5 @@
-Udacity Course:  Writing READMEs
-Course Developer: Walter Latimer 
+Udacity Course:  Writing READMEs<br>
+Course Developer: Walter Latimer <br>
 
 Documentation is an important part of the development process.  Walter begins the course by explaining how a recipe book is like technical documentation.  He states that a Recipe Book exists to help us put to TASTY use the ingredients and tools we have in our kitchens.  Likewise, technical documentation helps us make sense of code. 
 
