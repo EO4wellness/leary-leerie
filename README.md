@@ -19,7 +19,10 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * Course Instructor: Richard
 * [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
 * [Git](https://git-scm.com/downloads)
-* Git eBook [pnline](https://git-scm.com/book/en/v2)[PDF](link)[ePub](link)
+* Git eBook [pnline](https://git-scm.com/book/en/v2)
+* [PDF](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Git-Book-Documentation.pdf)|
+* [ePub](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Git-epub-book.epub)
+* Git Common Terms - Cheatsheet https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Common-Terms-GIT-cheatsheet.pdf
 
 # Gist
 * GitHub Gist Documentation 
