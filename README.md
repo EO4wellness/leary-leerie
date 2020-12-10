@@ -18,6 +18,7 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * Course Name: Version Control with Git 
 * Course Instructor: Richard
 * [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
+* [Git](https://git-scm.com/downloads)
 
 
 # Known Issues 
