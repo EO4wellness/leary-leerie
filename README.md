@@ -19,11 +19,13 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * Course Instructor: Richard
 * [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
 * [Git](https://git-scm.com/downloads)
+* Git eBook [pnline](https://git-scm.com/book/en/v2)[PDF](link)[ePub](link)
 
 # Gist
 * GitHub Gist Documentation 
 * Gist Notes
 * Gist Helpful Links 
+* 
 
 # Known Issues 
 1.  Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown 
