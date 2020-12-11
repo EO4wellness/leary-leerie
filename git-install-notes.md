@@ -7,7 +7,10 @@ Options include:
 ![Image of Git Text Editor Choices on Install](https://github.com/EO4wellness/leary-leerie/blob/master/images/installation-git-editor.jpg)
 
 # Downloads 
-Links and installation instructions are given in the course. 
+Links and installation instructions are also given in the course video and instructor notes. 
+[Windows Git](https://git-scm.com/download/win)
+[Visual Code Studio](https://code.visualstudio.com/download)
+[Notepad++](https://notepad-plus-plus.org/downloads/)
 
 # Config
-The Version Control Course goes through the various configt options as a part of the coursework. 
+The Version Control Course goes through the various config options as a part of the coursework as a work-along with the content flow.  However, there are various options available. https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
