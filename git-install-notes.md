@@ -2,7 +2,7 @@
 This outlines the current installation of GIT, needed to follow along in the Version Control course, as well as future use. 
 
 # Default Text Editor:
-Upon install, you can select a variety of options for Git to use as its default text editor.  If none are selected, it will use the OS default. You may (or may not want to install one)
+Upon install, you can select a variety of options for Git to use as its default text editor.  If none are selected, it will use the OS default. You may (or may not) want to install the text editor you want to use with Git, if you don't want to use the default, and/or don't already have one of the other options installed.  The options do not show up upong GIT installation, if they are not already installed on your device prior to installing GIT. 
 Options include: 
 ![Image of Git Text Editor Choices on Install](https://github.com/EO4wellness/leary-leerie/blob/master/images/installation-git-editor.jpg)
 
