@@ -19,9 +19,8 @@ The Version Control Course goes through the various config options as a part of 
 After installing or doing any new step, be it as simple as an HTML link, markdown link, or something more complex, I believe in TESTING everything--even when you think it is perfect.  Cut-n-paste errors happen!  Along the lines of testing, after installation, this course makes a lovely joke! The course, after instructing to install Git using the default settings, simply states "You should now be able to run GIT from the command line."  The course assumes someone knows how to use command line. 
 
         c:git
-
-' ' '
-usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+        
+        usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
@@ -66,4 +65,6 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
-' ' '
+        
+
+
