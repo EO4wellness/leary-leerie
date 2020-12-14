@@ -34,6 +34,12 @@ What will this business become?  Why do you exist? How will you change the world
 * Evaluate your needs:  Skills, Money, Time. 
 * Get the right people for the job and it reduces the time it takes you to do what you are doing. 
 * Can do?  Can learn?  Can hire?  Fill in the gaps with others. 
+* Key hires--first 10 make or break it.  Find fans.  Enthusiastic users are the best people to bring in first. Find those who are active in the community, self selected, already passionate about you/your product/your group. 
+* Types of Engineers: 1. Front End: Do you have a gap between how it works now and how you want it to work?  Design look of app, Creative interactions, Build User experiences, and make responsive interfaces. 2. Back End: Build and maintain serverse, database, while storing and distributing this data to the team. Create the infrastructure needed to keep things running smothly. 3. Mobile: Create mobile experience in android or IOS apps, improve overall performance, ongoing improvements and features, test on new devices.  4. Data: artitecture to collect, analyze and build pipelines to make data-based decisions. 
+* Initial employees need to be jacks of all trades but have a specific skill (you don't have) but are willing to do things out side of their comfort zone and learn new skills. 
+* Hire those who have: adaptability, williness, passion, & ability to learn. 
+* Beg-they will sacrifice to join.  Impact you will have. 
+* Sales: What problem they have and how you solve it.  Who do you sell to?  Customers, users, employees, investors. Skills: seek out new customers (prospecting), present product, handle objections, close. 
 
 # Lesson 3: Build Your Team 
 
