@@ -125,3 +125,5 @@ What will this business become?  Why do you exist? How will you change the world
 # Final Thoughts - Course Completion <br>
 * There are a lot of REAL WORLD examples within this course. Quotes, thoughts, etc. from those who have recently done exactly these steps. <br>
 
+![Course Completion](https://github.com/EO4wellness/leary-leerie/blob/master/images/2020-12-14-Course-Completion-Startups.jpg)
+
