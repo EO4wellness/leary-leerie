@@ -18,9 +18,15 @@ What will this business become?  Why do you exist? How will you change the world
 * You cannot plan everything. 
 * MVP = Minimum Viable Product (when it is "finished" enough; select the right set of first customers)
 * Guidelines: Set up steps you will take to accomplish your goals. What will you do?  Attend events and raise awareness of your cause or product, social media marketing, what will work for you and your goals? 
+* Don't follow someone else.  
+* Start Ups are an industry.  Don't waste your time on the product of startups. It is an entire industry which doesn't work. 
 
 
 # Lesson 2: Define the Skills You Need 
+* Actions you need to take to achieve your goals, are accomplished by skills.  
+* Examine your needed skill set and fill in any skill gaps you may have. 
+* Evaluate your needs in areas of Engineering, Sales, Marketing, Operations, Social Media, Legal, Accounting, Human Resources, Sales, Closing Sales, Handeling Ojections, Presenting, Prospecting, Front End development, Back end development, Mobile, Data, Copywriting, Email marketing, Automation, SEO, etc. 
+* Develop the skills yourself or hire others who have proven track record in these skill sets. 
 
 # Lesson 3: Build Your Team 
 
