@@ -1,4 +1,4 @@
-#Info<br>
+# Info<br>
 Udacity Course Name: Get Your Startup Started<br> 
 Instructor: Shanea King-Roberson (Google Program Manager) <br>
 Course Link: https://www.udacity.com/course/get-your-startup-started--ud806<br>
@@ -112,7 +112,14 @@ What will this business become?  Why do you exist? How will you change the world
 * Networking Event-learn relevant.  Specific individuals who can help.  Identify.  <br>
 * Get out Excell and do the math.  19 of 20 will fail.  Investing in 1 will not help. <br> 
 * Team - Need to have multiple skills to succeed. Ability to overcome all challenges. <br>
-
+* Team --> Market --> Return <br>
+* Rejection is normal.  Why were you rejected.  Pitch not clear?  Too long? find out and improve. <br>
+* Don't believe in the people.  Don't belileve it is the right time. Don't have skills.  Don't believe in the product or people. <br>
+* Practice: start with those who are warm with you, let them listen and give feedback. <br>
+* One Line Pitch: My company name, is devloping (a defined offering), to help (target audience solve a problem with our unique secret sauce). <br>
+* 30 Seconds-try to obtain interest in 30 seconds.  Aim at 75 words. <br> 
+* 60 Seconds-150 words. <br>
+* feedback will help improve <br>
 
 
 # Final Thoughts - Course Completion <br>
