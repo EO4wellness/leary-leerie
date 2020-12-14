@@ -76,6 +76,12 @@ What will this business become?  Why do you exist? How will you change the world
 * Incubtors. Programs meant to help startups. Been around for a long time.  Example: Ideal Lab.  Group/organization with their own ideas.  Need teams to build their ideas.  Spin out into private companies (who you could be ejected out of).  
 * Accelerators.  Programs meant to help startups. Networking.  Services. Mentorship. Focus and Equity can be downside of this--they exist to help you but you can get overly focused on receiving help and not moving forward. Universities, private groups, etc. Helps companies FAIL faster. 
 * Pick investors carefully.  It will be hard to (later) buy your investor(s) out, if you cannot work together in the future. Never take money from: a fool, family, friends. It won't work.  You're life will be miserable. 
+* Followup:  Thank you, and then....try to connect with one main item which is unique to your dicussion with them and give them one action event (coffee shop, discussion, etc). 
+* Responsibility comes with raising capital. Helps some, hurts others. 
+* Accelerators are very structured.  Rest are not. 
+* "Hear Effect" when one investor hears that others are getting involved, they want to jump on board too.  Don't wait.  Balance being proactive and nagging. 
+* No one is born with the ability to nkow what is going to work, and even if you do have an idea that is going to be the next-greatest-one, you don't know what others are working on and may do or how it will impact you. 
+* Honesty, transparency, openness -investor has to trust and needs relationship to work. Character.  Serious.  Being prepared. Answering Questions. 
 
 
 # Lesson 5: Create Your Pitch Deck 
