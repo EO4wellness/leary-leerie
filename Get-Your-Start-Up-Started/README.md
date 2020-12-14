@@ -27,6 +27,13 @@ What will this business become?  Why do you exist? How will you change the world
 * Examine your needed skill set and fill in any skill gaps you may have. 
 * Evaluate your needs in areas of Engineering, Sales, Marketing, Operations, Social Media, Legal, Accounting, Human Resources, Sales, Closing Sales, Handeling Ojections, Presenting, Prospecting, Front End development, Back end development, Mobile, Data, Copywriting, Email marketing, Automation, SEO, etc. 
 * Develop the skills yourself or hire others who have proven track record in these skill sets. 
+* Founders originally wear LOTs of different hats:  Product Manager, Sales Associatite, Accountant, Web developer, or something else. 
+* Eventually you will employ co-founders or employees to take on more and more of your own responsibilities. You have to provide resoruces to your team.  Emotional and Physical support to your team.  Place to work, clear vision.  
+* Team Building: You know you've done it right when they do something you see is amazing from the team. 
+* Failure also helps find weaknessess.  Backfill. Delegate areas of failures. 
+* Evaluate your needs:  Skills, Money, Time. 
+* Get the right people for the job and it reduces the time it takes you to do what you are doing. 
+* Can do?  Can learn?  Can hire?  Fill in the gaps with others. 
 
 # Lesson 3: Build Your Team 
 
