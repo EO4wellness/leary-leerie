@@ -69,10 +69,13 @@ What will this business become?  Why do you exist? How will you change the world
 * Finance.  Important aspect. 
 * Bootstrapping:  Financing your business using your own personal resources.  Benefits: Freedom, profits, committment. Downsides: Expenses, Connections, Credibility. Need to overcome negative voices. 
 * Debt financing. Any form of loan you can use to help start your business.  You will be paying back over time--principal and interest.  Benefits: Ownership, taxes, lower interest rates for business loans.  There can be lots of options, you likely need an accountant.  Downsides: Repayment.  Unaffordable rates.  Credit rating. If things do not go according to play, this can ruin you. Do your research.  
-* Angel Investors. 
-* Venture Capitalists. 
-* Incubtors. 
-* Acc3elerators. 
+* Investors-want to give you money in exchange for future profits.  Funding, contacts, advice, motivation. Must reach out if you need to scale higher than you are able to go on your own. Downsides: Rate-of-Return, Added pressure, added communication of decsions and working through politics, giving up control, with more stressful aspects of coordinating with others and negotiating through other's key proirities and conflict resolution.  
+* Investor groups: 8 month road show with pitches, meetings, in order to get first investor. 
+* Angel Investors. People who invest their own money into a new business. Usually they aren't rich but like the company.  Benefits: Investment amounts, accessiblity, ease of engagement.  Downsides: Risk adversion, want high rate of return, controlling.  
+* Venture Capitalists.  
+* Incubtors. Programs meant to help startups. Been around for a long time.  Example: Ideal Lab.  Group/organization with their own ideas.  Need teams to build their ideas.  Spin out into private companies (who you could be ejected out of).  
+* Accelerators.  Programs meant to help startups. Networking.  Services. Mentorship. Focus and Equity can be downside of this--they exist to help you but you can get overly focused on receiving help and not moving forward. Universities, private groups, etc. Helps companies FAIL faster. 
+* Pick investors carefully.  It will be hard to (later) buy your investor(s) out, if you cannot work together in the future. Never take money from: a fool, family, friends. It won't work.  You're life will be miserable. 
 
 
 # Lesson 5: Create Your Pitch Deck 
