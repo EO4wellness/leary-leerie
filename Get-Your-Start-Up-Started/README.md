@@ -57,10 +57,21 @@ What will this business become?  Why do you exist? How will you change the world
 * Issues with freelancers:  can over charge, low quality work (not what you are expecting), no communication--unresponsive. 
 * Outsource - same issues, pro and con, as freelancers. 
 * Hires:  How to find them. Hire bar.  Low salary to start but the potential for an amazing long-term result. Greater rewards, but more risk, in working for / with startups. 
-Hire Red Flags: Fire quickly if you took a risk and things aren't working.  To help find the best people--ask them to tell your story.  What is it that works good for you in being here?  Why? How do you see yourself contributing to our overall goal(s) and which (goals) do you see you can help with the most?  The least? 
-Spend more time with the person, to make certain they are a good fit before comitting to going forward with them. 
+* Hire Red Flags: Fire quickly if you took a risk and things aren't working.  To help find the best people--ask them to tell your story.  What is it that works good for you in being here?  Why? How do you see yourself contributing to our overall goal(s) and which (goals) do you see you can help with the most?  The least? 
+* Spend more time with the person, to make certain they are a good fit before comitting to going forward with them. 
+* Early hires set the tone.  Find those aligned and it makes a difference in the future. 
+* Reach out to who you know and trust.  Who do they know and trust. Anything else is pretty toxic in the end. 
+* Offer: Sense of purpose and experience. People they can learn from. 
 
 # Lesson 4: Get capital for Your Business 
+* Finance.  Important aspect. 
+* Bootstrapping.
+* Debt. 
+* Angel Investors. 
+* Venture Capitalists. 
+* Incubtors.
+* Acc3elerators. 
+
 
 # Lesson 5: Create Your Pitch Deck 
 
