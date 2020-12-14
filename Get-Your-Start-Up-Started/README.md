@@ -1,5 +1,5 @@
 Udacity Course Name: Get Your Startup Started 
-Instructor: Shanea  (Google Program Manager) 
+Instructor: Shanea King-Roberson (Google Program Manager) 
 Course Link: https://www.udacity.com/course/get-your-startup-started--ud806
 
 # Lesson 1: Set Your Goals 
@@ -82,6 +82,13 @@ What will this business become?  Why do you exist? How will you change the world
 * "Hear Effect" when one investor hears that others are getting involved, they want to jump on board too.  Don't wait.  Balance being proactive and nagging. 
 * No one is born with the ability to nkow what is going to work, and even if you do have an idea that is going to be the next-greatest-one, you don't know what others are working on and may do or how it will impact you. 
 * Honesty, transparency, openness -investor has to trust and needs relationship to work. Character.  Serious.  Being prepared. Answering Questions. 
+* Speed:  even the slowest chess player can beat a grand master if the slower player is given 3 turns for every one move of the grand master.  Likewise, large companies cannot move fast--they have more funding, more employees, more talents, but they cannot move fast. 
+* Talk to at least ONE company the investor invested in previously, before entering into an arrangement of working with any investor.  
+* Demonstrate pitch passion, knowledge, quickly.
+* compromise - course correct or stay focused on the vision. 
+* Feedback - helps to apply to big picture.  
+* Building relationships with investors has to be long-term, and yet find the right balance between taking feedback/input and never taking it. 
+* Takes twice as long, and took more energy than expected--and it takes it from the building process, to achieve the capital. 
 
 
 # Lesson 5: Create Your Pitch Deck 
