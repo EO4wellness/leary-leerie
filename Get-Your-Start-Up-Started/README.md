@@ -45,6 +45,15 @@ What will this business become?  Why do you exist? How will you change the world
 * Trust instincts. 
 
 # Lesson 3: Build Your Team 
+* Options:  Cofounders, Mentors, Freelancers, First Employees to grow your team. 
+* Balance between time and resources. Doing everything yourself helps you manage your resources, but it can wear you out.  
+* Cofounder relationship is like a partner.  Cannot have this level of relationship with the other categories. Collaboration.  Helping one another. Companies can fail if there are friction between the cofounder's priorities. Nevertheless, one founder is a bottleneck as you can never be ill, or off. 
+* Establish a set of rules about discussing difficult things--the framework for conversation. 
+* Risk Profile-can all of the founders go the same length of time without returns? 
+* Cofounder qualities: Complimentary skills, passion for the mission, open minded, do you get along? Emotional support?  Diversity?  Attract investors. 
+* Balance between doing things quick and being well rounded 2-3 is the general magic number. 
+* Trial and Error-skipped by having a Mentor. 
+* Freelance (Hourly or Project-based fees) difficult to evaluate their skills and communications can be a problem.  Platforms: Freelancers Fiverr Upwork other sources. 
 
 # Lesson 4: Get capital for Your Business 
 
