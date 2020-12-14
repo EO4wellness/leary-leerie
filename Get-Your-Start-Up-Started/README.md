@@ -40,6 +40,9 @@ What will this business become?  Why do you exist? How will you change the world
 * Hire those who have: adaptability, williness, passion, & ability to learn. 
 * Beg-they will sacrifice to join.  Impact you will have. 
 * Sales: What problem they have and how you solve it.  Who do you sell to?  Customers, users, employees, investors. Skills: seek out new customers (prospecting), present product, handle objections, close. 
+* Marketing Team:  Help everyone know who you are and what you do.  Understand who the potential client is and how to reach them. 
+* Operations Department helps you keep everyrthing running smoothly.  Lawyer, accountants, human resources. 
+* Trust instincts. 
 
 # Lesson 3: Build Your Team 
 
