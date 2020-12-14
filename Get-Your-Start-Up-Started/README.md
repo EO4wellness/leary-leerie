@@ -35,3 +35,4 @@ What will this business become?  Why do you exist? How will you change the world
 # Lesson 5: Create Your Pitch Deck 
 
 # Final Thoughts - Course Completion 
+* There are a lot of REAL WORLD examples within this course. Quotes, thoughts, etc. from those who have recently done exactly these steps. 
