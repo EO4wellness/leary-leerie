@@ -2,6 +2,7 @@
 Udacity Course Name: Get Your Startup Started<br> 
 Instructor: Shanea King-Roberson (Google Program Manager) <br>
 Course Link: https://www.udacity.com/course/get-your-startup-started--ud806<br>
+Marketing and Pitching and Funding your Tech Ideas and Beyond<br>
 <br>
 ## Lesson 1: Set Your Goals <br>
 * Entrepreneurs are full of contradictions. <br>
@@ -124,6 +125,7 @@ What will this business become?  Why do you exist? How will you change the world
 
 # Final Thoughts - Course Completion <br>
 * There are a lot of REAL WORLD examples within this course. Quotes, thoughts, etc. from those who have recently done exactly these steps. <br>
+* If you are into develoopment, likely worth your time to think thru this coursework. <br>
 
 ![Course Completion](https://github.com/EO4wellness/leary-leerie/blob/master/images/2020-12-14-Course-Completion-Startups.jpg)
 
