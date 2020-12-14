@@ -44,6 +44,7 @@ What will this business become?  Why do you exist? How will you change the world
 * Operations Department helps you keep everyrthing running smoothly.  Lawyer, accountants, human resources. 
 * Trust instincts. 
 
+
 # Lesson 3: Build Your Team 
 * Options:  Cofounders, Mentors, Freelancers, First Employees to grow your team. 
 * Balance between time and resources. Doing everything yourself helps you manage your resources, but it can wear you out.  
@@ -63,13 +64,14 @@ What will this business become?  Why do you exist? How will you change the world
 * Reach out to who you know and trust.  Who do they know and trust. Anything else is pretty toxic in the end. 
 * Offer: Sense of purpose and experience. People they can learn from. 
 
+
 # Lesson 4: Get capital for Your Business 
 * Finance.  Important aspect. 
-* Bootstrapping.
-* Debt. 
+* Bootstrapping:  Financing your business using your own personal resources.  Benefits: Freedom, profits, committment. Downsides: Expenses, Connections, Credibility. Need to overcome negative voices. 
+* Debt financing. Any form of loan you can use to help start your business.  You will be paying back over time--principal and interest.  Benefits: Ownership, taxes, lower interest rates for business loans.  There can be lots of options, you likely need an accountant.  Downsides: Repayment.  Unaffordable rates.  Credit rating. If things do not go according to play, this can ruin you. Do your research.  
 * Angel Investors. 
 * Venture Capitalists. 
-* Incubtors.
+* Incubtors. 
 * Acc3elerators. 
 
 
