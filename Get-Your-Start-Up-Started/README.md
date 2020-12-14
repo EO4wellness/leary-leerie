@@ -53,7 +53,12 @@ What will this business become?  Why do you exist? How will you change the world
 * Cofounder qualities: Complimentary skills, passion for the mission, open minded, do you get along? Emotional support?  Diversity?  Attract investors. 
 * Balance between doing things quick and being well rounded 2-3 is the general magic number. 
 * Trial and Error-skipped by having a Mentor. 
-* Freelance (Hourly or Project-based fees) difficult to evaluate their skills and communications can be a problem.  Platforms: Freelancers Fiverr Upwork other sources. 
+* Freelance (Hourly or Project-based fees) difficult to evaluate their skills and communications can be a problem.  Platforms: Elance, Freelancers, Fiverr, Upwork, other sources. 
+* Issues with freelancers:  can over charge, low quality work (not what you are expecting), no communication--unresponsive. 
+* Outsource - same issues, pro and con, as freelancers. 
+* Hires:  How to find them. Hire bar.  Low salary to start but the potential for an amazing long-term result. Greater rewards, but more risk, in working for / with startups. 
+Hire Red Flags: Fire quickly if you took a risk and things aren't working.  To help find the best people--ask them to tell your story.  What is it that works good for you in being here?  Why? How do you see yourself contributing to our overall goal(s) and which (goals) do you see you can help with the most?  The least? 
+Spend more time with the person, to make certain they are a good fit before comitting to going forward with them. 
 
 # Lesson 4: Get capital for Your Business 
 
