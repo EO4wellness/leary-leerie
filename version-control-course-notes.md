@@ -1,6 +1,7 @@
-# Introduction 
+# Course Introduction 
+This course contains all of the information, as well as do-as-i-do video content, to help you get up and running using Git on any device. 
 
-# Notes 
+# Course Notes 
 
 VCS (Version Control System)
 A VCS helps you to keep a detailed history of a project.  
@@ -29,3 +30,14 @@ GIT KEY TERMS
 # Resources 
 * Git Terminology Cheat Sheet ( link ) This one was given along with the course to print out and use as is.  It was aslo recommended to make your own list, as you are learning.
 * Helpful Course Links 
+
+# Lesson 1:  Installing Git
+Instructions and notes about installing Git on your device type. 
+https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md
+
+# Lesson 2:  Using your first Git commands. 
+Instructions and practice using the first 3 commmands you are going to need to use to get started with Git.
+https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md
+
+
+
