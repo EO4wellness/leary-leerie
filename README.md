@@ -14,8 +14,8 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * **ONGOING COURSE CHALLENGE**: add READme markdown files to every repository and project you create (past, present, and future tenses).
 
 # Version Control Course: 
-* [Version Control](https://classroom.udacity.com/courses/ud123)
-* Course Name: Version Control with Git 
+* [Version Control Course Notes](https://github.com/EO4wellness/leary-leerie/blob/master/version-control-course-notes.md)
+* Udacity Course Name: [Version Control with Git]((https://classroom.udacity.com/courses/ud123)
 * Course Instructor: Richard
 * [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
 * [Git](https://git-scm.com/downloads)
