@@ -28,7 +28,12 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * GitHub Gist Documentation 
 * [Gist Notes](https://github.com/EO4wellness/leary-leerie/blob/master/gist.md)
 * Gist Helpful Links 
-* 
+
+# Nutanix Scholarship Hybrid Cloud Engineer
+* [Repository of course Notes & Projects](https://github.com/EO4wellness/T-I-L/tree/main/Nutanix)
+* [Udacity Nanodegree Description](https://blog.udacity.com/2020/10/enrollment-now-open-for-the-hybrid-cloud-engineer-nanodegree-program-from-udacity-nutanix.html)
+* [Scholarship Info](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program)
+* [Free Course](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
 # Known Issues 
 1.  Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown 
