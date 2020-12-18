@@ -24,6 +24,10 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * [ePub](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Git-epub-book.epub)
 * Git Common Terms - [Cheatsheet](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Common-Terms-GIT-cheatsheet.pdf)
 
+# Shell Workshop
+Installing, working with Git Bash, and command line interface terminal to the shell.
+https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
+
 # Gist
 * GitHub Gist Documentation 
 * [Gist Notes](https://github.com/EO4wellness/leary-leerie/blob/master/gist.md)
