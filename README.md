@@ -40,7 +40,8 @@ https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
 * [Free Course](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
 # Known Issues 
-~~1.  Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown ~~
-2.  Need to finish write-up on Version Control Course as time affords me to do so. <br>
-3.  The Version Control course recommends consulting the [SHELL WORKSHOP](https://classroom.udacity.com/courses/ud206) course.  This should be written up here too, for sake of complete record of the studies I've undertaken, as I completed this workshop coursework several years ago. <br>
+1.  Need to finish write-up on Version Control Course as time affords me to do so. <br>
+2.  The Version Control course recommends consulting the [SHELL WORKSHOP](https://classroom.udacity.com/courses/ud206) course.  This should be written up here too, for sake of complete record of the studies I've undertaken, as I completed this workshop coursework several years ago. <br>
+
+~~ Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown ~~
 
