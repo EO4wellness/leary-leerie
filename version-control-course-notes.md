@@ -1,3 +1,9 @@
+# Basic Info:
+These are course notes from the Udacity Course
+* Course Name: Version Control with Git 
+* Course Instructor: Richard
+* Course URL: https://www.udacity.com/course/version-control-with-git--ud123
+
 # Course Introduction 
 This course contains all of the information, as well as do-as-i-do video content, to help you get up and running using Git on any device. 
 
