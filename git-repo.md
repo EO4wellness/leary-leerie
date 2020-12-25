@@ -107,19 +107,75 @@ What if you wanted to rename the file, instead of using the exact clone-copy of 
 * will create a new repo inside the currrent working directory
         
 ## Helpful Links
-[Cloning an Existing Repp](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)
-[git clone docs](https://git-scm.com/docs/git-clone)
-[git clone tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-[zip file] havedn't uploaded this file yet to "link" to it. 
+* [Cloning an Existing Repp](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Cloning-an-Existing-Repository)
+* [git clone docs](https://git-scm.com/docs/git-clone)
+* [git clone tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+* [zip file](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/course-git-blog-project-master.zip)
+
 
 ## Git Status 
 Is a command you can use to check the status of a repo and during this lesson we learn the importance of knowing the status, as well as the importance of checking the status.
 
 In our coursework, we've used the previous commands we've learned to 1) Create an empty repo with the "git init" command. and 2) clone a second repository via the "git clone" command. If we want information about waht Git knows about your two repos, we need to learn and use the "git status" command.  This function is EXTREMELY important and should be practiced/learned. 
 
+Sometimes people think of working with Git as a "[black box](https://en.wikipedia.org/wiki/Black_box)," since the terminal is generally a dark screen within a box-like shaped window on your device.  It can be hard to visualize what Git is or isn't doing, what has or hasn't happened, simply becuase Git is NOT visual.  But that is also why it is more efficient to learn Git!  It isn't visiual. So it doesn't have to waste time generating the visual elements. Before GUI was invented/developed, everything with computers was not visual.  
+
+The command to check the status is "$ git status"
+
+Because this command gives us very practical, useful information, we'll be using it all the time.
+
+The GIT STATUS command displays:
+* the state of your files
+* your working directory
+* the repository.
+
+Common expected outcome example when runnning the "Git Status" command:
+* On Branch Manager
+* Your branch is up-to-date with "origin/master'
+* nothing to commit, working directory clean
+* $
+
+Explaination of above outcome message: 
+* Note: Other outcomes would include communication about push and pull requests.
+* the "On Branch Master" means this is where Git is looking.  It is in the master branch. This is the default branch.
+* "YOur branch is up-to-date with 'origin/master' " inidcates we copied (git clone) the origin location files to the master files. This is evidence of our previous "git clone" command working
+* As noted above, this result could be different in other (future) instances of using git, however, in this use-case study of using Gid the "nothing to commit, working directory clean" statement which is returned is letting us know we don't have any changes or updates which need our attention.  This is as it should be, if you're following along with the course lesson(s).
+* Since in our coursework, we have an empty directory too, we can use "cd" to move to the empty directory "new-git-project" and then once again run the command "git status" in this new, empty directory.  Now the "git status" command returns the following message: 
+
+                On Branch master 
+                No commits yet 
+                nothing to commit (create/copy files and use "git add" to track)
+              
+## Git Log Command 
+When the repo is blank will return:
+
+                # git log 
+                fatal: your current branch 'master' does not have any commits yet
+              
+Here the use of the term "fatal" isn't as scary as it sounds. It just means Git cannot run the command as there isn't anything to run. We haven't put anything in the empty, newly-created, repo.
+ 
+## Git Status Summary:
+
+Use of the "git status" command will display the current status of the current repository. 
+
+                $ git status 
+                
+Be prepared to use this command frequently.  It is really important to expect this, and then to follow thru and do it, too. 
+
+This "git status" command will
+                
+                * tell informatio about new files that have been created in the Working Directory and Git hasn't started tracking yet. 
+                * let you know when files taht Git is tracking have been modified
+                * tell you a lot of other details, we will also be learning about later in the coursework. 
+                
+### Helpful Links
+[Checking the Status of Your Files](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files)
+[Git Status Docs](https://git-scm.com/docs/git-status)
+[Get Status Tutorial](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+
 # Digging Deeper 
 * The [Udacity Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) is available if you need more help, or a refresher on how to use command level. 
 
 2020-12-15 [left off this course at](https://classroom.udacity.com/courses/ud123/lessons/437a88fc-15f5-48b8-a6a5-0cf3347e6183/concepts/fa8f761a-d0a2-4be1-a5b9-60116ea4ecd1)resume here next study session
 
-2020-12-25 Reuming studies thru and until I left off with [Lesson 2.4 Determine a Repos Status](https://classroom.udacity.com/courses/ud123/lessons/437a88fc-15f5-48b8-a6a5-0cf3347e6183/concepts/ce648229-7d6c-4ad3-805e-af6a77f38fd0)
+2020-12-25 Reuming studies thru and until I left off with [Lesson 2.4 Determine a Repos Status](https://classroom.udacity.com/courses/ud123/lessons/437a88fc-15f5-48b8-a6a5-0cf3347e6183/concepts/ce648229-7d6c-4ad3-805e-af6a77f38fd0); second study session today - finalized lesson 2--moving on to lesson 3. 
