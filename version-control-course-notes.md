@@ -46,4 +46,4 @@ Instructions and practice using the first 3 commmands you are going to need to u
 https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md
 
 # Lesson 3: Review a Repo's History 
-Instructions and nots about how to review an existing Git repository's history of commits to begin to see the importance of version control in action. 
+Instructions and nots about how to review an existing Git repository's history of commits to begin to see the importance of version control in action. https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md
