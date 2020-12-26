@@ -176,6 +176,11 @@ This "git status" command will
 # Digging Deeper 
 * The [Udacity Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206) is available if you need more help, or a refresher on how to use command level. 
 
+### Lesson 2 Study Sessions: 
 2020-12-15 [left off this course at](https://classroom.udacity.com/courses/ud123/lessons/437a88fc-15f5-48b8-a6a5-0cf3347e6183/concepts/fa8f761a-d0a2-4be1-a5b9-60116ea4ecd1)resume here next study session
 
-2020-12-25 Reuming studies thru and until I left off with [Lesson 2.4 Determine a Repos Status](https://classroom.udacity.com/courses/ud123/lessons/437a88fc-15f5-48b8-a6a5-0cf3347e6183/concepts/ce648229-7d6c-4ad3-805e-af6a77f38fd0); second study session today - finalized lesson 2--moving on to lesson 3. 
+2020-12-25 Reuming studies thru and until I left off with [Lesson 2.4 Determine a Repos Status](https://classroom.udacity.com/courses/ud123/lessons/437a88fc-15f5-48b8-a6a5-0cf3347e6183/concepts/ce648229-7d6c-4ad3-805e-af6a77f38fd0); second study session today - finalized lesson 2--moving on to lesson 3.
+
+# Just for FUN
+Learning cannot be all serious (thought it is serious too) and no fun.  While doing the "recap" or "summary" portion of lesson 2, watching the video, I wanted to take a quick screenshot of the summary slide.  I did so.  If you have ever swiped to take a screenshot before, you pretty much know you aren't always 100% in control of the exact moment which gets captured in the screenshot of the video (unless you take the time, and extra step, to pause playback first before doing the screenshot).  Here is the FUNNY TIMING screenshot with the summary of all of the commands learned in lesson 2.  Now isn't that face meme-able!  Wonder what everyone would make the meme say if they attempted to make a good caption joke to this image. 
+![fun-timing](https://github.com/EO4wellness/leary-leerie/blob/master/images/2020-12-25-funny-timing.jpg) 
