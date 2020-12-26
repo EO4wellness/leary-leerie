@@ -15,7 +15,7 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 
 # Version Control Course: 
 * Version Control Course Notes: [Overview](https://github.com/EO4wellness/leary-leerie/blob/master/version-control-course-notes.md), [Lesson 1-Install Git](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md), [Lesson 2-First Commands](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md), [Lesson 3-Repo History](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md), . . .
-* Udacity Course Name: [Version Control with Git]((https://classroom.udacity.com/courses/ud123)
+* Udacity Course Name: [Version Control with Git](https://classroom.udacity.com/courses/ud123)
 * Course Instructor: Richard
 * [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
 * [Git](https://git-scm.com/downloads)
