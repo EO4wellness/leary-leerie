@@ -1,7 +1,7 @@
 # Intro
 <br>
 Course Instructor:
-![Trinh](https://video.udacity-data.com/topher/2018/March/5a98b6d6_trinh-n-600x600/trinh-n-600x600.png)
+![Trinh](https://github.com/EO4wellness/leary-leerie/blob/master/images/favorite-udacity-instructor-trinh-n-600x600.png)
 <br>
 Trinh Nguyen, Careers Program Manager - whose fabulous energy and passion to teach/help people really shines through! <br>
 Course URL: https://www.udacity.com/course/refresh-your-resume--ud243 <br>
