@@ -39,7 +39,7 @@ https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
 * [Scholarship Info](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program)
 * [Free Course](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
-# Udacity Career Services 
+# [Udacity Career Services](https://github.com/EO4wellness/leary-leerie/tree/master/career-coaches)
 * Free Course: [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243) taught by Trinh Nguyen who is amazing! My Course Notes-UPdates.
 * Cover Letter:
 * Interviews: 
