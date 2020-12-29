@@ -9,4 +9,4 @@ Fabulous service which comes with the Nanodegree program(s) or can be added on. 
 
 ### Other Career Services
 * One-on-One Coaching. Consulted with: [Brett Ellis](https://github.com/EO4wellness/leary-leerie/blob/master/images/udacity-brett-ellis.png), and Andrea 
-* Interview prep.
+* Interview prep. (Various online practice sessions, as well as student practice sessions) 
