@@ -39,6 +39,11 @@ https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
 * [Scholarship Info](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program)
 * [Free Course](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
+# [Udacity Career Services](https://github.com/EO4wellness/leary-leerie/tree/master/career-coaches)
+* Free Course: [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243) taught by Trinh Nguyen who is amazing! My Course Notes-UPdates.
+* Cover Letter:
+* Interviews: 
+
 # Known Issues 
 1.  Need to finish write-up on Version Control Course as time affords me to do so. <br>
 2.  The Version Control course recommends consulting the [SHELL WORKSHOP](https://classroom.udacity.com/courses/ud206) course.  This should be written up here too, for sake of complete record of the studies I've undertaken, as I completed this workshop coursework several years ago. <br>
