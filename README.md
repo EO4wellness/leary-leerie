@@ -51,4 +51,5 @@ https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
 4. Add folder structures. Clean up links. 
 
 [x]~~Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown ~~
+[ ] Need to learn about Git Ignore files. saw a link to that in the Git book, as well as it is a repo of usefult templates to cut-n-paste the git ignore fileshttps://github.com/github/gitignore for furture study/reference 
 
