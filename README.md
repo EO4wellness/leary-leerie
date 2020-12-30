@@ -47,6 +47,9 @@ https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
 # Known Issues 
 1.  Need to finish write-up on Version Control Course as time affords me to do so. <br>
 2.  The Version Control course recommends consulting the [SHELL WORKSHOP](https://classroom.udacity.com/courses/ud206) course.  This should be written up here too, for sake of complete record of the studies I've undertaken, as I completed this workshop coursework several years ago. <br>
+3. Clean up file structure/organization to make it easier to follow. 
+4. Add folder structures. Clean up links. 
 
 [x]~~Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown ~~
+[ ] Need to learn about Git Ignore files. saw a link to that in the Git book, as well as it is a repo of usefult templates to cut-n-paste the git ignore fileshttps://github.com/github/gitignore for furture study/reference 
 
