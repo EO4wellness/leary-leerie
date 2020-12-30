@@ -123,8 +123,56 @@ If you're not used to a pager on the command line, navigating in Less can be a b
 
 
 ## Changing How Git Log Displays Information 
+Look at the output from runnnig the "git log" command in your terminal. 
+                    
+                    the SHA - git log displays the complete SHA for every commit. Each SHA is unique (so we don't need to see the entire SHA). Usually we can see the distinctions just by viewing the first 6-8 characters of each SHA. 
+                    the author - git log displays the commit author for each commit. 
+                    the date - git log displays the date for each commit. While this may become important, it generally isn't necessary to know it on a day-to-day basis when all things are progressing normally. 
+                    the commit message - one of the most important parts of a commit. when looking at a log, generally speaking, this is the reason we are looking.  we want to know this information. 
+                    
+                    use a flag to narrow the log to the things which are important to view. NOTE: a flag is used to alter the way a program functions. 
+                    ls will list all of the files in the current directory
+                    ls command has a - l flag
+                    recommended digging deeper resource: [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+                
+### git log --oneline 
+The "git log" command has a flag that can be used to alert how it displays the repo info.  The flag is "--oneline"
+
+                              $ git log -- oneline 
+                              
+                              
+![screen-shot-course-example](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/version-control-screenshot.png)
+
+Quiz: 
+* Q: You're deep in the weeds of the git log --oneline command and want to get out of the git log --oneline output and return to the regular command prompt. What do you press on the keyboard to return to the regular command prompt?
+* A: "The Q Key. That's it! Remember, the q key gets out of the git log view. We're still using git log but are just passing a flag to change how the information is displayed. So the q key still works and returns the terminal to the command prompt.
+
+### Common Error 
+When using the --oneline flag, it is very common for people to typo and type "online" instead of "oneline" which produces the error message: "fatal: unrecognized argument: --online" This is VERY easy to misread/overlook.  Spell and read the code closely--typos are all too common.  
+
+### git log --oneline Recap
+* To recap, the --oneline flag is used to alter how git log displays information:
+                    $ git log --oneline
+This command:
+
+    * lists one commit per line
+    * shows the first 7 characters of the commit's SHA
+    * shows the commit's message
+
 
 ## Viewing Modified Files 
+The "--oneline" flag is great if we want to show just one commit per line, but what if we need more information? 
+
+### QUIZ: 
+Q: Search the log for commit SHA " " and find its message "Center content on page." What file or files were changed with this commit? 
+A: There is no way to know for certain as it isn't recorded in the commit comment its self. From the log alone, we cannot tell. We'd need to open the files and compare them. This is one reason why a good, descriptive commit message is so important. But even with the commit message, we still don't know for sure what file or files were modified in this commit.
+
+### git log --stat Intro
+The "git log" commmand has a flag that can be used to display the files that have been changed in the commit.  This flag is the "--stats" flag.  Stat is short for statistics (not immeidately as it is in medical terms). 
+                    $ git log --stat
+                    
+### Using what we've learned, and the course repo, find the SHA "6f04ddd" and answer how many files were modified in the commit? 
+A: 
 
 ## Viewing File Changes 
 
