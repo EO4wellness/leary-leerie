@@ -4,14 +4,7 @@
 This repo was made to follow along with these basic courses outlined below.<br>
 
 # Writing READMEs Course:
-![Course Completion](https://github.com/EO4wellness/leary-leerie/blob/master/images/Writing-READMEs.png)
-My very first "Git Push"  showing completion of the [Writing READMEs Udacity Course](https://classroom.udacity.com/courses/ud777)
-
-* [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
-* [Course Assignment](https://github.com/EO4wellness/leary-leerie/blob/master/lesson-exercise-original.html) 
-* [My Assingment Answer](https://github.com/EO4wellness/leary-leerie/blob/master/lesson-exercise-my-md-file.md) 
-* [My Course Notes](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md)
-* **ONGOING COURSE CHALLENGE**: add READme markdown files to every repository and project you create (past, present, and future tenses).
+Read more about my learning "readme" journey in it's [README course folder](https://github.com/EO4wellness/leary-leerie/tree/master/course-on-writing-readme-files)
 
 # Version Control Course: 
 * Version Control Course Notes: [Overview](https://github.com/EO4wellness/leary-leerie/blob/master/version-control-course-notes.md), [Lesson 1-Install Git](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md), [Lesson 2-First Commands](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md), [Lesson 3-Repo History](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md), . . .
