@@ -6,15 +6,7 @@ This repo was made to follow along with these basic courses outlined below.<br>
 2020-12-08: Every thing has its very beginning.  And this is my very beginning on Github, learning to use Git, and various courses. I began this account in order to follow some older courses I didn't follow through with much until recently.  My GitHub account was thusly created in 2019, but I only recently started using it more often (end of 2020 and onward). Because there was so much of a gap inbetween my early learning days, and now, I still used this original repo I created using Git Commands, but I restudied the lessons involved in its original creation.  The order I studied is presented here, beginning with the very first course on what a README file is, how you use it, what it looks like, where it goes, and the best practices to follow in creating one (or dozens). Read more about my learning "readme" journey in it's [README course folder](https://github.com/EO4wellness/leary-leerie/tree/master/course-on-writing-readme-files)
 
 # Version Control Course: 
-* Version Control Course Notes: [Overview](https://github.com/EO4wellness/leary-leerie/blob/master/version-control-course-notes.md), [Lesson 1-Install Git](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md), [Lesson 2-First Commands](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md), [Lesson 3-Repo History](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md), . . .
-* Udacity Course Name: [Version Control with Git](https://classroom.udacity.com/courses/ud123)
-* Course Instructor: Richard
-* [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
-* [Git](https://git-scm.com/downloads)
-* Git eBook [pnline](https://git-scm.com/book/en/v2)
-* [PDF](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Git-Book-Documentation.pdf)|
-* [ePub](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Git-epub-book.epub)
-* Git Common Terms - [Cheatsheet](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Common-Terms-GIT-cheatsheet.pdf)
+After learning about how to write a proper README.MD file, the next recommended course within Udacity is the Version Control Course.  I began studying the version Control course in December, 2020, and took a break to study more about the additional recommended courses such as the shell Workship, see note below, and Linux workshop, see below, and will continue to study the version control course through to completion too. 
 
 # Shell Workshop
 Installing, working with Git Bash, and command line interface terminal to the shell.
