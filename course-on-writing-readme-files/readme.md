@@ -5,5 +5,6 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 * [Course Links](https://github.com/EO4wellness/leary-leerie/blob/master/course-links.md)
 * [Course Assignment](https://github.com/EO4wellness/leary-leerie/blob/master/lesson-exercise-original.html) 
 * [My Assingment Answer](https://github.com/EO4wellness/leary-leerie/blob/master/lesson-exercise-my-md-file.md) 
-* [My Course Notes](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md)
+* [My Course Notes](https://github.com/EO4wellness/leary-leerie/blob/master/course-on-writing-readme-files/course-notes.md)
 * **ONGOING COURSE CHALLENGE**: add READme markdown files to every repository and project you create (past, present, and future tenses).
+This course challenge is ongoing! 
