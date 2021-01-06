@@ -10,3 +10,4 @@ My very first "Git Push"  showing completion of the [Writing READMEs Udacity Cou
 ## COURSE CHALLENGE: 
 * Add READme markdown files to every repository and project you create (past, present, and future tenses).
 * This course challenge is ongoing! 
+* You can veiw my progress by consulting my most recent committs 
