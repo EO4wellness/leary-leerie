@@ -12,6 +12,9 @@ After learning about how to write a proper README.MD file, the next recommended 
 Installing, working with Git Bash, and command line interface terminal to the shell.
 https://github.com/EO4wellness/leary-leerie/blob/master/shell-workshop.md
 
+# Linux Commands
+* https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923
+
 # Gist
 * GitHub Gist Documentation 
 * [Gist Notes](https://github.com/EO4wellness/leary-leerie/blob/master/gist.md)
