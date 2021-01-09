@@ -9,7 +9,7 @@
 * [Lesson 1-Install Git](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md)
 * [Lesson 2-First Commands](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md)
 * [Lesson 3-Repo History](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md)
-* [Lesson 4-Add Commits to a Repo]()
+* [Lesson 4-Add Commits to a Repo](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/add-commits.md)
 * more coming as I complete them. . . 
 
 
