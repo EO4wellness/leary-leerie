@@ -171,14 +171,130 @@ A: There is no way to know for certain as it isn't recorded in the commit commen
 The "git log" commmand has a flag that can be used to display the files that have been changed in the commit.  This flag is the "--stats" flag.  Stat is short for statistics (not immeidately as it is in medical terms). 
                     $ git log --stat
                     
+ 
+                    
 ### Using what we've learned, and the course repo, find the SHA "6f04ddd" and answer how many files were modified in the commit? 
-A: 
+A: 2 Files. 
+
+### You did so well with the first one, so here's another! How many files were modified in the commit with the SHA 8d3ea36?
+A: 2 Files. 
+
+### Now it's time to look at the other info the --stat flag displays. How many lines of code were deleted in index.html in the commit with the SHA 8d3ea36?
+A: 4 lines. 
+
+## 'git log --stat Recap 
+* To recap the "- - stat" flag is used to alter how "git log" displays information. 
+                              $ git log - - stat
+                              -displays the files that have been modified
+                              -displays the number of lines which have been added and/or removed
+                              -displays a summary line with the total number of modified files and lines that have been added and/or removed
+                              
 
 ## Viewing File Changes 
+* "git-log' shows us the commits in the repo. 
+* if we add "--stat" flag, we can see what files were motidied and how many lines of code were added or removed. 
+* next, is the best part of the version control system 
+
+### "git log -p
+* The "git log' command has a flag that can be used to display the actual changes made to the file. 
+* when you run this command, you will see the results say "diff" 
+* diff is the same as patch--it is the difference between the first file and the new file. 
+* a green + indicates something which was added
+* a red - indicates something which was deleted
+* git sees formating or editing as a delition of the old (error) and then an addition of the correction (edit) 
+* this flag is "--patch" which can be shortened to just "-p"
+
+                    $ git log -p
+                    
+ ### Annotated git log -p output 
+![course-example-image](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/ud123-l3-git-log-p-lines-removed-annotated.png)
+
+    🔵 - the file that is being displayed
+    🔶 - the hash of the first version of the file and the hash of the second version of the file
+        not usually important, so it's safe to ignore
+    ❤️ - the old version and current version of the file
+    🔍 - the lines where the file is added and how many lines there are
+        -15,83 indicates that the old version (represented by the -) started at line 15 and that the file had 83 lines
+        +15,85 indicates that the current version (represented by the +) starts at line 15 and that there are now 85 lines...these 85 lines are shown in the patch below
+    ✏️ - the actual changes made in the commit
+        lines that are red and start with a minus (-) were in the original version of the file but have been removed by the commit
+        lines that are green and start with a plus (+) are new lines that have been added in the commit
+
+### Further Research 
+Gererating Patches with -p from the git docs
+Using what you've learned so far about git log's -p flag, look at the commit with the SHA 50d835d. What line number in app.css should you start looking at to see what has been changed? Tip - don't forget that while looking at the git log output, the d key will scroll down by half a page while the u key will scroll _up_ half a page. A: 127
+
+Using git log and any of its flags, what code was added in by commit 4a60beb? A: color: #2e3d49; 
+
+git log --stat and git log -p are both really helpful commands. Wouldn't it be great if we could have both of their output at the same time? Hmmm… What happens when git log -p --stat is run?  A: It displays both with the stats info above the patch info. That's right; you can combine flags! git log -p --stat will display the stats info above the patch info. Actually, the order doesn't matter; git log --stat -p will also show the stats info above the patch info. 
+
+In the video above, we looked at a commit that indents a lot of code. The patch output shows all of those lines as having been removed and then added again at their new level of indentation. Showing all of the indent changes makes it hard to tell what was actually added, though.What does the -w flag do to the patch information? For help, check this Git docs page.  A: it ignores whitespace changes 
+
+### git log -p recap
+Flags:  -p --patch 
+displays files which have been modified.
+displays the location of the lines which has been added or removed 
+displays the actual changes that have been made. 
+
 
 ## Viewing A Specific Commit 
+Too Much Scrolling
+
+The last few quizzes in the previous section had you scrolling and scrolling through the patch output just to get to the right commit so you could see its info. Wouldn't it be super handy if you could just display a specific commit's details without worrying about all of the others in the repo?
+
+There are actually two ways to do this!
+
+    providing the SHA of the commit you want to see to git log
+    use a new command git show
+
+They're both pretty simple, but let's look at the git log way and then we'll look at git show.
+
+You already know how to "log" information with:
+
+    git log
+    git log --oneline
+    git log --stat
+    git log -p
+
+But did you know, you can supply the SHA of a commit as the final argument for all of these commands? For example:
+
+$ git log -p fdf5493
+
+By supplying a SHA, the git log -p command will start at that commit! No need to scroll through everything! Keep in mind that it will also show all of the commits that were made prior to the supplied SHA.
+New Command: git show
+
+The other command that shows a specific commit is git show:
+
+$ git show
+
+Running it like the example above will only display the most recent commit. Typically, a SHA is provided as a final argument:
+
+$ git show fdf5493
+
+What does git show do?
+
+The git show command will show only one commit. So don't get alarmed when you can't find any other commits - it only shows one. The output of the git show command is exactly the same as the git log -p command. So by default, git show displays:
+
+    the commit
+    the author
+    the date
+    the commit message
+    the patch information
+
+However, git show can be combined with most of the other flags we've looked at:
+
+    --stat - to show the how many files were changed and the number of lines that were added/removed
+    -p or --patch - this the default, but if --stat is used, the patch won't display, so pass -p to add it again
+    -w - to ignore changes to whitespace
+
+Q: How many rulesets are added to the CSS by commit 8d3ea36? A: 2
+Q: There's a commit with the message "Convert social links from text to images". How many files were changed by this commit? A: 5 files. 
+Q: Look at commit fdf5493. What's the first HTML heading element that's added by this commit? A: an <h2>
+
 
 ##  Lesson 3 Summary 
+It is useful, when you are first starting out, to check how things are working so you understand it, as well as helping if you get confused/lost or suffer an "opps" moment (everyone does when they start out). 
 
 ## Study session notes.
 * 2020-12-25 Created notes outline and linked to it. 
+* 2021-01-08 Finished lesson. 
