@@ -112,10 +112,91 @@ Switch back to the terminal.
     Be aware that you can't provide a description for the commit, only the message part.
     
     
-    
+## What to Include in a Commit
+* How do you know WHEN to do a commit?  
+* What do you include in a commit? 
+* The GOAL is that each commit has a single focus. 
+* Each commit should record a SINGLE unit of CHANGE. 
+* It is subjective. 
+* Each commit should make a change to just one aspect of the project. This takes practice. 
+* there is no LIMIT to the number of lines or of code changed. 
+* added/removed/modified are all different changes. 
+* Example:
+        
+            Say for example you are changing a side bar.
+            Normally, you'd want to make a commit when:
+                - you add a new image to the project files.
+                - you alter any of the HTML
+                - add or modify CSS to incorporate the new image 
+            Yes, a committ which records ALL of these changes 
+            (vs. 2-4 commits for each element of it) would be equally fine.
+            
+            However the same commit shouldn't contain changes on two different elements 
+            for example- change in side bar image and rewording of page content 
+            in that example, each change should be a seperate commit 
+            
+* Excellent commit test is to think: what would happen if everyting in this commit was erased by accident? If a commit were erased, it should idealy only remove one thing (not a lot of work to replace.) 
+* as a side note, in an upcomming lesson, we learn how to "undo" so don't worry--this is just a way of thinking about what is and what is not a new commit (or should be). 
 
+## Git Committ Recap 
+* The Git Commit command takes the files from the staging inex and saves them in the repo. 
+        $ git commit 
+* commit is spelled with ONE T not two.
+* the git commit command will open the code editor that is specified in my config 
+* inside the code editor:
+        a commit message must be supplied
+        lines that start with a "#" are comments and will not be recorded
+        save the file after adding a commmit message 
+        close the editor to make the commit
+        then use 'git log' to review the commit you just made
+        verify everything or correct any mistakes 
+
+## Suggested Further Reading 
+[Associating text editors with Git from GitHub Help Docs](https://docs.github.com/en/free-pro-team@latest/github/using-git/associating-text-editors-with-git)<br>
+[Getting Started - First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) from Git book<br>
  
 4. Commit Messages 
+How do I write a good commit message? And why should I care?
+* Keep the message short (less than 60ish characters)
+* do explain what the commit does
+* do not explain how it does it
+* do not explain why it does it 
+* do not use the word "and" 
+* note the use of "and" indicates it should be TWO commits 
+  such as the example: 
+   commit message: change bg color AND increase sidebar size
+* Finish this phrase with your commit message: "This commit will..." 
+
+
+## Commit Quiz
+1.  Q: Reviewing the guidelines on what makes a good commit message, is the following commit message good?
+"Update the footer to copyright information"
+    A: Yes. "Great job! This commit is short. It explains what was changed but doesn't explain how it was changed or why."
+
+
+2. Is the following a good commit message?
+"Add a
+tag to the body"
+    A: No. "The commit message should not contain specifics on how the change was made. This information can be found by running git log -p."
+    
+    
+3. Is the following a good commit message?
+"Add changes to app.js"
+    A: No. "That's right! Make sure to explain what was changed. Don't just state that changes were made or where they were made."
+
+## Explain the Why
+
+If you need to explain why a commit needs to be made, you can!
+
+When you're writing the commit message, the first line is the message itself. After the message, leave a blank line, and then type out the body or explanation including details about why the commit is needed (e.g. URL links).
+
+This details section of a commit message _is_ included in the git log. To see a commit message with a body, check out the Blog project repo and look at commit 8a11b3f.
+
+## Commit Style Requirements
+* each group or place you work with are likely to have their own unique requirements/commit styles
+* Udacity Commit Style Guide: https://udacity.github.io/git-styleguide/ 
+* 50/72 Rule: https://preslav.me/2015/02/21/what-s-with-the-50-72-rule/ 
+* How to Write a Git Committ Message: https://chris.beams.io/posts/git-commit/ 
 
 5. Git Diff 
 
