@@ -199,6 +199,22 @@ This details section of a commit message _is_ included in the git log. To see a 
 * How to Write a Git Committ Message: https://chris.beams.io/posts/git-commit/ 
 
 5. Git Diff 
+* We've seen a bit of this, already, while looking at the previous lesson--it shows up in the History. 
+* If you are working, get interupted and come back to your project, which you haven't finished then what?
+* If you use "git status" it will tell you which files have been changed, and how recently they have been changed, but it won't show the actual changes. 
+* get diff is the command which does show the actual changes. 
+* get diff can be used to see changes that have been made but haven't been committed yet. 
+
+        $ git diff
+        
+### RECAP: 
+* the git diff command allows us to see changes that have been made but haven't been committed yet. 
+* the command displays files that have been modified
+* the location of the lines that have been added and/or removed 
+* the actual changes which have been made
+
+### More Info:
+* Look at the [git diff documentation](https://git-scm.com/docs/git-diff) from the from the Git Docs
 
 6. Having Git Ignore Files 
 
