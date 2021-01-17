@@ -280,6 +280,9 @@ Further Research
 
 
 7. Outro-Lesson 4 Recap
+a quick review of all of the above 
 
 ### Session Notes:
 * Set this lesson up 2021-01-08
+* I finished this lesson on 2021-01-16 
+
