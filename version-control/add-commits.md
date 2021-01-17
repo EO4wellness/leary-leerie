@@ -217,6 +217,67 @@ This details section of a commit message _is_ included in the git log. To see a 
 * Look at the [git diff documentation](https://git-scm.com/docs/git-diff) from the from the Git Docs
 
 6. Having Git Ignore Files 
+During the "git add" section, we learned a period (.) is a special character which inidcate the current director and all of its subdirectories
+
+When using the "period." to include all files, you can not add one or more file(s) (filetypes) 
+
+When you list your files, if you have a few you don't want in the repo, use .gitignore 
+
+.gitignore will keep a file in the file structure directory, but make certain it isn't committed to the project. 
+
+
+Globbing Crash Course
+
+Let's say that you add 50 images to your project, but want Git to ignore all of them. Does this mean you have to list each and every filename in the .gitignore file? Oh gosh no, that would be crazy! Instead, you can use a concept called globbing.
+
+Globbing lets you use special characters to match patterns/characters. In the .gitignore file, you can use the following:
+
+    blank lines can be used for spacing
+    # - marks line as a comment
+    * - matches 0 or more characters
+    ? - matches 1 character
+    [abc] - matches a, b, _or_ c
+    ** - matches nested directories - a/**/z matches
+        a/z
+        a/b/z
+        a/b/c/z
+
+So if all of the 50 images are JPEG images in the "samples" folder, we could add the following line to .gitignore to have Git ignore all 50 images.
+
+[WikiPedia GLOB (programming)](https://en.wikipedia.org/wiki/Glob_(programming))
+
+QUIZ:
+Which of the following files will be ignored if *.png is entered into the .gitignore file?
+
+        ocean.jpg
+        [trees.png]
+        png-format.pdf
+        not-a-png.jpeg
+        [bg-pattern.png]
+        logo.gif
+        [LOUDFILE.PNG]
+        
+That's right! Adding *.png will cause Git to ignore all PNG images.       
+
+If you ask GIT to ingore "be?rs" which of the following files will be ignored?
+
+        [bears] 
+        beavers 
+        BeArS
+        [beers]
+        boars 
+
+Git Ignore Recap
+
+To recap, the .gitignore file is used to tell Git about the files that Git should not track. This file should be placed in the same directory that the .git directory is in.
+Further Research
+
+    [Ignoring files from the Git Book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files)
+    [gitignore from the Git Docs](https://git-scm.com/docs/gitignore#_pattern_format)
+    [Ignoring files from the GitHub Docs](https://docs.github.com/en/github/using-git/ignoring-files)
+    [gitignore.io](https://www.toptal.com/developers/gitignore)
+
+
 
 7. Outro-Lesson 4 Recap
 
