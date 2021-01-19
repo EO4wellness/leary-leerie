@@ -335,7 +335,17 @@ Further Research
 
 
 ## Branching Effectively:
+after verifying the repo is set up correctly, the coursework offers suggests to work through the process of creating a new branch and then switching back and forth between them to offer practice and also to help visualize all of the concepts studied thus far. 
 
+there are some quiz questions about this--such as, after having created a new branch, and adding some changes to the CSS file in the new branch, why it isn't showing up in the master branch--that original file is empty.  this is because of the branching.  the original file was empty.  the modification was in a new brnach. 
+
+next question is about the commands, which one shows what changes have been saved but not yet committed.  the answer is git diff 
+
+Command to see all of the changes at once
+
+      $ git log --oneline --decorate --graph --all
+      
+ 
 ## Merging:
 
 ## Merge Conflicts 
