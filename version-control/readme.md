@@ -22,3 +22,6 @@
 * Git eBook Documentation [ePub](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Git-epub-book.epub)
 * Git Common Terms - [Cheatsheet](https://github.com/EO4wellness/leary-leerie/blob/master/resources-downloads/Common-Terms-GIT-cheatsheet.pdf)
 
+
+## Course Completion: 
+![2021-01-20](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/2021-01-20-Completed-udacity-coursework-Version-Control-GIT.png)
