@@ -38,8 +38,8 @@ https://github.com/EO4wellness/leary-leerie/blob/master/Shell/shell-workshop.md
 * Linux Commands
 * https://classroom.udacity.com/courses/ud595/lessons/4597278561/concepts/46968695970923 
 
-
-[x]~~Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown ~~
-[x] Need to learn about Git Ignore files. saw a link to that in the Git book, as well as it is a repo of usefult templates to cut-n-paste the git ignore files https://github.com/github/gitignore for furture study/reference 
+### RESOLVED 
+~~Need to fix the [SYNTAX section](https://github.com/EO4wellness/leary-leerie/blob/master/READme-course-notes.md) now that I know how to write CODE blocks distinct from regular markdown ~~
+~~Need to learn about Git Ignore files. saw a link to that in the Git book, as well as it is a repo of usefult templates to cut-n-paste the git ignore files https://github.com/github/gitignore for furture study/reference 
 [x] 1.  Need to finish write-up on Version Control Course as time affords me to do so. <br>
-[x] 3. Clean up file structure/organization to make it easier to follow. and 4. Add folder structures. Clean up links.   (realized, doing this changes links and other things--so this is something i need to pre-plan into my file structure.  my thoughts on this are evolving and developing but basically i see a need for a FOLDER --> with README.md (with navigation links to other resources and references) with a folder for IMAGES  RESOURCES CODE and perhaps other items as needed per project.  However, when I first started this Git repo, I hadn't realize that yet. 
+[x] 3. Clean up file structure/organization to make it easier to follow. and 4. Add folder structures. Clean up links.   (realized, doing this changes links and other things--so this is something i need to pre-plan into my file structure.  my thoughts on this are evolving and developing but basically i see a need for a FOLDER --> with README.md (with navigation links to other resources and references) with a folder for IMAGES  RESOURCES CODE and perhaps other items as needed per project.  However, when I first started this Git repo, I hadn't realize that yet. ~~
