@@ -298,3 +298,8 @@ It is useful, when you are first starting out, to check how things are working s
 ## Study session notes.
 * 2020-12-25 Created notes outline and linked to it. 
 * 2021-01-08 Finished lesson. 
+
+
+Nav:
+[Readme](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/readme.md) | [Overview](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/version-control-course-notes.md) | [Install](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md) | [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md) | [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md) | [Lesson 4](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/add-commits.md) | [Lesson 5](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/tag-branch-merge.md) | [Lesson 6](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/Undo-Changes.md)
+
