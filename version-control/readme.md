@@ -11,7 +11,7 @@
 * [Lesson 3-Repo History](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md)
 * [Lesson 4-Add Commits to a Repo](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/add-commits.md)
 * [Lesson 5-Tagging, Branching, and Merging](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/tag-branch-merge.md)
-* Lesson 6-Undoing Changes
+* [Lesson 6-Undoing Changes](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/Undo-Changes.md)
 
 
 ## Course Resources: 
