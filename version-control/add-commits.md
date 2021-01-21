@@ -286,3 +286,5 @@ a quick review of all of the above
 * Set this lesson up 2021-01-08
 * I finished this lesson on 2021-01-16 
 
+Nav:
+[Readme](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/readme.md) | [Overview](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/version-control-course-notes.md) | [Install](https://github.com/EO4wellness/leary-leerie/blob/master/git-install-notes.md) | [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/git-repo.md) | [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/git-history.md) | [Lesson 4](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/add-commits.md) | [Lesson 5](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/tag-branch-merge.md) | [Lesson 6](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/Undo-Changes.md)
