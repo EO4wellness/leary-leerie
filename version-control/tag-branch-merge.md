@@ -347,10 +347,153 @@ Command to see all of the changes at once
       
  
 ## Merging:
+* Likely, it goes without saying, it is VERY important to know which branch you are on before merging. But it so important it needs to be stressed. 
+* When you make a merge, you are making a commit. 
+* We will learn more about undoing mistakes, but for now, we need to know the command to undo is 
+
+            $ git reset --hard HEAD^
+
+
+### Merge Command
+* GIT MERG is used to combine Git branches 
+
+      $ git merge <name-of-branch-to-merge-in>
+      
+      
+* When a merge happens, Git will:
+
+         look at the branches that it's going to merge
+         look back along the branch's history to find a single commit that both branches have in their commit history
+         combine the lines of code that were changed on the separate branches together
+         makes a commit to record the merge
+         
+* when we merge, we are starting on a BRANCH (specific, such as the master branch).  then we merge into the branch another branch. 
+* in names if we are viewing the MASTEr branch and have a FOOTER branch which is ready, we can merge FOOTER into MASTER so the two become one. 
+
+            Example:
+            
+            We are in the MASTER branch 
+            
+            $ git merge footer 
+            
+            the result is the footer branch is now merged into the master branch 
+            
+### Quiz: 
+Take a look at the repoistory, again.  Now that you've merge the two pranches together, do the master branch and the footer branchpoint to the same commit? A: Yes. 
+
+
+
+* It is common practice to use the degault merge commit message, but you can change it if you want to or have a need to do so. 
+
+
+
+### Quiz: 
+A repo has 4 branches:
+* master 
+* alisons-mobile-footer-fix
+* nav-updates
+* jonathans-seo-changes 
+
+
+
+The changes on master and allisons-mobile-footer-fix need to be merged together. If HEAD points to allisons-mobile-footer-fix, which branch will move when the merge is performed?
+
+
+A: allisons-mobile-footer-fix
+That's right! Whichever branch the special HEAD pointer is pointing at, that's the branch that will have the merge commit.
+
+
+### What if a Merge fails? 
+*Git can combine lots of different work, most of the time.  However, sometimes it cannot merge the branches together. 
+* In such a scenario, if a merge is performed, it fails. 
+* This is known as a MERGE CONFLICT. 
+
+
+### Merge Recap
+
+* To recap, the git merge command is used to combine branches in Git:
+
+            $ git merge <other-branch>
+
+There are two types of merges:
+
+    * Fast-forward merge – the branch being merged in must be ahead of the checked out branch. The checked out branch's pointer will just be moved forward to point to the same commit as the other branch.
+    * the regular type of merge
+            * two divergent branches are combined
+            * a merge commit is created
+
+### Further Research
+
+    [Basic Merging from Git Book](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merging)
+    [git-merge from Git Docs](https://git-scm.com/docs/git-merge)
+    [git merge from Atlassian blog](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
+
+
+
 
 ## Merge Conflicts 
+* Sometimes Merges fail.  
+* When a merge fails, it is called a merge conflict. 
+* When a merge conflict occurs, Git will try to combine as much as it can. 
+* It will also leave special margers >>> and <<< to tell you where it needs to be manually fixed. 
+
+
+### Causes of Merge Conflicts 
+* Git tracks LINES in files
+* Merge Conflict occurs when the exact same lines are changed in separate branches. 
+* For example, in one branch the title was changed to "About Me" but in another branch that same title was changed to "Information About Me" git doesn't know which to prefer so it marks it so you can pick between the two which change to incorporate. 
+* The best way to illustrate this is to intetnionally cause a merge conflict. (but in real life they rarely happen this way) 
+
+            Example:
+            Change the heading on both the MASTER and another "heading-update" branch 
+            Navigate to the Master branch 
+            enter the command 
+            
+            $ git merge heading-update 
+            
+            RESULT OUTPUT:
+            
+            $ git merge heading-update 
+            Auto-merging index.html
+            CONFLICT (content): Merge conflict in index.html
+            Automatic merge failed; fix conflicts and then commit the result.
+            
+            git status 
+### Quiz:
+Try running GIT STATUS.  Which does it show? 
+Answer:
+You have unmerged paths.
+Unmerged paths. 
+Fix conflics and run "git commit" 
+Use "git add..." to mark resolution 
+
+
+### Quiz 
+You've made numerous commits so far in your exploration of Git.  If a merge conflict occurs in a file and you edit the file, save it, stage it, and commit it but forget to remove the merge conflict indicators, whill Git commit the file?  
+
+A: Yes. That's right! Git will commit the lines with the merge conflict indicators! They're just regular characters, so there's no reason Git will stop the commit because of them. It's up to you to actually remove them. Don't forget to use git diff to check what's going to be staged/committed! 
+
+### Merge Conflict Recap
+
+A merge conflict happens when the same line or lines have been changed on different branches that are being merged. Git will pause mid-merge telling you that there is a conflict and will tell you in what file or files the conflict occurred. To resolve the conflict in a file:
+
+    locate and remove all lines with merge conflict indicators
+    determine what to keep
+    save the file(s)
+    stage the file(s)
+    make a commit
+
+Be careful that a file might have merge conflicts in multiple parts of the file, so make sure you check the entire file for merge conflict indicators - a quick search for <<< should help you locate all of them.
+Further Research
+
+    [Basic Merge Conflicts from the Git book](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merge-Conflicts)
+    [How Conflicts Are Presented from the Git docs](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
+
+
 
 ## Outro
+branches let us work on a feature without impacting the rest of the code
+
 
 ### Study session notes:
 * 2021-01-16 I set up this note and linked it. 
