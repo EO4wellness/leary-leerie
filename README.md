@@ -28,6 +28,10 @@ https://github.com/EO4wellness/leary-leerie/blob/master/Shell/shell-workshop.md
 * [Scholarship Info](https://www.udacity.com/scholarships/nutanix-hybrid-cloud-scholarship-program)
 * [Free Course](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 
+# JavaScript: 
+* [Free Course & link to Full Stack Nanodegree](https://www.udacity.com/course/intro-to-javascript--ud803)
+* Also additional [JavaScript studies](https://github.com/EO4wellness/T-I-L/tree/main/JavaScript) in the T-I-L repo beyond the scope of my Udacity studies. 
+
 # [Udacity Career Services](https://github.com/EO4wellness/leary-leerie/tree/master/career-coaches)
 * Free Course: [Refresh Your Resume](https://www.udacity.com/course/refresh-your-resume--ud243) taught by Trinh Nguyen who is amazing! My Course Notes-UPdates.
 * Cover Letter:
