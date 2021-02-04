@@ -23,3 +23,6 @@
 3.20 Falling-Through 
 3.21 Quiz: Back to School 
 3.22 Lesson 3 Summary 
+
+
+NAV: [ReadMe](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript) | [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson1.md) | [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson2.md) | [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson3.md) | [Lesson 4](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson4.md) | [Lesson 5](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson5.md) | [Lesson 6](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson6.md) | [Lesson 7](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson7.md)
