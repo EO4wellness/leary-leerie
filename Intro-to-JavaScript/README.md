@@ -5,7 +5,7 @@
 * Each of the following lessons is rated to take about 2 hours to complete, except the first one, which is rated an hour in length for the average student.
 * That makes this a two-week course for the typical student. 
 
-# Lesson 1: What is JavaScript
+# Lesson 1: [What is JavaScript](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson1.md)
 * Learn the history of JavaScript and start wriing your code immediately using the JavaScript console. 
 
       1.1 Intro to JavaScript
