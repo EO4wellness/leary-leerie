@@ -9,5 +9,7 @@
       2.6 String Concatenation 
       2.7 Variables 
 
+Return to course here: https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/673e1be5-6c85-4397-8318-192d95d48761 
+
 
 NAV: [ReadMe](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-JavaScript) | [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson1.md) | [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson2.md) | [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson3.md) | [Lesson 4](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson4.md) | [Lesson 5](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson5.md) | [Lesson 6](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson6.md) | [Lesson 7](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-JavaScript/Lesson7.md)
