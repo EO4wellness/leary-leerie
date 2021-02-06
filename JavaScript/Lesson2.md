@@ -60,8 +60,23 @@
                   >=  Greater than or Equal to 
                   ==  Equal to 
                   !=  Not Equal to 
+                  
+                  
+                  QUIZ: 
+                  Enter each express below, one at a time, into the JavaScript Console and determine what each expression evaluates to.
+                  
+                  43 > 47 --> False 
+                  
+                  12==17 --> False 
+                  
+                  3 <=3 --> True
+                  
+                  1!=0 --> True 
+                  
+* TIP: The values true and false have significant importance in JavaScript. These values are called Booleans and are another data type in JavaScript. Later in this lesson, you’ll learn more about why Booleans are so important in programming.
 
-2.3 Comments 
+
+2.3 [Comments](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/6a4bec50-7caf-4b8b-9685-a4e24346cda0) 
 
 
 2.4 Quiz: first Expression 
