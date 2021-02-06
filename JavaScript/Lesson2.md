@@ -12,10 +12,54 @@
 # Course Notes:
 
 2.1 Intro to Data Types 
-
+* Data is everywhere. 
+* Data helps us understand the world, make future decisions, help us organize information.  
+* Data in coding is important too. 
+* Information being gathered. 
+* What are types in JavaScript. 
 
 2.2 Numbers 
+* Defining numbers (a data type) in JavaScript is fairly simple. 
+* The NUMBER data type includes any positive or negative integer. 
+* Decimals are also within the NUMBER data type. 
+* Entering a number into the JavaScript console will return it back again to you.  
+* Arithmetic Operations: type out any expression in the way you would type in a calculator. 
+* Example within the JavaScript Console
 
+            3 + 2.1 
+            
+            Returns:
+            5.1
+
+            QUIZ: 
+            
+            1. Enter the expressions (one at a time) into the console and determine what each expression evalutes to: 
+            
+            2 + 10 - 19 + 4 - 90 + 1  --> returns  -92
+            
+            -20 + -19 - (-10) - (-1) + 24 --> returns -4 
+            
+            (10/5) * 4 -20 --> returns -12
+            
+            4096 % 12 --> returns 4
+            
+* Comparing Numbers - you can compare two numbers to see if one's greaer than, less than, or equal to the other. 
+
+            5 > 10 --> returns false 
+            
+            5 < 10 --> returns true 
+            
+            5 == 10 --> returns false 
+            
+* Comparisons between numbers will always return either "true" or "false" they don't return any other types of answers. 
+*  Operator and its Meaning Chart 
+
+                  <   Less than 
+                  >   Greater than 
+                  <=  Greater than or Equal to 
+                  >=  Greater than or Equal to 
+                  ==  Equal to 
+                  !=  Not Equal to 
 
 2.3 Comments 
 
