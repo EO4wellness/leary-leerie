@@ -13,6 +13,7 @@
 * Course Scope: Introductory level
 * Course Delivery: Primarily Video and Text content with quiz and code labs. 
 
+# Course Notes: 
 1.1 Intro to JavaScript
 * JavaScript was created in 1995 by Brandan Eich.
 * Was created to make it easier to add interactive and/or dynamic elements to websites. 
