@@ -1,7 +1,17 @@
-# Lesson 1: What is JavaScript
-* Learn the history of JavaScript and start wriing your code immediately using the JavaScript console. 
-* Course Instructors:  Julia and James
-* Introductory level
+# Lesson 1: [What is JavaScript](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson1.md)
+* In lesson one, we learn the history of JavaScript, learn to open the JavaScript cosole, and then start wriing code immediately using the JavaScript console. 
+
+      1.1 Intro to JavaScript
+      1.2 History of JavaScript 
+      1.3 The JavaScript console
+      1.4 Developer tolls on Different Browsers
+      1.5 Console.log 
+      1.6 JavaScript Demo
+      1.7 Summary 
+      
+* Course URL: https://classroom.udacity.com/courses/ud803/
+* Course Scope: Introductory level
+* Course Delivery: Primarily Video and Text content with quiz and code labs. 
 
 1.1 Intro to JavaScript
 * JavaScript was created in 1995 by Brandan Eich.
