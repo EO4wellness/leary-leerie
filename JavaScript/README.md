@@ -17,7 +17,7 @@
       1.7 Summary 
       
 
-# Lesson 2: Data Types & Variables 
+# Lesson 2: [Data Types & Variables](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson2.md) 
 * Learn to represent real-world data using JavaScript variables, and distinguesh between the different data types in the language. 
 
       2.1 Intro to Data Types 
