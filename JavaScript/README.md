@@ -156,5 +156,10 @@
 ### [Code Library](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/Readme.md)
 Snippets of Course Code examples, and what they do. 
 
+### Further Reading:
+[Udacity JavaScript GitHub](https://github.com/udacity/Javascript)
+[Udacity JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
+[Googles JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 
 NAV: [ReadMe](https://github.com/EO4wellness/leary-leerie/tree/master/JavaScript) | [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson1.md) | [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson2.md) | [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson3.md) | [Lesson 4](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson4.md) | [Lesson 5](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson5.md) | [Lesson 6](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson6.md) | [Lesson 7](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/Lesson7.md) | [Code Library](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/Readme.md)
