@@ -292,8 +292,57 @@ QUIZ:
                   Their response about my answers:  The variables count and postLiked use lowercase and camelCase appropriately. The postLiked variable has a descriptive name about what it represents. The count variable is questionable and would depend on its surrounding context. If the count variable was supposed to track the number of items in a catalog, then a more descriptive name like catalogCount might be more appropriate. As for the other variables, thingy is a vague name that doesn't really describe what 1 is the value for and firstname should be in camelCase.
 
 2.8 [Quiz: Converting temperatures](https://classroom.udacity.com/courses/ud803/lessons/74007e2e-2a0a-4de3-a8a6-5c2ec4275773/concepts/5f0a00eb-e0c7-4b3f-a24d-400cad12176e)
+* Given the formula to covern C into F and what you know about JavaScript; write JS to covert and display what 12 degrees C is in F.
+* F=C×1.8+32
+* NOTE: the Udacity classroom uses an interface that embeds a JavaScript enviroment into the course work.  I discovered this specific coding interface within the JavaScript Udacity course, displays a TINY (Hard to see) red X at the "lines of code" portion of any code entered into the display.  So even before running the code, you can visually see errors and the hints to resolve the errors.  
 
+                  Example:
+                  
+                  Type F=Cx1.8+32 into the Udacity interace
+                  
+                  the line of code next to the above entry will turn red with an x over the number 
+                  
+                  reason being in JavaScript multiplicatin is * where as x is a variable 
+                  
+* [Code at W3Schools](https://www.w3schools.com/code/tryit.asp?filename=GNK50QYUYRFE)
+                  
 2.9 String Index
+* You can access individual characters within a string.
+* any given characters location within a string is called its INDEX.
+* the INDEX for the first character of any string is ZERO 0
+* INDEX are indicated inside square brackets
+* the INDEX format is [number]
+* this INDEX formating is placed right after the string. 
+*  For Example:  If you wanted to find the first character stored in a specific string of "James" you would do so in code by typing the following:
+
+                  Example: Find first character in string
+                  
+                  "James"[0];
+                  
+                  returns:  "J" 
+                  
+* More comonly you'd see it with a variable 
+                  
+                  Example: 
+                  
+                  var name = "James";
+                  name[0]
+                  
+                  This code returns "J" 
+
+* Characters within a string are indexed starting from 0, where the first character is at position 0, to n-1, where the last character is at position n-1 (n represents the total number of characters within a string).
+
+            Quiz: What character will be printed to the JavaScript console after running the following lines of code? 
+            
+            CODE:
+            
+            var quote = "Stay awhile and listen!";
+            console.log(quote[6]);
+            
+            My Answer: w 
+            
+            Alternatively, you can use the String’s charAt() method to access individual characters. For example, quote.charAt(6) would also return "w". You’ll learn more about methods later in this course.
+
 2.10 Escaping Strings
 2.11 Comparing Strings 
 2.12 Quiz: Favorite Food 
