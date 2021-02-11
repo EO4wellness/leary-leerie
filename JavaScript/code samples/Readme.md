@@ -20,7 +20,8 @@ This folder contains examples, given within the course, of various learning .JS 
 * [First Expression-Course Solution to Quiz](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/first-expression-course-example-solution.js)
 * [First Expression Re-Work](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/)
 * [var variableName variableOperator](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/var_variableName_variableOperator.js)
-
+* [Covert C to F](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/convert-C-to-F.js)
+* [HTML & Java covert temp](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/temperature-conversion.html)
 
 ### Lesson 3
 * 
