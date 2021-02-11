@@ -12,8 +12,15 @@ This folder contains examples, given within the course, of various learning .JS 
 
 
 ### Lesson 2
-*
-* 
+* [Single-Line Comments](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/single-line-comments.js)
+* [Multi-Line Comments](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/multi-line-comments.js)
+* [String Formatting](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/string-formatting.js)
+* [String Concatenation](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/string-concatenation.js)
+* [First Expression Quiz](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/first-expression.js)
+* [First Expression-Course Solution to Quiz](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/first-expression-course-example-solution.js)
+* [First Expression Re-Work](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/)
+* [var variableName variableOperator](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/var_variableName_variableOperator.js)
+
 
 ### Lesson 3
 * 
