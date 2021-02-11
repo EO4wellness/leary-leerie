@@ -1,0 +1,1 @@
+// this is the format of a single-line javaScript comment 
