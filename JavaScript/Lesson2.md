@@ -344,6 +344,49 @@ QUIZ:
             Alternatively, you can use the String’s charAt() method to access individual characters. For example, quote.charAt(6) would also return "w". You’ll learn more about methods later in this course.
 
 2.10 Escaping Strings
+* What if you want to use a QUOTE within a string?  
+
+		Example:   "The man whispered, "Please speak to me."" 
+
+* this causes the "Uncaught SyntaxError: Unexpected identifier.
+* this is because a string needs the quote marks to know when to start (and end) a string.  So if you quote within a string--it will actuall be the "end of" the string before you intended to do so. 
+* In order to use QUOTES inside a STRING, you need use a BACKSLASH character \
+* the backslack character is the one typically above the "right-hand side enter" key on the keyboard 
+* this is called escaping characters 
+* the backslash literally tells JavaScript to ignore the specail (JavaScript) meaning of (in this case the quote) and instead just see it as a normal character (part of a quote) 
+* thus if you needed a string to contain quotes, such as our example above, you'd need to use backslashes. 
+
+		Example:  "The man whispered, \"please speak to me.\""
+
+* quotes aren't the only special characters which need to be escaped. 
+* List of Special Characters needing to be escaped. 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Using_special_characters_in_strings
+
+			CODE		CHARACTER 
+			\\ 		\ (backslash)
+			\" 		'' (double quote)
+			\' 		' (single quote)
+			\n 		newline
+			\t 		tab
+* The last two characters listed in the table, newline \n and tab \t, are unique because they add additional whitespace to your Strings. 
+* A newline character will add a line break and a tab character will advance your line to the next tab stop.
+* Example:
+
+		"Up up\n\tdown down" 
+
+		Returns:
+		Up up
+			down down 
+* Quiz 
+	
+		Select the string that returns the following output. 
+
+		OUTPUT: "The file located at "C:\\Desktop\My Documents\Roster\names.txt" contains the names on the roster."
+
+		MY Answer: "The file located at \"C:\\\\Desktop\\My Documents\\Roster\\names.txt\" contains the names on the roster."
+		
+
+
 2.11 Comparing Strings 
 2.12 Quiz: Favorite Food 
 2.13 Quiz: String Equality for All
@@ -353,7 +396,7 @@ QUIZ:
 2.17 Quiz: Facebook Post 
 2.18 Null, Undefined, and NaN
 2.19 equality 
-2.20 Quiz: Seminolons! 
+2.20 Quiz: Semincolons! 
 2.21 Quiz: What is my Name?
 2.22 Quiz: Out to dinner
 2.23 Quiz: Mad libs
