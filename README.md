@@ -1,8 +1,9 @@
 # leary-leerie
 **Hello World!**<br>
 This repo was made to follow along with these basic courses outlined below. 
-The original course I took with Udacity about creating a GIT account included to name the initial repo something funny, quirky or a pun. 
+The original course I took with Udacity about creating a GIT account included to name the initial repo something funny, quirky or a pun.  if you are going to start with Shell, Git, or other command line--then, you are going to be TYPING.  Resources to improve typing skills: [Qwerty Pratice](https://www.keybr.com/)
 <br>
+
 
 # Writing READMEs Course:
 2020-12-08: Every thing has its very beginning.  And this is my very beginning on Github, learning to use Git, and various courses. I began this account in order to follow some older courses I didn't follow through with much until recently.  My GitHub account was thusly created in 2019, but I only recently started using it more often (end of 2020 and onward). Because there was so much of a gap inbetween my early learning days, and now, I still used this original repo I created using Git Commands, but I restudied the lessons involved in its original creation.  The order I studied is presented here, beginning with the very first course on what a README file is, how you use it, what it looks like, where it goes, and the best practices to follow in creating one (or dozens). Read more about my learning "readme" journey in it's [README course folder](https://github.com/EO4wellness/leary-leerie/tree/master/course-on-writing-readme-files)
