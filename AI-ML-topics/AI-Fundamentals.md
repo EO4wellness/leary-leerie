@@ -5,7 +5,7 @@
 
 
 ## Course Outline:
-* Lesson 1: Began and completed: 2021-05-12
+* [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-1-overivew-of-how-udacity-works-and-how-to-set-course-related-goals-to-succeed): Began and completed: 2021-05-12
 * Lesson 2 Began and completed: 2021-05-12
 * Lesson 3:
 * Lesson 4:
