@@ -4,9 +4,9 @@
 * [Udacity course link](https://www.udacity.com/course/ai-fundamentals--ud099?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=ad60985b-18d9-30b1-f123-34893b099da5&utm_campaign=acq_100_2021-05-11_ud099_ai-fundamentals_global&utm_source=blueshift&utm_medium=email&utm_content=acq_100_2021-05-11_ud099_ai-fundamentals_global&bsft_clkid=77afbb81-9b4a-4c11-95b3-5dcf718fd18b&bsft_uid=d38f0718-f57a-4cfe-a1b4-737aa5ded007&bsft_mid=d541deb1-19e9-4edd-90ce-d24c004956f3&bsft_mime_type=html&bsft_ek=2021-05-11T17%3A21%3A48Z&bsft_lx=3&bsft_tv=35)
 
 
-## Course Outline:
+## Course Outline and Study Log:
 * [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-1-intro): Began and completed: 2021-05-12
-* Lesson 2 Began and completed: 2021-05-12
+* [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-2) Began and completed: 2021-05-12
 * Lesson 3:
 * Lesson 4:
 * Lesson 5 
@@ -76,13 +76,14 @@
    - Using Azure Bot Service channels.
 * By the end of this lesson, you will build a chatbot backed by a knowledge base from start to finish.
 
-# Lesson 1: Intro
+# Course Notes: 
+## Lesson 1: Intro
 * Welcome to Udacity 
 * the Udacity Experience 
 * Career Chat with your Instructors (insightful-worth watching video again)
 * How to Succeed (great advice!)
 
-# Lesson 2: 
+## Lesson 2: 
 1. Meet your Instructors
   - [Ciprian Jichici](https://www.linkedin.com/in/ciprianjichici/)
   - [Daron Yondem](https://www.linkedin.com/in/daronyondem/)
@@ -118,7 +119,6 @@ New Terms
 
 Additional Study Resources
     Visit [Microsoft's AI Strategy and Solutions learning path](https://docs.microsoft.com/en-us/learn/modules/azure-artificial-intelligence/) from Microsoft if you are interested in learning more about Azure AI services and Microsoft's AI Vision.
-
 
 
 3. Course Overview - as outlined above 
@@ -281,6 +281,76 @@ Now, you are ready to go to the next level. Enjoy the course.
 * Natural Language Processing: A domain of artificial intelligence focused on understanding human language and helping computers and humans interact through human language.
 * Turing Test: A test where a human tested interacts with two entities, one machine, and one human, without knowing which one is which. The goal of the test is to assess if the tester can identify which one is the machine. If the tester can not determine the machine or is not sure, the machine passes the test.
 
+## Lesson 3: 
+1. Introduction and Lesson Overview
+Welcome to the AI Fundamentals lesson about core concepts relating to artificial intelligence (AI) and machine learning (ML). Artificial intelligence is a branch of computer science dedicated to the notion of agents: computer systems with the ability to simulate thought. Since its genesis in the 1950s, artificial intelligence has remained a topic of interest in computer science, developing out into a number of sub-topics focused around search and optimization, pattern recognition, inference, and learning from experience. Implementations of artificial intelligence may be as simple as small, rule-based systems of behavior to move a character on a screen in a video game or as complex as multi-stage neural networks taking thousands of inputs to generate forecasts of tomorrow's stock market movements.
+
+Throughout the lesson, we will gain an understanding of what Artificial Intelligence and Machine Learning are, as well as how they relate to one another. We will review common workloads for AI and ML, including examples of how they are used in practice today. We will additionally cover Responsible AI and Responsible ML guidelines, sets of practices to help promote ethics in artificial intelligence and machine learning, respectively.
+Summary
+
+This lesson will introduce you to some of the key concepts in artificial intelligence and machine learning, acting as a springboard to the remaining lessons in this nanodegree. In this lesson, we will learn about:
+
+    What artificial intelligence and machine learning are, as well as how they relate to one another.
+    Common artificial intelligence and machine learning workloads.
+    The Responsible Artificial Intelligence project
+    The Responsible Machine Learning project
+
+This key information will act as the foundation for each subsequent lesson, as well as providing a primer on the topic of artificial intelligence.
+
+2. Introducing AI and ML
 
 
-# Lesson 3: 
+3. Quizzes: Introducing AI and ML
+
+
+4. Common AI and ML Workloads
+
+
+5. Quizzes: common AI and ML Workloads
+
+
+6. Responsible AI
+
+
+7. Quizzes: Responsible AI 
+
+
+8. Exercise: Responsible AI 
+
+
+9. Responsible ML
+
+
+10. Quizzes: Responsible ML
+
+
+11. Edge Cases
+
+
+12. Lesson Review 
+
+
+13. Glossary 
+* Artificial Intelligence: the ability for a computer to simulate human cognitive behavior.
+* Computer vision: the process of interpreting the world visually. We train models on videos or images, typically to recognize some object, state, or interaction.
+* Differential privacy: A technique in which individual data points are modified with some constant error term. The end result is that the data points can no longer be tied back to specific locations but the distribution of this data remains the same in aggregate. For example, a dataset of police incidents may use differential privacy to protect accidental disclosure of information, such as knowledge of a domestic disturbance. The dataset would have each point (in latitude and longitude) enclosed in a circle of radius r, where r might be approximately one city block. We choose a random point within the circle and define that point as the location of the incident. On net, we know how many crimes there are in a particular neighborhood, but we do not necessarily know at which houses the incidents occur.
+* Homomorphic encryption: A style of encryption which allows a developer or data scientist to perform calculations on encrypted data without decrypting it first. The result of these calculations will also be in an encrypted form and the decrypted result will be exactly the same as if we performed all of the operations on unencrypted data. This ensures that data scientists can work on data sets while maintaining maximum privacy, as they will not see the unencrypted data at any time.
+* Knowledge mining: the process of extracting knowledge from vast amounts of information. In Azure, Azure Cognitive Search is the primary tool. It tags information in documents, allowing for easy, detailed searches of those documents.
+* Language Understanding Intelligent Service (LUIS): a service which accepts written or spoken inputs, processes those inputs, and allows developers to perform some action based on those inputs.
+* Machine Learning: the process of combining algorithms and data to allow a computer to learn without human intervention.
+* Natural language processing (NLP) is the process of interpreting written or spoken language. We train models based on written documents or audio clips of speech.
+* Responsible AI: The Responsible AI project is intended to serve as a framework for promoting ethical behavior when working with and deploying artificial intelligence systems. It consists of six guidelines:
+* Fairness: AI systems should treat all people fairly and not affect similarly situated groups in different ways.
+* Reliability and Safety: Customers should be able to trust that AI solutions will perform reliably and safely within a clear set of parameters, as well as respond safely to unanticipated situations.
+* Privacy and Security: AI systems should be secure and respect existing privacy laws.
+* Inclusiveness: AI systems should engage and empower people and use inclusive design practices to eliminate unintentional barriers.
+* Transparency: People should know how AI systems work and how they interact with data to make decisions.
+* Accountability: Those who design and deploy AI systems are accountable for how their systems operate.
+* Responsible ML: The Responsible ML project is an effort to control machine learning models and protect users. It consists of three key guidelines:
+* Understand: We should understand our models, including knowing which factors play a role and to what extent they affect the outcome of the model. This ties in quite closely to the Responsible AI guidelines of transparency and fairness.
+* Protect: We want to use tools and processes which protect data privacy at all times, even during training.
+* Control: We should create audit trails and track the lineage of our models. This will help us ensure that the right model is producing the expected results in a production environment.
+* Strong Artificial Intelligence: a system which exhibits a human's ability to generalize and solve a variety of problems, including learning how to solve new problems without direct human programming. As of today, there are no strong AI systems in the world, and there remains debate in the academic community around whether strong AI is achievable.
+* Super Artificial Intelligence: a system which surpasses a human's ability to generalize and solve problems. This is like strong AI, but the expectation is that the system is superior in every domain of problem-solving capability.
+* Weak Artificial Intelligence: a narrow application of intelligence, focused on solving one problem. An example of this is a system which counts people who enter or leave a bus. All artificial intelligence systems today are considered weak AI.
+
