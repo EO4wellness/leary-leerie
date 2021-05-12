@@ -39,6 +39,11 @@ https://github.com/EO4wellness/leary-leerie/blob/master/Shell/shell-workshop.md
 * Cover Letter:
 * Interviews: 
 
+# ML/AI/NLP
+* Deep Learning Nanodegree
+* AWS
+* Azure 
+
 # Known Issues 
 * The Version Control course recommends consulting the [SHELL WORKSHOP](https://classroom.udacity.com/courses/ud206) course.  This should be written up here too, for sake of complete record of the studies I've undertaken, as I completed this workshop coursework several years ago. <br>
 * Linux Commands
