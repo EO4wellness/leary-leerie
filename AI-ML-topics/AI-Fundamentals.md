@@ -369,12 +369,72 @@ Prediction, forecasting, and anomaly detection are techniques intended to analyz
 
 Anomaly detection intends to find errors or unusual activity in a system. It tends to be focused on a single measure, such as the temperature of a machine or the number of products listed on a marketplace. This kind of data is usually--but not always--time series in nature, and we emphasize trends and changes rather than specific values. That the temperature is 80 degrees Celsius is not necessarily a problem; the problem is that it should normally be 30 degrees Celsius.
 
+Natural Language Processing
+https://youtu.be/QCyVDOww5PU
+
+Natural language processing (NLP) is the process of interpreting written or spoken language. We train models based on written documents or audio clips of speech. Three common implementations of natural language processing are:
+
+    Text analytics: Analyze documents. There are several methods of analysis. One method is to extract phrases, such as finding every time a character in a novel uses a particular word. We can also enumerate the characters in a novel or pick out the places these characters visit over the course of a story. We can even evaluate the sentiment of text, understanding the moods of characters over the course of the book.
+    Text translation: Translate text between languages. This allows a person speaking English to present to an audience of non-English speakers. The translation service interprets the speaker's text, translates it to another language, and displays that text on the screen as live captions.
+    Text to speech: Interpret written text and speak it aloud. This kind of service has been around for decades, with improvements over time coming primarily in conveying meaning and nuance in the text using inflection and tone.
+
+In addition, Microsoft has a cloud service called the Language Understanding Intelligent Service (LUIS), which accepts written or spoken inputs, processes those inputs, and allows developers to perform some action based on those inputs. For example, a person may speak a command to open the curtains in the living room. LUIS would interpret this command and could call a function to activate a physical device inside the house, opening the living room curtains.
+
+Knowledge Mining
+
+Knowledge mining is the process of extracting knowledge from vast amounts of information. In Azure, Azure Cognitive Search is the primary tool. It tags information in documents, allowing for easy, detailed searches of those documents.
+
+Conversational AI
+https://youtu.be/2J4XjgpBbFs
+Conversational AI is another common workload. With this workload, we develop software agents intended to communicate directly with humans, typically in conversational format. One common example of this is a chatbot which interacts with you on a website. Another example of a conversational AI system would be a virtual agent, who might help you search on the market for a particular house based on the criteria most important to you.
+Additional Resources
+
+    The Microsoft hands-on [Computer Vision demo](https://aidemos.microsoft.com/computer-vision) provides an overview of services available in their Cognitive Services product which relate to vision. This includes analyzing and describing images, reading text from images, and recognizing celebrities or landmarks.
+    Another hands-on demo from Microsoft allows you to use the [Language Understanding Intelligent Service](https://aidemos.microsoft.com/luis/demo) to control lights in a house. Use natural language commands to operate different lights in rooms based on context, such as "I would like to watch a movie now." or "Time to go to sleep." The demo also shows the limitations of language understanding, as there are many ways to phrase a problem which developers did not think about.
+    [Microsoft has a data story](https://github.com/Microsoft/DataStoriesSamples/tree/master/samples/WarAndPeaceSentimentAnalysis) which uses sentiment analysis to observe the emotional states and relationships of characters throughout Leo Tolstoy's novel, War and Peace.
+    Another example of computer vision in practice is this demo on [pixel-level land cover classification](https://github.com/Azure/pixel_level_land_classification). Data scientists trained a neural network to accept an aerial image as an input and return a lad cover label for each pixel in the image.
+
 
 
 5. Quizzes: common AI and ML Workloads
 
+Which of the following is not a common AI or ML workload? 
+- NLP
+- Knowledge Mining
+- Conversational AI
+- Literate Programming (correct answer)
+- Computer Vision 
+
+Great job! Literate programming is a software programming methodology, but is not related to artificial intelligence or machine learning.
+
+Match the AI or ML to its specific workload:
+Semantic segmentation -> computer Vision 
+classifying objects->prediction and forecasting
+tracking trends and changes->anomaly detection 
+text to speech -> natural language processing
+cognitive search ->knowledge mining 
+Q&A maker -> conversational ai 
 
 6. Responsible AI
+https://youtu.be/HBygSGptb8s
+Summary
+
+The Responsible AI project is intended to serve as a framework for promoting ethical behavior when working with and deploying artificial intelligence systems. The project starts from the premise that artificial intelligence systems can affect our livelihoods and lives in significant fashion--at the extreme, we put our lives into self-driving cars and aircraft auto-pilot systems. Even in more pedestrian endeavors, an AI system can unintentionally harm humans. The goal of the Responsible AI project is to provide guidance to data scientists, data engineers, and operations specialists on how to create, deploy, and manage artificially intelligent code in a way which does not cause harm to others.
+
+The Responsible AI project consists of six guidelines:
+
+    Fairness: AI systems should treat all people fairly and not affect similarly situated groups in different ways.
+    Reliability and Safety: Customers should be able to trust that AI solutions will perform reliably and safely within a clear set of parameters, as well as respond safely to unanticipated situations.
+    Privacy and Security: AI systems should be secure and respect existing privacy laws.
+    Inclusiveness: AI systems should engage and empower people and use inclusive design practices to eliminate unintentional barriers.
+    Transparency: People should know how AI systems work and how they interact with data to make decisions.
+    Accountability: Those who design and deploy AI systems are accountable for how their systems operate.
+
+Additional Resources
+
+    Microsoft has provided a set of resources around [Responsible AI](https://youtu.be/HBygSGptb8s). This includes descriptions of each guideline as well as tools to put these guidelines into practice.
+
+
 
 
 7. Quizzes: Responsible AI 
