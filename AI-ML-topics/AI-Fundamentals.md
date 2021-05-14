@@ -298,12 +298,77 @@ This lesson will introduce you to some of the key concepts in artificial intelli
 This key information will act as the foundation for each subsequent lesson, as well as providing a primer on the topic of artificial intelligence.
 
 2. Introducing AI and ML
+Summary
+
+Artificial intelligence is a branch of computer science dedicated to simulating human cognitive behavior. In the realm of artificial intelligence, we have machine learning, which allows a computer to learn without human intervention.
+
+The process of developing an artificial intelligence system has four key steps:
+
+    Data scientists build an artificial intelligence system using techniques. These techniques can include, but are not limited to, machine learning.
+    The artificial intelligence system then trains machine learning models by studying patterns in the data.
+    Data scientists observe the results of these machine learning models and subsequently optimizes them, most commonly by modifying the artificial intelligence system which generates these models.
+    The process of training and optimization--steps 2 and 3--repeats until the model becomes accurate enough for its intended purpose. At this point, the model is capable of going into production.
+
+New Terms
+
+    Artificial Intelligence: the ability for a computer to simulate human cognitive behavior.
+    Weak Artificial Intelligence: a narrow application of intelligence, focused on solving one problem. An example of this is a system which counts people who enter or leave a bus. All artificial intelligence systems today are considered weak AI.
+    Strong Artificial Intelligence: a system which exhibits a human's ability to generalize and solve a variety of problems, including learning how to solve new problems without direct human programming. As of today, there are no strong AI systems in the world, and there remains debate in the academic community around whether strong AI is achievable.
+    Super Artificial Intelligence: a system which surpasses a human's ability to generalize and solve problems. This is like strong AI, but the expectation is that the system is superior in every domain of problem-solving capability.
+    Machine Learning: the process of combining algorithms and data to allow a computer to learn without human intervention.
+
+Additional Resources
+
+    Professor John McCarthy has a great set of [questions and answers](http://jmc.stanford.edu/artificial-intelligence/index.html) around the concept of Artificial Intelligence. One of these questions [pertains to the branches of AI](http://jmc.stanford.edu/artificial-intelligence/what-is-ai/branches-of-ai.html), showing the depth of what is available in this space. Note that these answers were written in 2007, prior to the resurgence of neural networks.
+    The differences between [artificial intelligence and machine learning](https://azure.microsoft.com/en-us/overview/artificial-intelligence-ai-vs-machine-learning/). This page explains how artificial intelligence and machine learning relate to one another. It also emphasizes the AI and ML process, as well as explaining some of the capabilities of AI and ML.
+    Artificial intelligence and machine learning are useful in a large number of industries. Dirk Mayer and Olaf Enge-Rosenblatt provide a high-level review of [AI solutions](https://semiengineering.com/artificial-intelligence-for-industrial-applications/) in semi-conductor engineering and fabrication.
+
+https://youtu.be/kGsjxeLxMXg
+https://youtu.be/qB2fLlxEBIQ
+https://youtu.be/nLWEijWU3Ig
+https://youtu.be/s4F_UN9MbSU
 
 
 3. Quizzes: Introducing AI and ML
 
+* Which of the following statements are accurate?
+- Artificial intelligence is the ability for a computer to simulate human cognitive behavior
+- ML is a subset of AI
+* What is the correct order for the process of training for AI and ML 
+  Step 1: build an AI system using techniques which include ML
+  Step 2: the AI system trains the ML models 
+  Step 3: data scientists optimize the ML models 
+  Step 4: continue training until accuracy is sufficient 
+* Thinking about AI and ML in Practice: Choose an industry familiar to you and research three examples of ways that artificial intelligence or machine learning are shaping that industry. Briefly describe one of these projects and its impact on the relevant industry.
+
 
 4. Common AI and ML Workloads
+Workloads - A workload is a type of problem we want to solve. For example, one workload is computer vision, and an example of computer vision to review a folder full of images and tag those images which include pictures of either cats or dogs.
+https://youtu.be/CQgFNJpVZCU 
+There are five common workloads for artificial intelligence.
+1. computer vision 
+2. prediction, forecasting and anomaly detection (numerical data)
+3. nlp 
+4. knowledge mining 
+5. conversational ai
+
+Computer Vision
+https://youtu.be/WWFj4UdqZJY 
+Computer vision is the process of interpreting the world visually. We train models on videos or images, typically to recognize some object, state, or interaction. Six common implementations of computer vision are:
+
+    - Image classification: Define the subject of an image. For example, an image classification system could pick out the most prominent actor or thing in a photograph, such as a person, a fruit bowl, or London's Big Ben tower clock.
+   - Object detection: Determine whether a particular thing is in an image. An example of this would be a camera placed near a chicken coop which detects foxes or other predators and raises an alert based on this.
+    - Semantic segmentation: Classify individual pixels in a photo as belonging to a particular thing. For example, a camera monitoring a busy road would generate an image, and then a semantic segmentation model could identify the individual vehicles on the road and highlight each vehicle with a separate color.
+   - Image analysis: Image analysis provides us a textual description of who or what is in a photo. For example, suppose we have a photo of a man playing catch with a dog. An image analysis model might tell us that the man is throwing a tennis ball, that the man is wearing a blue cap, and that the dog is a yellow Labrador Retriever.
+   - Facial detection and recognition: Identify whether there is a face in a photo. For example, you might want to count how many people enter a store. Using a video camera monitoring the entrance to the store, a facial detection model can identify the number of people who pass through into the store based on observing faces.
+    - Optical character recognition (OCR): Read text from an image. For example, you might open a phone application which reads a menu written in a language. That application uses optical character recognition to read letters and words on the image. It can further connect to a service which translates those letters and words into another language, showing the menu items in your preferred language.
+
+Prediction, Forecasting, and Anomaly Detection
+https://youtu.be/jlvu4Zfv_1o
+Prediction, forecasting, and anomaly detection are techniques intended to analyze data--typically numeric values--and generate an estimation. In the case of prediction and forecasting, we attempt to draw conclusions from the data. For example, suppose we want to estimate the value of a house. We might use input data such as the number of bedrooms, number of bathrooms, and square footage, as well as information on the school district, whether it has certain amenities, and the year it was built.
+
+Anomaly detection intends to find errors or unusual activity in a system. It tends to be focused on a single measure, such as the temperature of a machine or the number of products listed on a marketplace. This kind of data is usually--but not always--time series in nature, and we emphasize trends and changes rather than specific values. That the temperature is 80 degrees Celsius is not necessarily a problem; the problem is that it should normally be 30 degrees Celsius.
+
 
 
 5. Quizzes: common AI and ML Workloads
