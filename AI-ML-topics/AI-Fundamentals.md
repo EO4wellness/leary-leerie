@@ -6,8 +6,8 @@
 
 ## Course Outline and Study Log:
 * [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-1-intro): Began and completed: 2021-05-12
-* [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-2) Began and completed: 2021-05-12
-* Lesson 3:
+* [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-2) Began and completed: 2021-05-12. Created [Flashcards](https://www.brainscape.com/packs/udacity-ai-fundamentals-17974857) from this lesson's key-concepts: 2021-05-13.
+* Lesson 3: Began study: 2021-05-14. Created [Flashcards](https://www.brainscape.com/packs/udacity-ai-fundamentals-17974857) from this lesson's key-concepts: 2021-05-14.
 * Lesson 4:
 * Lesson 5 
 * Lesson 6: 
