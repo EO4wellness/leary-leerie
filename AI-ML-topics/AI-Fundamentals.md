@@ -1,7 +1,9 @@
 # Udacity AI Fundamentals
 * 2021-05-12 Started study 
 * Invited by email to take this free course 
-* [Udacity course link](https://www.udacity.com/course/ai-fundamentals--ud099?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=ad60985b-18d9-30b1-f123-34893b099da5&utm_campaign=acq_100_2021-05-11_ud099_ai-fundamentals_global&utm_source=blueshift&utm_medium=email&utm_content=acq_100_2021-05-11_ud099_ai-fundamentals_global&bsft_clkid=77afbb81-9b4a-4c11-95b3-5dcf718fd18b&bsft_uid=d38f0718-f57a-4cfe-a1b4-737aa5ded007&bsft_mid=d541deb1-19e9-4edd-90ce-d24c004956f3&bsft_mime_type=html&bsft_ek=2021-05-11T17%3A21%3A48Z&bsft_lx=3&bsft_tv=35)
+* [Udacity course link](https://www.udacity.com/course/ai-fundamentals--ud099?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=ad60985b-18d9-30b1-f123-34893b099da5)
+* [PlayList](
+https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 
 
 ## Course Outline and Study Log:
@@ -435,24 +437,178 @@ Additional Resources
     Microsoft has provided a set of resources around [Responsible AI](https://youtu.be/HBygSGptb8s). This includes descriptions of each guideline as well as tools to put these guidelines into practice.
 
 
-
-
 7. Quizzes: Responsible AI 
 
+Which of the following are NOT guiding principles of responsible AI? 
+- Transparency
+- Accuracy (correct) 
+- Acountability
+- Reliability
+- completeness (correct) 
+
+Understanding the risk of failure helps fulfill which guiding principle of responsible AI?
+- fairness
+- reliability and safety (correct) 
+- privacy and security
+- inclusiveness
+- transparency
+- accountability
+
+Great job! Understanding what can happen if your AI system fails is critical to reliability and safety--if we don't know how the system can fail, we might not be able to guarantee that it will fail gracefully or safely.
+
+Consider the following scenario:
+
+Your team has created an AI system which helps price business loans to entrepreneurs. The system includes a model which takes in detailed demographic information about the entrepreneur (including race, ethnicity, age, political beliefs, and religion) as well as several hundred other inputs. The model returns a single output: the interest rate for the loan. Because of the level of complexity, it is not possible for anybody to explain how the system works in its entirety and the data science team want to put it out into production, making it available for use but not maintaining or monitoring the system. In addition, all data, including the entrepreneur's tax data for the past three years, is stored in Azure Blob Storage in a publicly accessible blob.
+
+Which of the following responsible AI guidelines would this system violate?
+
+(Select all that apply.)
+- fairness (correct) 
+- reliability and safety  
+- privacy and security (correct) 
+- inclusiveness
+- transparency (correct)
+- accountability (correct) 
+Great job! This solution may technically be workable, but it is obvious that there are major problems with it from a responsible AI standpoint.
 
 8. Exercise: Responsible AI 
+Exercise: Responsible AI in Practice
 
+We have looked at the responsible AI approach with its six key tenets:
+
+    Fairness
+    Reliability and safety
+    Privacy and security
+    Inclusiveness
+    Transparency
+    Accountability
+
+These are important principles to keep in mind when building artificially intelligent agents, but applying these in practice may not be straightforward. It can be easy to focus on the "machine" part of artificial intelligence to the detriment of humans who deal directly with the agent or indirectly through the agent's actions.
+
+Keep in mind that this human-AI interaction is critical for developing artificial intelligence responsibly.
+Guidelines for Human-AI Interaction
+
+Navigate to the Microsoft [AI Guidlines for Human-AI Interaction demo](https://aidemos.microsoft.com/guidelines-for-human-ai-interaction/demo).
+
+This demo takes us through four phases of interaction between humans and artifically intelligent agents.
+
+For each guideline, review the card text on the left-hand side as well as examples on the right-hand side. Then, select the next card to continue through the demo.
+
+You'll use the knowledge from each of these guidelines to answer the following quizzes.
+
+Which of the following is an example of supporting efficient correction?
+- Making it easy for a user to reroute around unexpected road closures (correct) 
+- Notifying a user who has missed an important meeting 
+- Having a spell checker which marks misspellings while the user types a word rather than waiting for the complete word
+- A navigation system rerouting a user automtically if the user misses a turn. 
+
+Which of the following are examples of showing contextually relevant information to a user?
+- recommending accessories when a person adds a product to a shopping cart. (correct) 
+- Showing the current price of a stock when searching by the ticker name. (correct)
+- Loading a home page when a user opens a new browser tab. 
+- Providing the ability to dismiss suggestions by clicking an X
+- Displaying prospective meeting attendees calednars when planning a meeting (correct) 
+
+Match the system activity with its most relevant human-AI interaction guide. 
+- If a user likes a particular post, explain how that changes the recommender algorithm. -> convey the consequences of user actions 
+- Display a warning message if a user tries to navigate to a point with no possible routing -> scope of service when in doubt
+- Based on the difficult level of functionality used in a product, tailor autmated help to the user's perceived level of experience -> learn from user behavior
+- When correcting user behavior, use a tone and style which is appropriate for the user-> match relevant social norms
 
 9. Responsible ML
+https://youtu.be/8zNLgzO-9UE
+
+Summary
+
+As an analog to the Responsible AI project, the Responsible ML project is an effort to control machine learning models and protect users. The Responsible ML project consists of three key guidelines:
+
+    Understand: We should understand our models, including knowing which factors play a role and to what extent they affect the outcome of the model. This ties in quite closely to the Responsible AI guidelines of transparency and fairness.
+    Protect: We want to use tools and processes which protect data privacy at all times, even during training.
+    Control: We should create audit trails and track the lineage of our models. This will help us ensure that the right model is producing the expected results in a production environment.
+
+New Terms
+
+    Differential privacy: A technique in which individual data points are modified with some constant error term. The end result is that the data points can no longer be tied back to specific locations but the distribution of this data remains the same in aggregate. For example, a dataset of police incidents may use differential privacy to protect accidental disclosure of information, such as knowledge of a domestic disturbance. The dataset would have each point (in latitude and longitude) enclosed in a circle of radius r, where r might be approximately one city block. We choose a random point within the circle and define that point as the location of the incident. On net, we know how many crimes there are in a particular neighborhood, but we do not necessarily know at which houses the incidents occur.
+    Homomorphic encryption: A style of encryption which allows a developer or data scientist to perform calculations on encrypted data without decrypting it first. The result of these calculations will also be in an encrypted form and the decrypted result will be exactly the same as if we performed all of the operations on unencrypted data. This ensures that data scientists can work on data sets while maintaining maximum privacy, as they will not see the unencrypted data at any time.
+
+Additional Resources
+
+    Microsoft has a page dedicated to [Responsible ML guidelines](https://azure.microsoft.com/en-us/services/machine-learning/responsibleml/). This page includes introductory videos, webinars, and examples of tools which promote responsible use of machine learning in practice.
+    Microsoft Research has a page containing information on [homomorphic encryption](https://www.microsoft.com/en-us/research/project/homomorphic-encryption/). This includes information about the topic at a high level, as well as information on specific libraries like Microsoft SEAL, which makes homomorphic encryption available to developers.
 
 
 10. Quizzes: Responsible ML
+The responsible ML guideline of understanding is a combination of which responsible AI guidelines? 
+- Fairness (correct)
+- Realiability and Safety 
+- privacy and security
+- inclusiveness
+- Transparency (correct)
+- accountability 
+Great job! The responsible ML guidelines do not overlap perfectly with responsible AI guidelines, but the principle of understanding your machine learning models does tie in closely with the principles of transparency and fairness.
 
+The Importance of Model Control
+
+In your own words, describe why it is important for responsible machine learning specialists to have audit trails and track the lineage of models.
+
+Thanks for your thoughts! It is critical to control which machine learning model is out in production for several reasons. For example, we don't want a bad actor to release a malicious version of our model which denies bank loans to people for inappropriate reasons, or for a hiring system which guarantees that the developer's friends will be hired at high salaries. We want to be able to trace how the models have been developed, how they have changed over time, and ensure that the one providing answers is in fact what we expect it to be.
+
+Which of the following are examples of techniques to promote the responsible ML guideline of protection?
+- Use differential privacy 
+- Encrypt data at rest 
+- Use confidential machine learning techniques
+- Use homomorphic encryption to prevent data scientists from seeing the actual data. 
+That's right: all of these techniques help us protect our users' data and privacy as we develop machine learning models.
 
 11. Edge Cases
+https://youtu.be/m5b2mCLG8RM
+Ongoing process. Need to continually look at issues and work on them.  Do not "set and forget" 
+
+Summary
+
+What we have covered in this lesson is an incomplete survey of artificial intelligence. There are additional workloads which are less common but still fall into the realm of artificial intelligence. Some of these include:
+
+    Autonomous systems, which control things like lighting, ventilation, and security.
+    Optimization of difficult problems. One example of this is the use of a technique known as [genetic algorithms](https://www.hindawi.com/journals/ijap/2014/729208/) to design smart antennas. Antenna design is a complicated problem and genetic algorithms provide an opportunity to search within the space of possible solutions for something better than what we have today.
+    Planning systems, which take a set of general facts about the effects of specific actions, facts about a particular situation, and an end goal. The system then generates a strategy to achieve the goal.
+
+Regardless of the workload, however, it is important to keep the Responsible AI and Responsible ML guidelines in mind. It is also important to note that these are starting points, not conclusions; they are something we keep purposefully in mind throughout the development, deployment, and maintenance of artificial intelligence solutions.
+Additional Resources
+
+    Microsoft has a page dedicated to [Responsible ML guidelines](https://azure.microsoft.com/en-us/services/machine-learning/responsibleml/). This page includes introductory videos, webinars, and examples of tools which promote responsible use of machine learning in practice.
+    The editors at Brainz include a series of cases in which researchers, engineers, and developers have used [genetic algorithms](https://www.brainz.org/15-real-world-applications-genetic-algorithms/) to solve problems in a variety of fields.
+    John Holland provides an [introduction to the concept behind genetic algorithms](http://www2.econ.iastate.edu/tesfatsi/holland.gaintro.htm). This approach, based on tenets of evolutionary biology, works well in a variety of constrained optimization scenarios.
+    John Koza provides an [introduction to genetic programming](http://www.genetic-programming.com/gpanimatedtutorial.html), a variant on John Holland's concept of genetic algorithms.
+
 
 
 12. Lesson Review 
+https://youtu.be/e5JdIA7U-hw
+Summary
+
+This lesson introduced you to key terminology in artificial intelligence and machine learning. In the lesson, we learned:
+
+    What artificial intelligence and machine learning are, as well as how machine learning is a subset of artificial intelligence.
+    There are five common artificial intelligence and machine learning workloads, including:
+        Computer vision
+        Prediction, forecasting, and anomaly detection
+        Natural language processing
+        Knowledge mining
+        Conversational AI
+    The Responsible Artificial Intelligence project provides six guidelines for ethical artificial intelligence projects:
+        Fairness
+        Reliability and safety
+        Privacy and security
+        Inclusiveness
+        Transparency
+        Accountability
+    The Responsible Machine Learning project has three pillars for ethical machine learning projects:
+        Understand the model
+        Protect the data
+        Control model deployment
+
+With this information, we now have the foundation that we need in order to jump into the remaining lessons of this nanodegree.
+
 
 
 13. Glossary 
@@ -479,4 +635,3 @@ Additional Resources
 * Super Artificial Intelligence: a system which surpasses a human's ability to generalize and solve problems. This is like strong AI, but the expectation is that the system is superior in every domain of problem-solving capability.
 * Weak Artificial Intelligence: a narrow application of intelligence, focused on solving one problem. An example of this is a system which counts people who enter or leave a bus. All artificial intelligence systems today are considered weak AI.
 
-https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr
