@@ -9,8 +9,8 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 ## Course Outline and Study Log:
 * [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-1-intro): Began and completed: 2021-05-12
 * [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-2) Began and completed: 2021-05-12. Created [Flashcards](https://www.brainscape.com/packs/udacity-ai-fundamentals-17974857) from this lesson's key-concepts: 2021-05-13.
-* Lesson 3: Began study: 2021-05-14. Created [Flashcards](https://www.brainscape.com/packs/udacity-ai-fundamentals-17974857) from this lesson's key-concepts: 2021-05-14.
-* Lesson 4:
+* Lesson 3: Began and Completed study: 2021-05-14. Created [Flashcards](https://www.brainscape.com/packs/udacity-ai-fundamentals-17974857) from this lesson's key-concepts: 2021-05-14.
+* [Lesson 4](https://classroom.udacity.com/courses/ud099/lessons/d2a77498-3bd4-466d-90ce-9bf572a2c467/concepts/9b018ae4-efe5-4f96-b283-18207bc2420d):
 * Lesson 5 
 * Lesson 6: 
 * Lesson 7:
@@ -635,3 +635,24 @@ With this information, we now have the foundation that we need in order to jump 
 * Super Artificial Intelligence: a system which surpasses a human's ability to generalize and solve problems. This is like strong AI, but the expectation is that the system is superior in every domain of problem-solving capability.
 * Weak Artificial Intelligence: a narrow application of intelligence, focused on solving one problem. An example of this is a system which counts people who enter or leave a bus. All artificial intelligence systems today are considered weak AI.
 
+## [Lesson 4: Machine Learning](https://classroom.udacity.com/courses/ud099/lessons/d2a77498-3bd4-466d-90ce-9bf572a2c467/concepts/9b018ae4-efe5-4f96-b283-18207bc2420d)
+ 1. Introduction and Overview 
+ 2. Introducing ML
+ 3. Training and Evaluation 
+ 4. Evaluation Metrics
+ 5. Quizzes: Introducing Machine 
+ 6. Main Approaches to ML
+ 7. Quizzes: Main Approaches to ML
+ 8. Core Tasks of Building a ML
+ 9. Quzzes: Core Tasks of Building 
+ 10. Exercise Model Training 
+ 11. Solution Model Training 
+ 12. Exercise Deploying and Testing
+ 13. Solution Deploying and Testing 
+ 14. A lap around azure ML
+ 15. Quizzes a lap around azure ml
+ 16. ...
+
+## Lesson 5 
+## Lesson 6
+## Lesson 7 
