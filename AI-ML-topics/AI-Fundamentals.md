@@ -653,6 +653,8 @@ With this information, we now have the foundation that we need in order to jump 
  15. Quizzes a lap around azure ml
  16. ...
 
+[Glossary Flashcards](https://www.brainscape.com/flashcards/lesson-4-machine-learning-10093752/packs/17974857)
+
 ## Lesson 5 
 ## Lesson 6
 ## Lesson 7 
