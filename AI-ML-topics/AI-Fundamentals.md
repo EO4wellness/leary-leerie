@@ -63,7 +63,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 ### [Lesson 6: Natural Language Processing](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-6)
 * In this lesson, we'll focus on AI workloads that require Natural Human Language Understanding. We will learn:
 
-   - Key Phrase and Entity extraction with Text Analytics to get insights about documents.
+   - Key Phrase and Entity extraction with Text Analytics to get insights about documents. 
    - Intent extraction through Language Understanding to figure out what a sentence's goal is.
    - Speech recognition and synthesis of speech from text.
    - Text and Speech Translation
