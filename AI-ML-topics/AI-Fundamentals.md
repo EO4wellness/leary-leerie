@@ -1,7 +1,7 @@
 # Udacity AI Fundamentals
 * Invited by email to take this free course 
 * [Udacity course link](https://www.udacity.com/course/ai-fundamentals--ud099?bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d&bsft_eid=ad60985b-18d9-30b1-f123-34893b099da5)
-* * 2021-05-12 Started study 
+* 2021-05-12 Started study 
 * [PlayList](
 https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 
