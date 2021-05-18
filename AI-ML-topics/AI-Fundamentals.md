@@ -38,7 +38,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
    - Responsible ML and the ethical responsibilities of researchers, data scientists, and employees at organizations performing machine learning tasks.
 * By the end of this lesson, you will have a good idea of the main fundamental concepts we need to be able to start using AI and ML tools in Microsoft Azure.
 
-### [Lesson 4: Machine Learning](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-4)
+### [Lesson 4: Machine Learning](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-4-machine-learning-1)
 * In this lesson we'll learn:
 
    - Key Machine Learning Concepts to crafting a foundation for following lessons.
