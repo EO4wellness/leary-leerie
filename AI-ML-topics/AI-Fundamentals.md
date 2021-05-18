@@ -16,9 +16,9 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 * Lesson 7:
 
 ## Content Overview: 
-### Lesson 1: Overivew of how Udacity works and how to set course-related goals to succeed. 
+### [Lesson 1: Overivew of how Udacity works and how to set course-related goals to succeed](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-1-intro).
 
-### Lesson 2: Introduction to AI Fundamentals
+### [Lesson 2: Introduction to AI Fundamentals](#)
 * In this lesson we'll learn:
 
    - Microsoft's cloud-based solutions for AI and Machine Learning.
@@ -29,7 +29,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 
 * By the end of this lesson, you'll be ready and prepared for the rest of the course.
 
-### Lesson 3: AI and ML Core Concepts
+### [Lesson 3: AI and ML Core Concepts](#)
 * In this lesson we'll learn:
 
    - The relationship between AI and ML.
@@ -38,7 +38,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
    - Responsible ML and the ethical responsibilities of researchers, data scientists, and employees at organizations performing machine learning tasks.
 * By the end of this lesson, you will have a good idea of the main fundamental concepts we need to be able to start using AI and ML tools in Microsoft Azure.
 
-### Lesson 4: Machine Learning
+### [Lesson 4: Machine Learning](#)
 * In this lesson we'll learn:
 
    - Key Machine Learning Concepts to crafting a foundation for following lessons.
@@ -48,7 +48,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 
 * By the end of this lesson, you will have created three separate machine learning models using Azure Machine Learning and deployed two of them to production.
 
-### Lesson 5: Computer Vision
+### [Lesson 5: Computer Vision](#)
 * With this lesson, we will switch gears and focus on specialized AI services for specific AI and ML workloads. We'll learn:
 
    - Object Detection and Classification with Azure Computer Vision
@@ -60,7 +60,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 * By the end of this lesson, you will be ready to implement various capabilities of Azure Computer vision into your applications.
 
 
-### Lesson 6: Natural Language Processing
+### [Lesson 6: Natural Language Processing](#)
 * In this lesson, we'll focus on AI workloads that require Natural Human Language Understanding. We will learn:
 
    - Key Phrase and Entity extraction with Text Analytics to get insights about documents.
@@ -69,7 +69,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
    - Text and Speech Translation
 * By the end of this lesson, you will be ready to implement various NLP capabilities of Azure Cognitive Services into your applications. Some of these capabilities will be used in the next lesson when building conversational AI systems.
 
-### Lesson 7: Conversational AI
+### [Lesson 7: Conversational AI](#)
 * In this lesson, we'll build a knowledge base and craft conversational experiences between users and computers. We will learn:
 
    - What Conversational AI is.
