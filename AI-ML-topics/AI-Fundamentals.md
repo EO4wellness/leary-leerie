@@ -18,7 +18,7 @@ https://www.youtube.com/playlist?list=PLgoc4E_HHEUWTAwG6Smt39oLju90moDJr)
 ## Content Overview: 
 ### [Lesson 1: Overivew of how Udacity works and how to set course-related goals to succeed](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-1-intro).
 
-### [Lesson 2: Introduction to AI Fundamentals](#)
+### [Lesson 2: Introduction to AI Fundamentals](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AI-Fundamentals.md#lesson-2)
 * In this lesson we'll learn:
 
    - Microsoft's cloud-based solutions for AI and Machine Learning.
