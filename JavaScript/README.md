@@ -155,6 +155,8 @@
       
 ### [Code Library](https://github.com/EO4wellness/leary-leerie/blob/master/JavaScript/code%20samples/Readme.md)
 Snippets of Course Code examples, and what they do. 
+
+
 https://github.com/EO4wellness/leary-leerie/tree/master/JavaScript/code%20samples 
 
 ### Further Reading:
