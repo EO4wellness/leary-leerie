@@ -14,3 +14,8 @@
 ## Notes: 
 
 ## Exercises: 
+
+## Helps: 
+* [Udacity Help Desk](https://udacity.zendesk.com/hc/en-us)
+* [Udacity FAQ:](https://www.udacity.com/contact)
+* [Udacity Scholarships](https://www.udacity.com/scholarships)
