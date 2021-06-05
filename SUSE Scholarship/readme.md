@@ -1,4 +1,4 @@
-# SUSE Scholarship 
+# [SUSE Scholarship](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 * This is my personal notes and log of the SUSE Scholarship Challenge 
 
 ## Events: 
