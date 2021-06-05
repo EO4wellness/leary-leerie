@@ -8,7 +8,7 @@
 * 2021-06-07 - [My Classroom Course Opens]()
 * Orientation - Live Session 1; Live Session 2; Replay 
 
-## Course Outline: 
+## Course Timeline: 
 ![course-timeline](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/course-dates-outline.jpg)
 
 ## Notes: 
