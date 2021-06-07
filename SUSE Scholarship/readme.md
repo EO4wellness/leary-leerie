@@ -12,6 +12,9 @@
 ![course-timeline](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/course-dates-outline.jpg)
 
 ## Notes: 
+* Phase 1 of this course begins June 7 and must becompleted 
+* [Submit](https://airtable.com/shrkteLETAwv5SKiw) | [Review Submissions](https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ)
+* [Student Hub](https://sites.google.com/udacity.com/suse-cloud-native-foundations/home)
 
 ## Exercises: 
 
