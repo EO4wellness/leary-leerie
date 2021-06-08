@@ -11,6 +11,16 @@
 ## Course Timeline: 
 ![course-timeline](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/course-dates-outline.jpg)
 
+## Required:
+Need to be comfortable with:
+- web application development with Python
+- using the CLI or command-line interface
+- using git commands
+- creating a DockerHub account
+* used throughout course. 
+* we are to closely follow the demos and exercise solutions with them
+
+
 ## Notes: 
 * Phase 1 of this course begins June 7 and must becompleted 
 * [Submit](https://airtable.com/shrkteLETAwv5SKiw) | [Review Submissions](https://airtable.com/shryLSJS4CQslJBO9/tbl6A99RXoOm7DYSJ)
