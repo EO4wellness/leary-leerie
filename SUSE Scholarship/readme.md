@@ -34,3 +34,5 @@ Need to be comfortable with:
 * [Udacity Help Desk](https://udacity.zendesk.com/hc/en-us)
 * [Udacity FAQ:](https://www.udacity.com/contact)
 * [Udacity Scholarships](https://www.udacity.com/scholarships)
+
+![Amazement](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-06-03_EO4Wellness_SUSE-scholarship-seat.png)
