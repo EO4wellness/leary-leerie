@@ -22,7 +22,7 @@ DAY 2: June 8, 2021
   3. Visit links and materials in DocHub Welcome email.
 
 DAY 3: 
-- This is Week 1 of 8: Welcome Week
+- [🎖Course Milestones Released!](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines)  Are you wondering how to pace yourself in order to stay on track to complete the course on time? Check out our Milestones & Recommended Course Timeline page of our Google site for some great advice! 
 
 
 DAY 4: Coming Soon. . . 
