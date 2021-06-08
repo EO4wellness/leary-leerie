@@ -1,5 +1,6 @@
 # [SUSE Scholarship](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 * This is my personal log of the SUSE Scholarship Challenge 
+* [GitHub SUSE Scholarship Organization-Repo](https://github.com/UdacityScholars)
 
 ## Events: 
 * 2021-05-21 - [Email invite](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-05-21-apply-now.jpg)
