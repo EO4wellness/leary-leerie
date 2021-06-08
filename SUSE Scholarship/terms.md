@@ -20,3 +20,5 @@ Ecosystem Advocate
 End User Community
 Keptn
 sandbox CNCF project
+good development practices:
+Cloud Native:
