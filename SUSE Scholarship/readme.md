@@ -7,7 +7,7 @@
 * 2021-05-21 - [Completed application](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-05-21_SUSE-cloud-native-scholarship-app.jpg)
 * 2021-06-03 - [Email Acceptance - Earned Seat](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-06-03-Scholarship-Seat.jpg)
 * 2021-06-07 - [My Classroom Course Opens]()
-* 2021-06-08 - Attended Slack Social Mixer & practiced my SPEED-Reading skills! 
+* 2021-06-08 - Finished Lesson 1; Attended Slack Social Mixer & practiced my SPEED-Reading skills! 
 * Orientation - Live Session 1; Live Session 2; Replay 
 
 ## Course Timeline: 
