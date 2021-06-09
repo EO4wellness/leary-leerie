@@ -22,3 +22,9 @@ Keptn
 sandbox CNCF project
 good development practices:
 Cloud Native:
+
+
+L2. 
+- Delivery Pipeline 
+- Endpoints
+- Application Status 
