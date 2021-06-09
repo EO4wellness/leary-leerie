@@ -1,5 +1,7 @@
 # Lesson 2
 
+L2.12: After watching this solution/walk through, since our instructor specifically mentioned Firefox or Chrome for testing, I want to try this same testing on other browsers and see if any fail, or if all chrome-based or firefox-based browsers work too, just out of curiousity sake. 
+
 ## Problems/Solutions: 
 L2.11 and L2.12:
 https://www.youtube.com/watch?v=0eQqnULB1qk 
