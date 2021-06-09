@@ -19,7 +19,9 @@
 * 🗓 Daily Scrum Sprint #2 Starts: Monday, July 5th*
 * 🔄 Reverse AMA: Monday, July 26th
 * 🎉 End of Program Party: Thursday, July 23rd
-*The starred events will be formally counted towards community participation.
+
+
+NOTE: *The starred events above are formally counted towards community participation.
 
 ## Course Timeline: 
 ![course-timeline](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/course-dates-outline.jpg)
