@@ -9,6 +9,15 @@
 * 2021-06-07 - [My Classroom Course Opens]()
 * 2021-06-08 - Finished Lesson 1; Attended Slack Social Mixer & practiced my SPEED-Reading skills! 
 * Orientation - Live Session 1; Live Session 2; Replay 
+* 👥 Study Teams: Thursday, June 10th
+* 💫 Student Advocates: Friday, June 11th* 
+* 🗣 Weekly AMAs: Tuesdays 10am PT & Thursdays 8:30pm PT (beginning June 15th) 
+* 🗓 Daily Scrum Sprint #1 Starts: Monday, June 14th*
+* 📝 Student Stories Challenge: Monday, June 28th*
+* 🗓 Daily Scrum Sprint #2 Starts: Monday, July 5th*
+* 🔄 Reverse AMA: Monday, July 26th
+* 🎉 End of Program Party: Thursday, July 23rd
+*The starred events will be formally counted towards community participation.
 
 ## Course Timeline: 
 ![course-timeline](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/course-dates-outline.jpg)
