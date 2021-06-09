@@ -2,6 +2,9 @@
 
 L2.12: After watching this solution/walk through, since our instructor specifically mentioned Firefox or Chrome for testing, I want to try this same testing on other browsers and see if any fail, or if all chrome-based or firefox-based browsers work too, just out of curiousity sake. 
 
+L2.14 "Implementing logging is going to be very specific to the framework that you are using. Most of the time there are already libraries that are available for you to use to implement basic logging capabilities. This is the case with flask as well."   as we have seen in our work-through of these codes. 
+
+
 ## Problems/Solutions: 
 L2.11 and L2.12:
 https://www.youtube.com/watch?v=0eQqnULB1qk 
