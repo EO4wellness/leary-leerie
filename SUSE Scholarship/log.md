@@ -5,14 +5,14 @@
 - June 7 – 11, 2021
 - Organizer: SUSE Cloud Native Foundations Scholarship - Phase 1
 
-DAY 1: June 7, 2021
+### DAY 1: June 7, 2021
 - Logged into our classroom.  
 - Set up a study schedule, reminders, and copied it to my calendar. 
 - Went through Lesson 1: Welcome.
 - Joined Scholarship Slack
 - Introduced myself in Slack and shared a Welcome graphic I made.
 
-DAY 2: June 8, 2021
+### DAY 2: June 8, 2021
 - Spent about an hour in lesson 1 materials.
 - Watched all videos.
 - Took notes.
@@ -22,7 +22,7 @@ DAY 2: June 8, 2021
   2. Review this lesson further before moving on.
   3. Visit links and materials in DocHub Welcome email.
 
-DAY 3: June 9, 2021
+### DAY 3: June 9, 2021
 - [🎖Course Milestones Released!](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines) 
 - [Attended the Fabulous Orientation!](https://docs.google.com/presentation/d/1mZXRZU7SlLu6uWMDVO9fKa6TtdCfsiEJLy8LBtYLAEQ/present#slide=id.g1bdfc81a4a_0_0)
 - Jumped on Slack and tried to help by answering questions & providing links. 
@@ -32,7 +32,7 @@ DAY 3: June 9, 2021
 ![Course-Help-Procedures](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/help-best-practices.jpg)
 
 
-DAY 4: Coming Soon. . . 
+### DAY 4: Coming Soon. . . 
 
 ## Week 2 of 8: 
 ## Week 3 of 8: 
