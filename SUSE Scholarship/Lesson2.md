@@ -84,3 +84,12 @@ Actually, I did the exact thing but it didn't write. I searched a little bit and
 
 It depends on how you run the application. if you use flask run , code inside if __name__ == '__main__':  will not run. if you use python {{filename.py}}  it should work.
 
+local, and remote. Suppose you log and collect the logs remotely and index by Elastic Search, you'll reduce the time of incident detection.
+
+https://www.manning.com/books/microservices-patterns?a_aid=microservices-patterns-chris&a_bid=2d6d8a4d
+
+https://flask.palletsprojects.com/en/1.1.x/logging/
+
+https://microservices.io
+
+I didn't have good intuition as to what they meant by ECOsystems in regards to these topics UNTIL I saw [this video](https://www.youtube.com/watch?v=t7iVCIYQbgk) recomended by a fellow student(Giorgio Zoppi) intro: "...1600 microservices in our ecosystem and growing..." makes the point better than dictionary definition on this. 
