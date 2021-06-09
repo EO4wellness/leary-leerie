@@ -1,4 +1,5 @@
 # SUSE Cloud Native Foundations Scholarship - Phase 1
+* This is my SUSE Scholarship TIL (Today I Learned) log
 
 ## Week 1 of 8: Welcome Week
 - June 7 – 11, 2021
@@ -21,8 +22,14 @@ DAY 2: June 8, 2021
   2. Review this lesson further before moving on.
   3. Visit links and materials in DocHub Welcome email.
 
-DAY 3: 
-- [🎖Course Milestones Released!](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines)  Are you wondering how to pace yourself in order to stay on track to complete the course on time? Check out our Milestones & Recommended Course Timeline page of our Google site for some great advice! 
+DAY 3: June 9, 2021
+- [🎖Course Milestones Released!](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines) 
+- [Attended the Fabulous Orientation!](https://docs.google.com/presentation/d/1mZXRZU7SlLu6uWMDVO9fKa6TtdCfsiEJLy8LBtYLAEQ/present#slide=id.g1bdfc81a4a_0_0)
+- Jumped on Slack and tried to help by answering questions & providing links. 
+- Visited Slack (all of them, not just this course's slack workspace), LinkedIn and GitHub to add everyone to the new Udacity Scholar's Org who had requested it overnight. Goind to do this once per day so I don't get overwhelmed. Then I closed slack and everything to not get distracted from my study focus. 
+- Completed Lesson 2, concepts 1-10. 
+- [Course Help for Scholarships](https://udacity.zendesk.com/hc/en-us/requests/new?ticket_form_id=210726)
+![Course-Help-Procedures](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/help-best-practices.jpg)
 
 
 DAY 4: Coming Soon. . . 
