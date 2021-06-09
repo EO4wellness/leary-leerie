@@ -7,8 +7,10 @@
 * 2021-05-21 - [Completed application](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-05-21_SUSE-cloud-native-scholarship-app.jpg)
 * 2021-06-03 - [Email Acceptance - Earned Seat](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-06-03-Scholarship-Seat.jpg)
 * 2021-06-07 - [My Classroom Course Opens]()
-* 2021-06-08 - Finished Lesson 1; Attended Slack Social Mixer & practiced my SPEED-Reading skills! 
-* Orientation - Live Session 1; Live Session 2; Replay 
+* 2021-06-08 - Finished [Lesson 1](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md); Attended Slack Social Mixer & practiced my SPEED-Reading skills! 
+* 2021-06-09 - Attended: [Orientation - Live Session 1], tried to help out answering questions; Completed [Lesson 2](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson2.md); Began writing notes and definintion of terms for study-helps; Spent time in Slack both reading and helping answer questions/encouraging others. Re-read all of the Course Student website materials.  Listened to the Introduction/Scope of Study of [Lesson 3](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson3.md) for context. 
+
+
 * 👥 Study Teams: Thursday, June 10th
 * 💫 Student Advocates: Friday, June 11th* 
 * 🗣 Weekly AMAs: Tuesdays 10am PT & Thursdays 8:30pm PT (beginning June 15th) 
