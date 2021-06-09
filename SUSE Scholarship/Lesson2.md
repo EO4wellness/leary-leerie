@@ -4,6 +4,7 @@ L2.12: After watching this solution/walk through, since our instructor specifica
 
 L2.14 "Implementing logging is going to be very specific to the framework that you are using. Most of the time there are already libraries that are available for you to use to implement basic logging capabilities. This is the case with flask as well."   as we have seen in our work-through of these codes. 
 
+L2.15: Morphing, constant movement. Consider if the structure of the project is enabling or blocking the new feature development(s). 
 
 ## Problems/Solutions: 
 L2.11 and L2.12:
