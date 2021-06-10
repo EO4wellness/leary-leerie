@@ -1,10 +1,105 @@
 # L1
+* [Recommended Milestone Deadline: Week 1](https://drive.google.com/file/d/1Y8Hup0sZok_h2vmbZgyFt2zFHffqTtYk/view)
+* Week 1: June 7 – 11, 2021 
+* Began Lesson 1: June 7
+* Completed Lesson 1: June 8
+
+# Lesson 1 Overview:
+1.1 Meet Your Instructor: Katie Gamanji  
+1.2 Prerequisites 
+1.3 Course Outlilne 
+1.4 Introduction to Cloud-Native
+1.5 CNCS and Cloud-Native Tooling
+1.6 Stakeholders 
+1.7 Tools Environment and Dependencies 
+1.8 Recap 
+1.9 Good Luck! 
+
+1.1 Terms 
+- CI/CD Pipeline
+- Container / Containerize 
+- Application 
+- Kubernetes
+- Kubernetes Cluster 
+- Cloud Platform Engineer 
+- Platform Maintanance 
+- Developers 
+- Deploy Applications 
+- Host Applications 
+- Automation 
+- Upskilling
+- Iterations 
+- User Feedback 
+- CNCF (Cloud Native Computing Foundation) 
+- Ecosystem
+- Ecosystem Advocate 
+- End-User Community 
+- Keptn 
+- sandbox CNCF project 
+
+1.2 Must be comfortable with: 
+- web application development with Python (ie: writing a web application with multiple API endpoints in Python or familiar with a framework like Flask)
+- Using CLI (Comand-Line Interface) (create and navigate directories by command, create files, install packages, binaries, etc)
+- using git commands (create or clone a repo, make changes, comitt them to a branch) have a github account
+- create DockerHub account (we will be pushing images to the public registry) 
+* used in course
+* install now
+* follow along all demos and examples 
+
+1.3 Course Outline: 
+* course long-looking at realistic examples 
+* pratice applying good development practices 
+* containerize an application before release 
+* use automated CI/CD pipeline 
+* Introduction to Microservice Fundamentals 
+* Overview Cloud-Native ecosystem 
+* architectural models 
+* consider these when developing applications 
+* design paterns: 
+  - monoliths 
+  - microservices 
+* best practices
+* implementation stage 
+* optimize applications 
+* how to package applications 
+* Use of Docker 
+* deploy it 
+* Kubernetes cluster 
+* configurations: 
+  - declarative 
+  - imperative 
+* deploy Kubernetes cluster using K3s
+* evaluate 
+* PaaS (Platform as a serivce) 
+* use of Cloud Foundry for deploying applications 
+* underlying infrastructure 
+* use of cloud-native tooling
+* construct CI/CD pipeline 
+* Deployment Mechanisms:
+   - GitHub actions 
+   - Argo CD
+* Template Configuration Managers:
+  - Helm 
+
 
 - Introduction to Cloud Native
-- CNCF and Cloud Native tooling
-- Stakeholders
+- Introduction to Principles Cloud Native Advocates. 
+- Containers: closely correlated with microservice-based architecture 
+- Cloud-Native ecosystem tools 
+- Kubernetes: Framework to manage containers at scale 
+- Kubernetes Integration with tools which provide: 
+  -- Networking
+  -- Storage 
+  -- Service Mesh 
+  -- Traceability 
+  -- more 
+- Stakeholders: Those who will consider adoption of cloud-native tooling
+- Key points for stakeholders to consider 
+  -- technical perspective 
+  -- business perspective 
 - Tools, Environment & Dependencies
 
+[1.4 ](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65) 
 Cloud-native: is the the set of practices that empowers an organization to build and manage applications at scale. 
 Cloud-native can achieve using private, hybrid, or public cloud providers. 
 needs to be agile 
