@@ -100,10 +100,34 @@
 - Tools, Environment & Dependencies
 
 [1.4 ](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65) 
-Cloud-native: is the the set of practices that empowers an organization to build and manage applications at scale. 
-Cloud-native can achieve using private, hybrid, or public cloud providers. 
-needs to be agile 
-needs speed
-integrating customer feedback
-adapting to technology
+- Cloud-native: is the the set of practices that empowers an organization to build and manage applications at scale. 
+- Cloud-native can achieve using private, hybrid, or public cloud providers. 
+-- needs to be agile 
+-- needs speed
+-- integrating customer feedback
+-- adapting to technology
+
+## Resources:
+A fellow student in the scholarship offered these fabulous resources to sumarize this week's study. 
+
+1 - Cloud Native 101:
+https://www.youtube.com/watch?v=9Ik96SBaIvs
+
+2 - Container and Kubernetes 101:
+https://www.youtube.com/watch?v=gFozhTXOx18
+
+3 - Virtual Machines vs Docker Containers - Dive Into Docker:
+https://www.youtube.com/watch?v=TvnZTi_gaNc
+
+4 - Containerization Explained:
+https://www.youtube.com/watch?v=0qotVMX-J5s
+
+5 - Introduction to Kubernetes and Docker:
+https://www.youtube.com/watch?v=PfRWP60qxPM
+
+6 - Kubernetes vs. Docker: It's Not an Either/Or Question:
+https://www.youtube.com/watch?v=2vMEQ5zs1ko
+
+7 - Review:
+https://www.youtube.com/watch?v=1xo-0gCVhTU
 
