@@ -33,6 +33,11 @@
 
 
 ### DAY 4: June 10, 2021 
+- Reviewed Lesson 1 terms and notes. 
+- Reviewed Lesson 2 terms and notes.  
+- Posted to slack.
+- Encouraged other students in the course. 
+- Did independent research on the topics involved in course. 
 
 ### DAY 5: June 11, 2021
 - Studied Course Lesson 3.
