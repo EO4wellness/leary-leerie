@@ -76,7 +76,10 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 
 
 ## Week 2 of 8: June 14, 2021
-### DAY 8: Coming Soon. . . 
+### DAY 8: Lesson 3.6-3.9
+- slack participation 
+
+### Day 9: Coming Soon. . . 
 
 
 ## Week 3 of 8: 
