@@ -99,13 +99,70 @@
   -- business perspective 
 - Tools, Environment & Dependencies
 
-[1.4 ](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65) 
+[1.4 Introduction to Cloud-Native ](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65) 
 - Cloud-native: is the the set of practices that empowers an organization to build and manage applications at scale. 
 - Cloud-native can achieve using private, hybrid, or public cloud providers. 
 -- needs to be agile 
 -- needs speed
 -- integrating customer feedback
 -- adapting to technology
+
+[1.5 CNCF and Cloud-Native Tooling](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/79ae4fb8-2601-43f5-a879-8470d4a6c21c)
+* Tools to manage containers at scale
+* Container Orchestrators
+  - Docker Swarm 
+  - Apache Mesos 
+  - Kubernetes 
+* Kubernetes took the lead to define. 
+* Kubernetes started in 2015 from Borg, a google-open source container orchestrator.
+* Kubernetes is now a part of CNCF
+* CNCF is Cloud Native Computing Foundation 
+* CNCF was founded in 2015
+* vendor neutral home to open-source projects 
+  - Kubernetes
+  - Prometheus 
+  - ETCD
+  - Envoy
+  - more 
+* Kubernetes is a container orchestrator that is capable of solutionize the integration of the following functionalities:
+  - runtime
+  - netowkring
+  - storage 
+  - service mesh
+  - logs and metrics
+  - tracking 
+
+[1.6 Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
+
+[1.7 Tools Environment and Dependencies](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b)
+Intall: 
+- [Python](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/downloads)
+- [Docker](https://docs.docker.com/get-docker/)
+- [Vagrant](https://www.vagrantup.com/downloads)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) version 6.1.16 or higher 
+
+
+[1.8 Recap](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/e9ed564e-e3c6-4052-971c-e64fd8f57052)
+Summary
+
+In the first lesson, we went through:
+
+    Introduction to Cloud Native
+    CNCF and Cloud Native tooling
+    Stakeholders
+    Tools, Environment & Dependencies
+
+
+[1.9 Good Luck](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/74cf0724-e862-4851-91c3-f9c698c8b63c)
+* Adapt quickly
+* change as needed
+* innovation 
+* tech changes 
+* containers
+* automation 
+* cloud-native projects and tech 
+* lead a transition to modern infrastrcture 
 
 ## Resources:
 A fellow student in the scholarship offered these fabulous resources to sumarize this week's study. 
