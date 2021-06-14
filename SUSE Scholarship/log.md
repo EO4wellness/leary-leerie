@@ -32,9 +32,48 @@
 ![Course-Help-Procedures](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/help-best-practices.jpg)
 
 
-### DAY 4: Coming Soon. . . 
+### DAY 4: June 10, 2021 
 
-## Week 2 of 8: 
+### DAY 5: June 11, 2021
+- Studied Course Lesson 3.
+- Independent Course Study 
+- Review of lesson 1 and 2 concepts and terms 
+- Reading materials from the Digging Deeper classroom materials and Slack #resources channel 
+- contacted team leaders to discover which ones to join.
+- encouraged others on slack
+- posted to slack 
+
+### DAY 6: June 12, 2021
+- Studied Course Lesson 3.
+- Independent Course Study 
+- Review of lesson 1 and 2 concepts and terms 
+- Reading materials from the Digging Deeper classroom materials and Slack #resources channel 
+- encouraged others on slack
+- posted to slack 
+
+### DAY 7: June 13, 2021 
+- Studied Course Lesson 3.
+- Independent Course Study 
+- Review of lesson 1 and 2 concepts and terms 
+- Reading materials from the Digging Deeper classroom materials and Slack #resources channel 
+- encouraged others on slack
+- posted to slack 
+- Joined Women in Tech What's App student study group 
+- Considered: 
+https://www.youtube.com/watch?v=9Ik96SBaIvs
+https://www.youtube.com/watch?v=gFozhTXOx18
+https://www.youtube.com/watch?v=TvnZTi_gaNc
+https://www.youtube.com/watch?v=0qotVMX-J5s
+https://www.youtube.com/watch?v=PfRWP60qxPM
+https://www.youtube.com/watch?v=2vMEQ5zs1ko
+https://www.youtube.com/watch?v=1xo-0gCVhTU
+https://www.youtube.com/watch?v=pxwUXJmAER4
+
+
+## Week 2 of 8: June 14, 2021
+### DAY 8: Coming Soon. . . 
+
+
 ## Week 3 of 8: 
 ## Week 4 of 8: 
 ## Week 5 of 8: 
