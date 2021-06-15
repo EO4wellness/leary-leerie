@@ -76,10 +76,20 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 
 
 ## Week 2 of 8: June 14, 2021
-### DAY 8: Lesson 3.6-3.9
+### DAY 8: June 14, 2021
+- Lesson 3.6-3.9
 - slack participation 
+- enrolled in daily scrum
 
-### Day 9: Coming Soon. . . 
+### Day 9: June 15, 2021
+- Lesson 3.9 Reviewed
+- 3.10 completed
+- preview 3.10
+- slack participation 
+- enrolled in several teams
+
+### DAY 10: June 16, 2021
+Coming Soon. . . 
 
 
 ## Week 3 of 8: 
