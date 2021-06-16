@@ -89,7 +89,11 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 - enrolled in several teams
 
 ### DAY 10: June 16, 2021
-Coming Soon. . . 
+- Lesson 3 studies 
+- Slack participation 
+- Completed [Linux lesson 1](https://www.udacity.com/course/linux-command-line-basics--ud595) 
+
+### DAY 11: June 17, 2021 Coming Soon. . . 
 
 
 ## Week 3 of 8: 
