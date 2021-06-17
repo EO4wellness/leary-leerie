@@ -651,7 +651,51 @@ With this information, we now have the foundation that we need in order to jump 
  13. Solution Deploying and Testing 
  14. A lap around azure ML
  15. Quizzes a lap around azure ml
- 16. ...
+ 16. Exercise: Create a Classification 
+ 17. Solution: Create a Classification 
+ 18. Exercise: Create a Clustering 
+ 19. Solution: Create a Clustering 
+ 20. ML Edge Cases 
+ 21. Lesson Review 
+ 22. Glossary 
+ 
+- Accuracy (classification): A measure which is defined as the number of correct predictions divided by the total number of predictions.
+- Area Under the Curve: the percentage of area underneath the ROC curve. This is a measure of how accurate the two-class model is, with numbers closer to 1 being better.
+- Azure Machine Learning Studio: The integrated development environment (IDE) for Azure Machine Learning.
+- Compute (Azure ML): Virtual machine resources which are dedicated to performing tasks in Azure Machine Learning. Compute may include individual virtual machines (VMs), typically configured as data science VMs, or it may include a cluster of VMs intended for training and inference pipeline executions.
+- Confusion matrix: A table representing predicted versus actual values for a classification problem. A classic two-class confusion matrix has four boxes. Using "Yes" and "No" as the two classes, these four boxes are:
+        True Positive: we predicted Yes correctly
+        False Positive: we predicted Yes but it was really No
+        False Negative: we predicted No but it was really Yes
+        True Negative: we predicted No correctly
+- Data Labeling: This functionality allows you to label images as part of an image classification project.
+- Experiment (Azure ML): A collection of trials used to validate a user's hypothesis. An experiment may contain multiple runs of pipelines.
+- Feature: Inputs which help us understand what affects the label.
+- Feature engineering: Creating new features from existing data. This might include calculating new features, translating a street address into latitude and longitude, or parsing passages of text for meaning.
+- Feature selection: Removing a column from consideration when training a model.
+- Label: The thing we want to predict.
+- Linked Services: This functionality allows you to integrate Azure Machine Learning with other Azure services. At present, the only linked service offering is to connect to Azure Synapse Analytics, which is a modern data warehousing offering on Azure.
+- Mean Absolute Error (MAE): An evaluation measure for any regression model. It is the average difference between predicted and actual values. This works well when dealing with small ranges of numbers.
+- Mean Absolute Percent Error (MAPE): An evaluation measure for any regression model. It is the percentage difference between the predicted and actual values. If the actual value is 0, MAPE will fail with a divide by 0 error, so it is not a good measure if the actual value can be 0. MAPE works best when you have large ranges of numbers.
+- Microservice: A lightweight, independent service. Typically, microservices have one job and communicate with each other using well-defined operations.
+- Node (input, output): An input or output connection point on a component. Each component will have 0 to 3 input nodes and 0 to 3 output nodes. Each input or output node has a specific type, such as DataFrameDirectory, - TransformationDirectory, or UntrainedModelDirectory. An input of DataFrameDirectory can only attach to an output of the same type.
+- Overfitting: A situation which happens when a trained model latches onto the particular relationships within a - training data set, but those particulars are not always indicative of the broader world.
+- Pipeline (Azure ML): A collection of components connected together in a defined order. The metaphor represents how data moves from a source (an initial dataset) and flows through components until it reaches a destination. There are two types of pipeline: training pipelines and inference pipelines.
+- Pipeline Asset: A component available within Azure Machine Learning. This includes datasets you have imported, sample datasets which come with the service, and different components to transform, train, evaluate, and deploy models.
+- Precision: A measure which calculates how frequently our predicted value is correct. It is defined as True Positives / (True Positives + False Positives).
+- R^2 (R-squared): An evaluation measure for linear regression models which ranges from 0-1, where 1 is the highest possible score.
+- Recall: A measure which calculates how frequently we correctly predict a value. It is defined as True Positives / (True Positives + False Negatives).
+- Receiver Operating Characteristic (ROC) curve: A plot which represents true positive versus false positive rates for a two-class model.
+- Reinforcement learning: A machine learning technique in which we train an agent to observe its environment and use those environmental clues to make a decision.
+- Root Mean Square Error (RMSE): An evaluation measure for any regression model. RMSE works best when you are concerned with large differences between the predicted and actual values.
+- Root Mean Square Log Error (RMSLE): An evaluation measure for any regression model. RMSLE works best when you are concerned with large percentage differences between the predicted and actual values.
+- Run (Azure ML): An attempt to train a model in Azure Machine Learning. This can be done through a pipeline in the Azure ML designer or through Automated ML.
+- Semi-supervised learning: A machine learning technique in which we have a small percentage of data with labels and a large percentage of unlabeled data.
+- Sink node: A node with no outputs. An example of a sink node is Web Service Output.
+- Source node: A node with no inputs. An example of a source node is any dataset you bring onto the canvas.
+- Supervised learning: A machine learning technique in which we have a known good answer for our label and attempt to learn from this label for inference purposes. The most common examples of this include classification and regression.
+- Unsupervised learning: A machine learning technique in which we do not have labels for our data. We use unsupervised learning techniques to try to discover what those labels should be. Clustering is the most common example of this.
+
 
 [Glossary Flashcards](https://www.brainscape.com/flashcards/lesson-4-machine-learning-10093752/packs/17974857)
 
