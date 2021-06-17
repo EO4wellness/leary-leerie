@@ -93,7 +93,15 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 - Slack participation 
 - Completed [Linux lesson 1](https://www.udacity.com/course/linux-command-line-basics--ud595) 
 
-### DAY 11: June 17, 2021 Coming Soon. . . 
+### DAY 11: June 17, 2021 
+- SUSE thru Lessons 3.16 
+- Linux lesson 2
+- Took quiz  #1 and scored 95% on my first attempt. 
+- Reviewed flashcards of quiz 1
+- Slack participation
+- Posted some resources to slack 
+
+### DAY 12: June 18, 2021 Coming Soon. . . 
 
 
 ## Week 3 of 8: 
