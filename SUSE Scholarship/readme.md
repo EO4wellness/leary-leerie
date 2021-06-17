@@ -12,11 +12,10 @@
 * 2021-06-10 The Study Team initiatives were announced.  I read all of the announcements, and contacted several different team leaders to determine which study groups I wanted to join when it becomes available to do so.  Currently, I'm also a part of the Women in Tech team and the projects team, too.  
 * 2021-06-11 Student Advocate forms were made available.  I visited slack and encouraged others to enroll. 
 * 2021-06-13 Week 1: Completed.  
-
+* 🗓 Daily Scrum Sprint #1 Starts: Monday, June 14th* - committed to and joined the #DailyScrum Sprint 1 team. 
 
 
 * 🗣 Weekly AMAs: Tuesdays 10am PT & Thursdays 8:30pm PT (beginning June 15th) 
-* 🗓 Daily Scrum Sprint #1 Starts: Monday, June 14th*
 * 📝 Student Stories Challenge: Monday, June 28th*
 * 🗓 Daily Scrum Sprint #2 Starts: Monday, July 5th*
 * 🔄 Reverse AMA: Monday, July 26th
