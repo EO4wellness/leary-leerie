@@ -101,8 +101,16 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 - Slack participation
 - Posted some resources to slack 
 
-### DAY 12: June 18, 2021 Coming Soon. . . 
+### DAY 12: June 18, 2021 
+- [Finished my current round of #100daysofcode challenge](https://github.com/EO4wellness/100-days-of-code/blob/master/History-EO4Wellness/round-2_log.md)
+- Studied SUSE 3.16-3.20
+- Reviewed flashcards of quiz 1
+- Slack participation 
+- Posted some resources to slack/airtable 
+- Spent some time encouraging other students 
 
+### DAY 13: June 19, 2021 Coming Soon. . . 
+- Started my next [round of #100daysofcode](https://github.com/EO4wellness/100-days-of-code/blob/master/History-EO4Wellness/round-3_log.md) challenge
 
 ## Week 3 of 8: 
 ## Week 4 of 8: 
