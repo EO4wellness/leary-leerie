@@ -50,3 +50,9 @@ Need to be comfortable with:
 * [Udacity Scholarships](https://www.udacity.com/scholarships)
 
 ![Amazement](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-06-03_EO4Wellness_SUSE-scholarship-seat.png)
+
+## Teams I've Joined: 
+* [Memers](https://padlet.com/sadmibouhafs/memers_ideas)
+* Mature-Students
+* Women in Tech (in Cloud-who code) 
+
