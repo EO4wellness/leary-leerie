@@ -191,5 +191,8 @@ https://www.youtube.com/watch?v=1xo-0gCVhTU
 8 - Vagrant Cheat Sheet: 
 https://learn.hashicorp.com/vagrant
 
+9 - Vagrant Cheat Sheet:
+https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
+
 
 2021-06-13 Today we are to conclude our week one of studies in the course and the course milestone suggestions include we should be done with lesson one by the end of today.  I posted in the student slack seeking to help anyone who hasn't finished.  I'm currently in lesson 3, so I'm good as far as meeting the suggested deadlines. 
