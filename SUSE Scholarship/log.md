@@ -111,6 +111,18 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 
 ### DAY 13: June 19, 2021 Coming Soon. . . 
 - Started my next [round of #100daysofcode](https://github.com/EO4wellness/100-days-of-code/blob/master/History-EO4Wellness/round-3_log.md) challenge
+- Finished lesson 3 studies
+- quiz and flashcards 
+- Slack participation 
+- studies related Udacity courses
+
+### DAY 14: June 20, 2021 
+- Lesson 4
+
+
+Coming Soon. . .
+
+
 
 ## Week 3 of 8: 
 ## Week 4 of 8: 
