@@ -117,14 +117,23 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 - studies related Udacity courses
 
 ### DAY 14: June 20, 2021 
-- Lesson 4
+- Lesson 4 - Finished Study of Lesson 4 
+- Added Milestone to Profile
+- Quiz and flashcard participation 
+- slack participation 
+- study of other Udacity courses related to this one 
+
+## Week 3 of 8: Begins 2021-06-21
+* Sugessted Milestone for this week: 
+
+### Day 15: June 21, 2021
+- Begin Lesson 51.-5.5
+- Slack participtation 
+- Reading Pytest and Pylink documenation 
+- Taking Udemy course: [Vagrant](https://www.udemy.com/share/104edaAkMSdF5RRH4=/) earning [course completion and certification](https://www.udemy.com/certificate/UC-9df434fe-64b7-492e-8866-cb19286821b7/)
 
 
-Coming Soon. . .
 
-
-
-## Week 3 of 8: 
 ## Week 4 of 8: 
 ## Week 5 of 8: 
 ## Week 6 of 8: 
