@@ -9,6 +9,8 @@
 
 [PYTEST](https://docs.pytest.org/en/6.2.x/) - Is a testing framework  
 
+[Pylint](https://www.pylint.org/) - static code analysis tool
+
 
 
 
