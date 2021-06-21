@@ -65,14 +65,29 @@
 - posted to slack 
 - Joined Women in Tech What's App student study group 
 - Considered: 
-https://www.youtube.com/watch?v=9Ik96SBaIvs
-https://www.youtube.com/watch?v=gFozhTXOx18
-https://www.youtube.com/watch?v=TvnZTi_gaNc
-https://www.youtube.com/watch?v=0qotVMX-J5s
-https://www.youtube.com/watch?v=PfRWP60qxPM
-https://www.youtube.com/watch?v=2vMEQ5zs1ko
-https://www.youtube.com/watch?v=1xo-0gCVhTU
-https://www.youtube.com/watch?v=pxwUXJmAER4
+[Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs)
+
+
+[Container and Kubernetes 101](https://www.youtube.com/watch?v=gFozhTXOx18)
+
+
+[Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
+
+
+[Containerization Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
+
+
+[Introduction to Kubernetes and Docker](https://www.youtube.com/watch?v=PfRWP60qxPM)
+
+
+[Kubernetes vs. Docker: It's Not an Either/Or Question](https://www.youtube.com/watch?v=2vMEQ5zs1ko)
+
+
+[Introduction to Microservices, Docker, and Kubernetes ](https://www.youtube.com/watch?v=1xo-0gCVhTU) 
+
+
+[Virtualize vs. Containerize (Which should I choose?)](https://www.youtube.com/watch?v=pxwUXJmAER4)
+
 
 
 ## Week 2 of 8: June 14, 2021
@@ -124,7 +139,7 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 - study of other Udacity courses related to this one 
 
 ## Week 3 of 8: Begins 2021-06-21
-* Sugessted Milestone for this week: 
+* Sugessted Milestone for this week: [Finish Lesson 2](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines)
 
 ### Day 15: June 21, 2021
 - Begin Lesson 51.-5.5
@@ -132,6 +147,8 @@ https://www.youtube.com/watch?v=pxwUXJmAER4
 - Reading Pytest and Pylink documenation 
 - Taking Udemy course: [Vagrant](https://www.udemy.com/share/104edaAkMSdF5RRH4=/) earning [course completion and certification](https://www.udemy.com/certificate/UC-9df434fe-64b7-492e-8866-cb19286821b7/)
 
+### Day 16: June 22, 2021
+- Coming soon 
 
 
 ## Week 4 of 8: 
