@@ -142,12 +142,18 @@
 * Sugessted Milestone for this week: [Finish Lesson 2](https://sites.google.com/udacity.com/suse-cloud-native-foundations/resources/milestones-course-timelines)
 
 ### Day 15: June 21, 2021
-- Begin Lesson 51.-5.5
+- Begin Lesson 5.1.-5.5
 - Slack participtation 
 - Reading Pytest and Pylink documenation 
 - Taking Udemy course: [Vagrant](https://www.udemy.com/share/104edaAkMSdF5RRH4=/) earning [course completion and certification](https://www.udemy.com/certificate/UC-9df434fe-64b7-492e-8866-cb19286821b7/)
 
 ### Day 16: June 22, 2021
+- Studied 5.6-5.7
+- ocr?
+- Slack participation 
+
+
+### Day 17: June 23, 2021
 - Coming soon 
 
 
