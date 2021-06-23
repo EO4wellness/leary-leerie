@@ -149,11 +149,17 @@
 
 ### Day 16: June 22, 2021
 - Studied 5.6-5.7
-- ocr?
+- ocl
 - Slack participation 
 
 
 ### Day 17: June 23, 2021
+- studied 5.8-5.10
+- ArgoCD
+- slack participation 
+- working on study group team presentation 
+
+### Day 18: June 24, 2021
 - Coming soon 
 
 
