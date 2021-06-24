@@ -9,7 +9,7 @@ Basic Python (data types, Functions, REST requests, web development)
 https://www.udacity.com/course/introduction-to-python--ud1110
 
 
-Ability to use Git, Linux machines, and Linux Command Line
+Ability to use [Git](https://github.com/EO4wellness/leary-leerie/blob/master/version-control/readme.md), Linux machines, and Linux Command Line
 https://www.udacity.com/course/version-control-with-git--ud123
 
 https://www.udacity.com/course/linux-command-line-basics--ud595
