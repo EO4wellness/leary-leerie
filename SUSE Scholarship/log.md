@@ -152,7 +152,6 @@
 - ocl
 - Slack participation 
 
-
 ### Day 17: June 23, 2021
 - studied 5.8-5.10
 - ArgoCD
@@ -160,6 +159,13 @@
 - working on study group team presentation 
 
 ### Day 18: June 24, 2021
+- [Reviewed Microservices Architecture](https://www.freecodecamp.org/news/microservices-architecture-for-humans/)
+- studied thru 5.12
+- slack participation 
+- working on study group team presentation 
+- founded a ["prerequisites" folder](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship/prerequisites) and started studying some of the various lessons there. these links and courses were call copied over from the student google website's "orientation" slides
+
+### Day 19: June 25, 2021
 - Coming soon 
 
 
