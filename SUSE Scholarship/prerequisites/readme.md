@@ -2,7 +2,7 @@
 
 Cloud Native Fundamentals Course
 
-Understand the basics of http (like client, server, and internet request)
+[Understand the Basics](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship/prerequisites/Understand%20Basics) of http (like client, server, and internet request)
 https://www.udacity.com/course/client-server-communication--ud897
 
 Basic Python (data types, Functions, REST requests, web development) 
