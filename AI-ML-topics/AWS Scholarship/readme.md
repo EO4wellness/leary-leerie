@@ -5,6 +5,9 @@
 * Orientation: June 29
 * Phase 1 Ends: Oct 11, 2021 at 11:59 PM PT
 
+# Scholar Groups:
+[LinkedIn](https://www.linkedin.com/groups/12545753/) | 
+[GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars)
 
 # Course Links: 
 * Recommended Prerequisites: 
