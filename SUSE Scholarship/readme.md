@@ -13,7 +13,7 @@
 * 2021-06-11 Student Advocate forms were made available.  I visited slack and encouraged others to enroll. 
 * 2021-06-13 Week 1: Completed.  
 * 🗓 Daily Scrum Sprint #1 Starts: Monday, June 14th* - committed to and joined the #DailyScrum Sprint 1 team. 
-
+* 2021-06-25 Finished Course!  Great learning.  Loved the knowledge and overall understanding I gained.  Thank you! 🙏
 
 * 🗣 Weekly AMAs: Tuesdays 10am PT & Thursdays 8:30pm PT (beginning June 15th) 
 * 📝 Student Stories Challenge: Monday, June 28th*
