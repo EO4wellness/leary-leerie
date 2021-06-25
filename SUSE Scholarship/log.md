@@ -166,6 +166,15 @@
 - founded a ["prerequisites" folder](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship/prerequisites) and started studying some of the various lessons there. these links and courses were call copied over from the student google website's "orientation" slides
 
 ### Day 19: June 25, 2021
+- SUSE continued studies of lesson 5
+- read [K3s.IO documentation](http://k3s.io/)
+- [Demystifying OCI](https://www.docker.com/blog/demystifying-open-container-initiative-oci-specifications/) article
+- [CI/CD](https://faun.pub/build-a-complete-ci-cd-pipeline-and-its-infrastructure-with-aws-jenkins-bitbucket-docker-22c49ad4674a) article
+- listened to managing [Kubernetes DB](https://hackernoon.com/the-hackernoon-podcast-managing-databases-on-kubernetes-with-anil-kumar-n1c377u)s podcast
+- Slack participation 
+- removed myself from SG I'm not going to be able to keep up with now I've been selected for a 2nd scholarship opportunity
+ 
+### Day 20: June 26, 2021 
 - Coming soon 
 
 
