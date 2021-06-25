@@ -12,5 +12,5 @@
 [Pylint](https://www.pylint.org/) - static code analysis tool
 
 
-
+![Finished](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Images/2021-06-25-Course-Completion-100percent.jpg)
 
