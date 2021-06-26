@@ -7,7 +7,8 @@
 
 # Scholar Groups:
 [LinkedIn](https://www.linkedin.com/groups/12545753/) | 
-[GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars)
+[GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars) | 
+[WhatsApp](https://chat.whatsapp.com/EsClWetDuGP5Si57UDhzUa)
 
 # Course Links: 
 * Recommended Prerequisites: 
