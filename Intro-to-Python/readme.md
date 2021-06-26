@@ -30,7 +30,11 @@ inside the parenthesis
 // Divides and rounds down to the nearest integer
 ```
 ## Order of Operations 
-[Math Forum review](http://mathforum.org/dr.math/faq/faq.order.operations.html)
+is the same as that of normal mathematics: 
+- parentheses first, 
+- then exponentiation, 
+- then multiplication/division, 
+- and then addition/subtraction.
 
 
 
