@@ -29,6 +29,8 @@ inside the parenthesis
     as you might have seen in other languages)
 // Divides and rounds down to the nearest integer
 ```
+## Order of Operations 
+[Math Forum review](http://mathforum.org/dr.math/faq/faq.order.operations.html)
 
 
 
