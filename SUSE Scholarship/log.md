@@ -175,6 +175,12 @@
 - removed myself from SG I'm not going to be able to keep up with now I've been selected for a 2nd scholarship opportunity
  
 ### Day 20: June 26, 2021 
+- Finished course work
+- encouraged others to finish too
+- slack participation 
+- Python prerequisite course L1-2.4
+
+### Day 21: June 27, 2021 
 - Coming soon 
 
 
