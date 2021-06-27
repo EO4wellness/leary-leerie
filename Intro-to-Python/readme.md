@@ -1,24 +1,32 @@
-Course Notes:
+# Overview
+* Intro to Python is a [free Udacity course](https://www.udacity.com/course/introduction-to-python--ud1110)
+* This course is listed as a prerequisite for both [AWS ML](https://github.com/EO4wellness/leary-leerie/tree/master/AI-ML-topics/AWS%20Scholarship) and [SUSE Cloud Native](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship) Scholars. 
 
-# L1:
+# My Course Notes:
+* upon visiting this course for the SUSE scholarship, I discovered the first two lessons were already completed previously. 
+* I am reviewing those two lessons, sumarized below, and then completing the coursework. 
+* In order to finish the AWS ML Fundamentals AND these prerequisites in time, I plan to work on completion of
+  this Intro to Python course in the first 4 weeks of the AWS ML phase 1 scholarship 
+
+## L1:
 [History of Python](https://en.wikipedia.org/wiki/History_of_Python)
 
 Python is case sensitive. 
 Spacing matters.
 Mistakes help you to learn.
 
-# L2: Integers and Operators 
+## L2: Integers and Operators 
 Data Types: Integers, Floats, Booleans, Strings
 Operators: Arithmetic, Assignment, Comparison, Logical
 Built-In Functions, Type Conversion
 Whitespace and Style Guidelines
 
-## Output
+### Output
 ```print()```
 Built in function which prints out what ever you put 
 inside the parenthesis 
 
-## Arithmetic operators
+### Arithmetic operators
 ```
 + Addition
 - Subtraction
@@ -29,7 +37,7 @@ inside the parenthesis
     as you might have seen in other languages)
 // Divides and rounds down to the nearest integer
 ```
-## Order of Operations 
+### Order of Operations 
 is the same as that of normal mathematics: 
 - parentheses first, 
 - then exponentiation, 
@@ -55,6 +63,16 @@ print((23+32+64)/3)
 ```
 
 Tip: Don't confuse [Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators) with math Operators 
+
+## L3
+
+## L4 
+
+## L5
+
+## L6
+
+## L7 
 
 
 
