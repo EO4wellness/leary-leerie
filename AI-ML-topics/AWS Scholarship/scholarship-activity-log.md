@@ -3,18 +3,21 @@
 * 2021-05-28: Received invite to apply for scholarship email. 
 * 2021-05-28: Applied and received "Your Application has been Received!" email.
 * 2021-06-25: Received course Badge and Scholarship Acceptance email 
-* 2021-06-25: Published badge to [LinkedIn]() and formed [AWS ML Scholar]() group
-* 2021-06-25: Completed [SUSE coursework]() to free up time for this scholarship.  
+* 2021-06-25: Published badge to [LinkedIn](https://www.linkedin.com/posts/eo4wellness_udacityawsscholars-poweredbyaws-activity-6814247109550764032-SF7U) and formed [AWS ML Scholar](https://www.linkedin.com/groups/12545753/) group
+* 2021-06-25: Prepared [AWS ML repo on Udacity Scholar GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars) org to be announced later
+* 2021-06-25: Completed [SUSE coursework](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship) to free up time for this scholarship.  
 * 2021-06-26: Received Scholarship followup Email; 
    continued to enrol and invite others to LinkedIn student group 
-   Began study of [Intro to Python]() prerequisite course
+   Began study of [Intro to Python](https://www.udacity.com/course/introduction-to-python--ud1110) prerequisite course | [My Course Notes](https://github.com/EO4wellness/leary-leerie/tree/master/Intro-to-Python)
    Unistalled and reinstalled Anaconda/Jupytr notebook 
    after software update failed. 
 * 2021-06-27: Discovered course available and began study. 
    completed: Lesson 1, 4, 5, and 6. 
    signed up for Free Tier AWS for coursework
-* 2021-06-28: Received course email with updates to attend Youtube live stream 
+* 2021-06-27: Received course email with updates to attend Youtube live stream 
    orientation if Zoom is full 
 ```
-You are guaranteed a seat in the AWS Machine Learning Foundations course, and no additional steps are required from you at this time. You will receive more details on the class start date. Stay tuned!
+You are guaranteed a seat in the AWS Machine Learning Foundations course, 
+and no additional steps are required from you at this time. 
+You will receive more details on the class start date. Stay tuned!
 ```
