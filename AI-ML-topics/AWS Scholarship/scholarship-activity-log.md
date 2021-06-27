@@ -14,7 +14,7 @@
    after software update failed. 
 * 2021-06-27: Discovered course available and began study. 
    completed: Lesson 1, 4, 5, and 6. 
-   signed up for Free Tier AWS for coursework
+   [signed up for Free Tier AWS](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/Images/Screenshot_20210627-022025_Chrome.jpg) for coursework
 * 2021-06-27: Received course email with updates to attend Youtube live stream 
    orientation if Zoom is full 
 ```
