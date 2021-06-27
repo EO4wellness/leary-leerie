@@ -50,7 +50,7 @@ My Answer:
 print((23+32+64)/3)
 ```
 
-
+Note: Don't confuse [Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators) with math Operators 
 
 
 
