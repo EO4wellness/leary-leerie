@@ -181,11 +181,12 @@
 - Python prerequisite course L1-2.4
 
 ### Day 21: June 27, 2021 
-- Coming soon 
+- Worked on [Intro to Python](https://classroom.udacity.com/courses/ud1110) lesson 2: [my study notes](https://github.com/EO4wellness/leary-leerie/blob/master/Intro-to-Python/readme.md)
+- encouraged others to finish too
+- slack participation 
 
-
-## Week 4 of 8: 
-## Week 5 of 8: 
-## Week 6 of 8: 
-## Week 7 of 8: 
-## Week 8 of 8: 
+## Week 4 of 8: June 28, 2021
+## Week 5 of 8: July 5, 2021 
+## Week 6 of 8: July 12, 2021 
+## Week 7 of 8: July 19, 2021 
+## Week 8 of 8: July 26, 2021
