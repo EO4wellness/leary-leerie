@@ -4,10 +4,33 @@
 * Course Begins: June 28
 * Orientation: June 29
 * Phase 1 Ends: Oct 11, 2021 at 11:59 PM PT
+* 2021-06-26 Email: 
+```
+AWS Machine Learning Scholarship Program applicants were awarded a seat in the 
+AWS Machine Learning Foundations course that starts on Ju‍ne 2‍8, 20‍21. 
+This is your first step toward winning one of 425 
+AWS Machine Learning Engineer Nanodegree program scholarships.
+
+To be eligible to win the scholarship, you will need to complete the AWS Machine Learning Foundations course 
+by Oc‍tober 1‍1, 20‍21 and successfully pass the assessment quiz. The AWS Machine Learning Engineer Nanodegree 
+program scholarship winners will be announced on Oct‍ober 2‍1, 20‍21.
+
+Please make sure to attend the orientation webinar on Tue‍sday, Ju‍ne 2‍9 at 1‍0 a‍m P‍T to get all your questions answered. 
+Additional details can be found in the Orientation email.
+```
+
+Below is the timeline for the Scholarship 
+
+    Application Open: May 26, 2021 - June 23, 2021 
+    Foundations Course: June 28, 2021 - October 11, 2021 
+    Nanodegree Scholarship Winners Announced: October 21, 2021 
+    Nanodegree Program (AWS Machine Learning Engineer Nanodegree) October 25, 2021 - January 25, 2022
+
 
 # Scholar Groups:
 [LinkedIn](https://www.linkedin.com/groups/12545753/) | 
-[GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars)
+[GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars) | 
+[WhatsApp](https://chat.whatsapp.com/EsClWetDuGP5Si57UDhzUa)
 
 # Course Links: 
 * Recommended Prerequisites: 
