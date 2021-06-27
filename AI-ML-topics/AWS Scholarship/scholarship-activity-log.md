@@ -1,4 +1,5 @@
 # Log of Scholarship Activities:
+![AWS-ML-acceptance-email-header](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/Images/2021-06-27_wecome-to-course-email-header.jpg)
 
 * 2021-05-28: Received invite to apply for scholarship email. 
 * 2021-05-28: Applied and received "Your Application has been Received!" email.
