@@ -21,3 +21,4 @@ You are guaranteed a seat in the AWS Machine Learning Foundations course,
 and no additional steps are required from you at this time. 
 You will receive more details on the class start date. Stay tuned!
 ```
+https://sites.google.com/udacity.com/awsmachinelearningchallenge/home 
