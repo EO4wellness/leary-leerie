@@ -1,8 +1,8 @@
 # AWS Scholarship Log 
-* Applied: 
+* Applied: 2021-05-28
 * Received Acceptance Notice: 2021-06-25
 * Course Begins: June 28
-* Orientation: June 29
+* Orientation: [June 29](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/Orientation-notes.md)
 * Phase 1 Ends: Oct 11, 2021 at 11:59 PM PT
 * 2021-06-26 Email: 
 ```
@@ -30,7 +30,8 @@ Below is the timeline for the Scholarship
 # Scholar Groups:
 [LinkedIn](https://www.linkedin.com/groups/12545753/) | 
 [GitHub](https://github.com/UdacityScholars/AWS-ML-Scholars) | 
-[WhatsApp](https://chat.whatsapp.com/EsClWetDuGP5Si57UDhzUa)
+[WhatsApp](https://chat.whatsapp.com/EsClWetDuGP5Si57UDhzUa) |
+[AWS Slack](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/c1d30c8e-64a2-49c5-9771-33dd8952227f/concepts/3ab6bb3b-2677-4dc0-92e6-8800ffb01568) All details are inside lesson 1.4 of the coursework 
 
 # Course Links: 
 * Recommended Prerequisites: 
