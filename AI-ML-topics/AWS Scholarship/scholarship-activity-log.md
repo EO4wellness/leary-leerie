@@ -25,4 +25,5 @@ You will receive more details on the class start date. Stay tuned!
 https://sites.google.com/udacity.com/awsmachinelearningchallenge/home 
 * 2021-06-28: Discovered Slack is now open.  Signed up, joined the chat, introduced myself, started posting content. Completed several lessons.
 * 2021-06-29: Attended Orientation; reminded others of the time/zone coordination for attending event in slack and linkedin. completed course lessons. Researched DeepLens.
+* https://aws.amazon.com/getting-started/fundamentals-overview/?e=gs2020&p=gsrc
 * 
