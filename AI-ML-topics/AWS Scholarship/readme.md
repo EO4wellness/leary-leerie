@@ -1,4 +1,5 @@
-# AWS Scholarship Log 
+# AWS ML Scholarship Overview 
+* [Scholarship Learning Log](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/scholarship-activity-log.md) 
 * Applied: 2021-05-28
 * Received Acceptance Notice: 2021-06-25
 * Course Begins: June 28
