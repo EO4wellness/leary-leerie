@@ -1,4 +1,5 @@
 # Log of Scholarship Activities:
+![AWS-ML-acceptance-email-header](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/Images/2021-06-27_wecome-to-course-email-header.jpg)
 
 * 2021-05-28: Received invite to apply for scholarship email. 
 * 2021-05-28: Applied and received "Your Application has been Received!" email.
@@ -13,7 +14,7 @@
    after software update failed. 
 * 2021-06-27: Discovered course available and began study. 
    completed: Lesson 1, 4, 5, and 6. 
-   signed up for Free Tier AWS for coursework
+   [signed up for Free Tier AWS](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/Images/Screenshot_20210627-022025_Chrome.jpg) for coursework
 * 2021-06-27: Received course email with updates to attend Youtube live stream 
    orientation if Zoom is full 
 ```
@@ -22,3 +23,6 @@ and no additional steps are required from you at this time.
 You will receive more details on the class start date. Stay tuned!
 ```
 https://sites.google.com/udacity.com/awsmachinelearningchallenge/home 
+* 2021-06-28: Discovered Slack is now open.  Signed up, joined the chat, introduced myself, started posting content. Completed several lessons.
+* 2021-06-29: Attended Orientation; reminded others of the time/zone coordination for attending event in slack and linkedin. completed course lessons. Researched DeepLens.
+* 

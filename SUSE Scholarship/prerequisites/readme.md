@@ -25,3 +25,4 @@ https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - during orientation the above links were given. 
 - to maximize one's chances at successful completion of the nanadegree, if offered, in phase 2
 - I've decided since I'm finishing the phase 1 early--to take these prerequisites to be certain I know what I need to know 
+ 

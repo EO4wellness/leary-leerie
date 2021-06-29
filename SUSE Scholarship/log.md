@@ -186,6 +186,24 @@
 - slack participation 
 
 ## Week 4 of 8: June 28, 2021
+### Day 22: June 28, 2021 
+- review of course lesson notes and quizzes
+- slack participation 
+- signed the completion form for daily scrum round 1
+- added badge to slack profile for round 1 completion 
+- encouraged others to finish
+- shared resources 
+- published links to students about need to participate in student stories 
+
+### Day 23: June 29, 2021 
+- review of course lesson notes and quizzes
+- slack participation 
+- signed the completion form for daily scrum round 1
+- added badge to slack profile for round 1 completion 
+- encouraged others to finish
+- shared resources 
+- worked on student stories contribution 
+
 ## Week 5 of 8: July 5, 2021 
 ## Week 6 of 8: July 12, 2021 
 ## Week 7 of 8: July 19, 2021 
