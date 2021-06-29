@@ -25,4 +25,4 @@
 - unanswered questions are counted as incorrect 
 - the questions are 50 random questions from a pool 
 - Assessment scores, correct answers, and results will not be shared 
-
+* Currently there are 50,000 scholars in phase 1 who are going for the 425 phase 2 seats. 
