@@ -46,3 +46,4 @@ Below is the timeline for the Scholarship
 * My [Classroom Access](https://www.google.com/url?q=https%3A%2F%2Fclassroom.udacity.com%2Fme&sa=D&sntz=1&usg=AFQjCNHslPK5Z8Uto-v8UgDh0gmdUVDQow) link
 * [Udacity Help Center](https://www.google.com/url?q=https%3A%2F%2Fudacity.zendesk.com%2Fhc%2Fen-us%2Fsections%2F360013745151-AWS-Machine-Learning-Scholarship-Program&sa=D&sntz=1&usg=AFQjCNGFJerCeU9nxdwa_hegkxwMd6Pk5g)
 * [Course FAQ](https://sites.google.com/udacity.com/awsmachinelearningchallenge/faqs)
+* [AWS Console](https://aws.amazon.com/)
