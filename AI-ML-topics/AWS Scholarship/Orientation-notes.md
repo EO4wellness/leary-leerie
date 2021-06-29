@@ -1,8 +1,8 @@
-* Orientation: https://www.youtube.com/watch?v=G9LtP9HcNHM
+* Orientation: https://www.youtube.com/watch?v=G9LtP9HcNHM 
 * Conducted by: Brenda Law, Grace Cho Myles Wilson  
 * Date: 2021-06-29 12 PM CST 
 * Orientation covers in detail what to do and not do to avoid additional costs
-* check slides available later today 
+* check [Orientation Slide Deck](https://docs.google.com/presentation/d/17V3uGcC3192vtnofJHVwu1nxdPSzmD2xSvXC_m19mMg/edit#slide=id.gdddb3c6213_1_0) 
 * Success Recommendations: 
 ```
 - Consult the Google Site once a day. 
