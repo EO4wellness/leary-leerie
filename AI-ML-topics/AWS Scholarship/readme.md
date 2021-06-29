@@ -34,12 +34,13 @@ Below is the timeline for the Scholarship
 [WhatsApp](https://chat.whatsapp.com/EsClWetDuGP5Si57UDhzUa) |
 [AWS Slack](https://classroom.udacity.com/nanodegrees/nd065/parts/a5a4c41f-9cc7-48bd-9f00-582f35a7da53/modules/885b116b-2ca3-453a-8df1-4ea4b436b5da/lessons/c1d30c8e-64a2-49c5-9771-33dd8952227f/concepts/3ab6bb3b-2677-4dc0-92e6-8800ffb01568) All details are inside lesson 1.4 of the coursework 
 
-# Course Links: 
-Recommended Prerequisites: 
+
+# Recommended Prerequisites: 
 -  [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
 -  [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 -  [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 
+# Course Links: 
 * [Google Course Student Website](https://sites.google.com/udacity.com/awsmachinelearningchallenge/home)
 * [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) Note: You do not need additional credits to complete the required exercise in this course; the free tier will cover everything! (If you depleted your Free Tier previously, you may have to purchase additional credits)
 * My [Classroom Access](https://www.google.com/url?q=https%3A%2F%2Fclassroom.udacity.com%2Fme&sa=D&sntz=1&usg=AFQjCNHslPK5Z8Uto-v8UgDh0gmdUVDQow) link
