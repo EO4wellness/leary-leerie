@@ -204,6 +204,13 @@
 - shared resources 
 - worked on student stories contribution 
 
+### Day 24: June 30, 2021 
+- slack participation 
+- Studied: [Scalable Microservices with Kubernetes](https://classroom.udacity.com/courses/ud615) Lesson 3: Kubernetes
+- Quiz
+- Student Initatives: [T-Shirt Design](https://github.com/ewotawa/udacity_suse_project_tshirt) and [Advice Jam Board](https://jamboard.google.com/d/1Xha9-VvQEovgEnFZM9uti50jXPSze6t3XICTmcGZ0OM/viewer?f=0) 
+- Team Participaton 
+
 ## Week 5 of 8: July 5, 2021 
 ## Week 6 of 8: July 12, 2021 
 ## Week 7 of 8: July 19, 2021 
