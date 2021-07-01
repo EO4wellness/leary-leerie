@@ -211,6 +211,13 @@
 - Student Initatives: [T-Shirt Design](https://github.com/ewotawa/udacity_suse_project_tshirt) and [Advice Jam Board](https://jamboard.google.com/d/1Xha9-VvQEovgEnFZM9uti50jXPSze6t3XICTmcGZ0OM/viewer?f=0) 
 - Team Participaton 
 
+### Day 25: July 1, 2021 
+- attended #st_teamxyz meeting
+- finished lesson 4
+- AWS coursework thru 2.16
+- Checked calendar for today's events AWS & SUSE 
+- slack participation 
+
 ## Week 5 of 8: July 5, 2021 
 ## Week 6 of 8: July 12, 2021 
 ## Week 7 of 8: July 19, 2021 
