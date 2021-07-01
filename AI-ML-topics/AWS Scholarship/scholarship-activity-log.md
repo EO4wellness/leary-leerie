@@ -27,3 +27,4 @@ https://sites.google.com/udacity.com/awsmachinelearningchallenge/home
 * 2021-06-29: Attended [Orientation](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/Orientation-notes.md); reminded others of the time/zone coordination for attending event in slack and linkedin. completed course lessons. Researched DeepLens.
 * [AWS Developer Tools](https://aws.amazon.com/getting-started/fundamentals-overview/?e=gs2020&p=gsrc)
 * 2021-06-30: Studied: L2.10-12; completed [Lesson 1 Notes](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/lesson1.md)
+* 2021-07-01: Studied: L2.16. Read the FAQ and other student updates on the student site 
