@@ -28,4 +28,6 @@ https://sites.google.com/udacity.com/awsmachinelearningchallenge/home
 * [AWS Developer Tools](https://aws.amazon.com/getting-started/fundamentals-overview/?e=gs2020&p=gsrc)
 * 2021-06-30: Studied: L2.10-12; completed [Lesson 1 Notes](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/AWS%20Scholarship/lesson1.md)
 * 2021-07-01: Studied: L2.16. Read the FAQ and other student updates on the student site 
-* 2021-07-02: Studied: L2.17.
+* 2021-07-02: Studied: L2.17. checked in on student site updates. 
+* 2021-07-03: Studied: L2.18. checked student site. 
+* 2021-07-04: Finished Lesson 2 studies.  checked in on Slack & student website updates. 
