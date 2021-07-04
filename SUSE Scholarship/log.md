@@ -218,25 +218,27 @@
 - Checked calendar for today's events AWS & SUSE 
 - slack participation 
 
-### Day 25: July 2, 2021 
+### Day 26: July 2, 2021 
 - Cloud Native vocabulary review 
 - AWS coursework lesson 2
 - Checked calendar for today's events AWS & SUSE 
 - slack participation 
 
-### Day 25: July 3, 2021 
+### Day 27: July 3, 2021 
 - AWS coursework new lesson in #2
 - Checked calendar for today's events AWS & SUSE 
 - slack participation 
 
-### Day 25: July 4, 2021 
+### Day 28: July 4, 2021 
 - submitted Tshirt design for team participation 
 - AWS coursework completed lesson 2
 - Checked calendar for today's events AWS & SUSE 
 - slack participation 
 
 ## Week 5 of 8: July 5, 2021 
-
+### Day 29: July 5, 2021 
+- Daily Scrum 2: Committment 
+- SUSE Cloud Native L1.1->
 
 ## Week 6 of 8: July 12, 2021 
 ## Week 7 of 8: July 19, 2021 
