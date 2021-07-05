@@ -32,4 +32,4 @@ https://sites.google.com/udacity.com/awsmachinelearningchallenge/home
 * 2021-07-03: Studied: L2.18. checked student site. 
 * 2021-07-04: Finished Lesson 2 studies.  checked in on Slack & student website updates. 
 * 2021-07-05: L3.1 thru L3.8 quiz on deeplense computer vision 
-
+* 2021-07-06: L3.?
