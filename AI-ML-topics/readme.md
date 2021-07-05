@@ -14,3 +14,6 @@ Taken a number of courses with Udacity about machine learning, artificial intell
 * [Real-Time Voice Cloning with Deep Learning](https://www.youtube.com/watch?v=12rdn9jazwE)
 * [AI Voice Clone Tutorial - Synthesis SO GOOD You Can Generate Voice Overs and Jingles](https://www.youtube.com/watch?v=rWenAWnNToE)
 * [Open Source Voice Builder](https://github.com/google/voice-builder)
+* [This AI Clones Your Voice After Listening for 5 Seconds](https://www.youtube.com/watch?v=0sR1rU3gLzQ)
+* [Training your own voice model](https://deepspeech.readthedocs.io/en/v0.6.1/TRAINING.html)
+* [Wave Model](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
