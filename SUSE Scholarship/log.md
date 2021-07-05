@@ -238,7 +238,8 @@
 ## Week 5 of 8: July 5, 2021 
 ### Day 29: July 5, 2021 
 - Daily Scrum 2: Committment 
-- SUSE Cloud Native L1.1->
+- SUSE Cloud Native: review Welcome and L1.1->end
+- 
 
 ## Week 6 of 8: July 12, 2021 
 ## Week 7 of 8: July 19, 2021 
