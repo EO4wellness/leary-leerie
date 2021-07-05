@@ -13,3 +13,4 @@ Taken a number of courses with Udacity about machine learning, artificial intell
 * [Train Your Own Speech Recognition Model in 5 Simple Steps: A quick tutorial to get ready your own speech recognition model](https://medium.com/visionwizard/train-your-own-speech-recognition-model-in-5-simple-steps-512d5ac348a5)
 * [Real-Time Voice Cloning with Deep Learning](https://www.youtube.com/watch?v=12rdn9jazwE)
 * [AI Voice Clone Tutorial - Synthesis SO GOOD You Can Generate Voice Overs and Jingles](https://www.youtube.com/watch?v=rWenAWnNToE)
+* [Open Source Voice Builder](https://github.com/google/voice-builder)
