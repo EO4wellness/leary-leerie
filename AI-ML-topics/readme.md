@@ -17,3 +17,6 @@ Taken a number of courses with Udacity about machine learning, artificial intell
 * [This AI Clones Your Voice After Listening for 5 Seconds](https://www.youtube.com/watch?v=0sR1rU3gLzQ)
 * [Training your own voice model](https://deepspeech.readthedocs.io/en/v0.6.1/TRAINING.html)
 * [Wave Model](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio)
+
+# Text to Speech 
+* [IBM Watson example - Jupyter Notebook](https://github.com/EO4wellness/leary-leerie/blob/master/AI-ML-topics/Text_To_Speech.ipynb)
