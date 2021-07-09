@@ -5,11 +5,118 @@
 * Completed Lesson 1: June 8
 
 # Lesson 1 Overview:
-1.1 Meet Your Instructor: Katie Gamanji  
+1.1 Meet Your Instructor: Katie Gamanji  @k_gamanii 
+ - cloud platform engineer 
+ - enable developers to deploy their application 
+ - looks at deploying with minimal effort 
+ - best accomplished thru a high-degree of automation 
+ - scaling 
+ - upskilling 
+ - constant iteration 
+ - user feedback 
+ - service mesh 
+ - policy based access management 
+ - TOC (technical Oversight Committee) member 
+ - CNCF (Cloud native computing foundation) 
+ - advocate for vender nutrality 
+ - KEPTN (a sandbox CNCF project) 
+
+
 1.2 Prerequisites 
+ - be comfortable wtih web application development 
+ - write a web application with multiple API endpoints in python 
+ - use a framework such as flask 
+ - CLI (command-line interace
+ - use commands to navigate directories 
+ - create files 
+ - install packages 
+ - know and use git commands 
+ - create or clone a repo 
+ - make changes 
+ - commit to a main branch 
+ - create a docker hub account 
+ - create or have a git account 
+
 1.3 Course Outlilne 
+* Walk thru realistic examples
+* Follow allong with each video
+* Overview of Cloud Native ecosystem 
+* Architectural models to be considered 
+* design patterns 
+* best practices at implmentation 
+* package an application 
+* deploy kubernetes 
+* paas solution 
+* cloud foundry use 
+* CI/CD 
+* cloud native tooling 
+* ARGO CD 
+* template configuration managers: HELM 
+* containers 
+* microservice based architecture 
+* tools in Cloud Native ecosystem 
+* traceability 
+* stakeholders 
+* key points to consider (tech and business prospectives) 
+* tools to install throughout course
+* follow demos and exercises with solutions closely 
+
 1.4 Introduction to Cloud-Native
+* Cloud Native Tooling 
+* Cloud Native Applications 
+* "Cloud native refers to the set of practices which empowers an organization to build and manage applications at scale, 
+ while using private, hybrid, or public cloud providers." 
+* the key to cloud native deployment is SPEED and AGILITY 
+* this means how quickly an organiation can respond to change
+* while increasing its feature velocity 
+* containers are closely-associated with Cloud Native terminology 
+* containers are SMALL and MANAGEABLE units 
+* containers have an application running inside 
+* container pros: 
+  - can be deployed FAST
+  - is RESILIENT 
+  - is Easily Managed 
+* microservice architecture is often chosen 
+* miscroservices represents 
+  - small services 
+  - independent services 
+  - can be easily containerized 
+
 1.5 CNCS and Cloud-Native Tooling
+* need a tool to manage containers at scale 
+* overtime multiple tool appeared 
+* Examples: Docker Swarm, Apache Mesos, Kubernetes 
+* Kubernetes took the lead. 
+* Kubernetes sucecss: 
+  - how containerized workloads should be deployed
+  - managed
+  - configured 
+* Kubernetes grew out of Borg 
+* Borg was a google open-source software that orchestrated containers 
+* Kubernetes was released in 2014. 
+* Kubernetes is now maintained by CNCF
+* Cloud Native computing Foundation (CNCF)
+* Kubernetes is a container orchestrator. 
+* Kubernetes automates configuration, management, and scalability of an application. 
+* Following, Kubernetest capabilities were extended. 
+* Now Kubernetes inegrates wtih other tools 
+* Now includes: 
+  - runtime for application execution environment 
+  - network for application connectivity 
+  - storage for application resources 
+  - service mesh for granular control of traffic within a cluster 
+  - logs and metrics to construct the obervability stack 
+  - tracing for building the full request journey 
+  - many more 
+* most of these tools are maintained under the CNCF umbrella 
+* CNCF was founded in 2015
+* CNCF provides vendor-neutrol home to open source projects 
+ - Kubernetes 
+ - Prometheus 
+ - ETCD 
+ - Envoy 
+ - many more (more than 1,300 associated projects) 
+ - 
 1.6 Stakeholders 
 1.7 Tools Environment and Dependencies 
 1.8 Recap 
