@@ -17,7 +17,7 @@
 1.4 [Introduction to Cloud-Native](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#14-introduction-to-cloud-native-)
 
 
-1.5 [CNCS and Cloud-Native Tooling](#)
+1.5 [CNCS and Cloud-Native Tooling](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#15-cncf-and-cloud-native-tooling)
 
 
 1.6 [Stakeholders](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#16-stakeholders) 
