@@ -26,7 +26,7 @@
 
 1.8 [Recap](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#18-recap)
 
-1.9 Good Luck! 
+1.9 [Good Luck!](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#10good-luck)
 
 ## 1.1 Meet your Instructor 
  - cloud platform engineer 
