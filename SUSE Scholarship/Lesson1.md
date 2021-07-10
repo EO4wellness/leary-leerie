@@ -250,6 +250,39 @@ Terms
  - many more (more than 1,300 associated projects) 
 
 ## [1.6 Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
+* Technical Stakeholders 
+* Business Stakeholders 
+* Before adopting cloud native, consider the key stakeholders first 
+* Key points must be evaluated before adopting 
+* these are evaluated from a technical aspect and a business point of view 
+* Cloud Native widly adpoted in the industry 
+* delivers value to customers in short amoung of time
+* ability to adjust easily and extend to meet new requirements 
+* agility: ability to perform strategic transformations for the acceleration of business velocity. 
+* growth: represents the ability to achieve qhich irterations which increase customer satisfaction & leads to growth of customer base
+* Example: 
+  - with the adoption of microservice architecture 
+  - it is easier to identify an error service 
+  - it is easier to recover it once identified 
+  - reduces the blast radius of failure(s) 
+  - facilitates frequent service release 
+* Automation: strongly encouraged with the cloud native tooling 
+* Automation example: constructing a pipeline to deploy an developed application to service production without human intervention 
+* Orchestration-the ability to manage 1000s of services with minimal effort 
+* Observability-encompasses the segregation of an application to multiple services allowing for troubleshooting and debugging of each component independently 
+From a business perspective, the adoption of cloud-native tooling represents:
+
+    Agility - perform strategic transformations
+    Growth - quickly iterate on customer feedback
+    Service availability - ensures the product is available to customers 24/7
+
+From a technical perspective, the adoption of cloud-native tooling represents:
+
+    Automation - release a service without human intervention
+    Orchestration - introduce a container orchestrator to manage thousands of services with minimal effort
+    Observability - ability to independently troubleshoot and debug each component
+
+
 
 ## [1.7 Tools Environment and Dependencies](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b)
 Intall: 
@@ -258,7 +291,7 @@ Intall:
 - [Docker](https://docs.docker.com/get-docker/)
 - [Vagrant](https://www.vagrantup.com/downloads)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) version 6.1.16 or higher 
-
+- notes learned about installing all of these and working with all of these on Windows10 you must access your BIOS and enable virtualization, then it all works. 
 
 ## [1.8 Recap](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/e9ed564e-e3c6-4052-971c-e64fd8f57052)
 Summary
@@ -267,7 +300,7 @@ In the first lesson, we went through:
 
     Introduction to Cloud Native
     CNCF and Cloud Native tooling
-    Stakeholders
+    Stakeholders (benefits of adopting cloud native technoligies) 
     Tools, Environment & Dependencies
 
 
