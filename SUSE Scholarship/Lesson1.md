@@ -11,49 +11,15 @@
 1.2 [Prerequisites](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#12-must-be-comfortable-with)
 
 
-1.3 [Course Outlilne](#)
-
-
+1.3 [Course Outlilne](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#13-course-outline)
 
 
 1.4 [Introduction to Cloud-Native](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#14-introduction-to-cloud-native-)
 
 
-1.5 CNCS and Cloud-Native Tooling
-* need a tool to manage containers at scale 
-* overtime multiple tool appeared 
-* Examples: Docker Swarm, Apache Mesos, Kubernetes 
-* Kubernetes took the lead. 
-* Kubernetes sucecss: 
-  - how containerized workloads should be deployed
-  - managed
-  - configured 
-* Kubernetes grew out of Borg 
-* Borg was a google open-source software that orchestrated containers 
-* Kubernetes was released in 2014. 
-* Kubernetes is now maintained by CNCF
-* Cloud Native computing Foundation (CNCF)
-* Kubernetes is a container orchestrator. 
-* Kubernetes automates configuration, management, and scalability of an application. 
-* Following, Kubernetest capabilities were extended. 
-* Now Kubernetes inegrates wtih other tools 
-* Now includes: 
-  - runtime for application execution environment 
-  - network for application connectivity 
-  - storage for application resources 
-  - service mesh for granular control of traffic within a cluster 
-  - logs and metrics to construct the obervability stack 
-  - tracing for building the full request journey 
-  - many more 
-* most of these tools are maintained under the CNCF umbrella 
-* CNCF was founded in 2015
-* CNCF provides vendor-neutrol home to open source projects 
- - Kubernetes 
- - Prometheus 
- - ETCD 
- - Envoy 
- - many more (more than 1,300 associated projects) 
- - 
+1.5 [CNCS and Cloud-Native Tooling](#)
+
+
 1.6 Stakeholders 
 1.7 Tools Environment and Dependencies 
 1.8 Recap 
@@ -243,6 +209,39 @@ Terms
   - service mesh
   - logs and metrics
   - tracking 
+* need a tool to manage containers at scale 
+* overtime multiple tool appeared 
+* Examples: Docker Swarm, Apache Mesos, Kubernetes 
+* Kubernetes took the lead. 
+* Kubernetes sucecss: 
+  - how containerized workloads should be deployed
+  - managed
+  - configured 
+* Kubernetes grew out of Borg 
+* Borg was a google open-source software that orchestrated containers 
+* Kubernetes was released in 2014. 
+* Kubernetes is now maintained by CNCF
+* Cloud Native computing Foundation (CNCF)
+* Kubernetes is a container orchestrator. 
+* Kubernetes automates configuration, management, and scalability of an application. 
+* Following, Kubernetest capabilities were extended. 
+* Now Kubernetes inegrates wtih other tools 
+* Now includes: 
+  - runtime for application execution environment 
+  - network for application connectivity 
+  - storage for application resources 
+  - service mesh for granular control of traffic within a cluster 
+  - logs and metrics to construct the obervability stack 
+  - tracing for building the full request journey 
+  - many more 
+* most of these tools are maintained under the CNCF umbrella 
+* CNCF was founded in 2015
+* CNCF provides vendor-neutrol home to open source projects 
+ - Kubernetes 
+ - Prometheus 
+ - ETCD 
+ - Envoy 
+ - many more (more than 1,300 associated projects) 
 
 ## [1.6 Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
 
