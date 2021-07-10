@@ -16,26 +16,8 @@
 
 
 
-1.4 Introduction to Cloud-Native
-* Cloud Native Tooling 
-* Cloud Native Applications 
-* "Cloud native refers to the set of practices which empowers an organization to build and manage applications at scale, 
- while using private, hybrid, or public cloud providers." 
-* the key to cloud native deployment is SPEED and AGILITY 
-* this means how quickly an organiation can respond to change
-* while increasing its feature velocity 
-* containers are closely-associated with Cloud Native terminology 
-* containers are SMALL and MANAGEABLE units 
-* containers have an application running inside 
-* container pros: 
-  - can be deployed FAST
-  - is RESILIENT 
-  - is Easily Managed 
-* microservice architecture is often chosen 
-* miscroservices represents 
-  - small services 
-  - independent services 
-  - can be easily containerized 
+1.4 [Introduction to Cloud-Native](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#14-introduction-to-cloud-native-)
+
 
 1.5 CNCS and Cloud-Native Tooling
 * need a tool to manage containers at scale 
@@ -217,6 +199,25 @@ Terms
 -- needs speed
 -- integrating customer feedback
 -- adapting to technology
+* Cloud Native Tooling 
+* Cloud Native Applications 
+* "Cloud native refers to the set of practices which empowers an organization to build and manage applications at scale, 
+ while using private, hybrid, or public cloud providers." 
+* the key to cloud native deployment is SPEED and AGILITY 
+* this means how quickly an organiation can respond to change
+* while increasing its feature velocity 
+* containers are closely-associated with Cloud Native terminology 
+* containers are SMALL and MANAGEABLE units 
+* containers have an application running inside 
+* container pros: 
+  - can be deployed FAST
+  - is RESILIENT 
+  - is Easily Managed 
+* microservice architecture is often chosen 
+* miscroservices represents 
+  - small services 
+  - independent services 
+  - can be easily containerized 
 
 ## [1.5 CNCF and Cloud-Native Tooling](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/79ae4fb8-2601-43f5-a879-8470d4a6c21c)
 * Tools to manage containers at scale
