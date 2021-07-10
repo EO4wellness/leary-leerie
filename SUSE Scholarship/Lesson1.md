@@ -22,7 +22,7 @@
 
 1.6 [Stakeholders](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#16-stakeholders) 
 
-1.7 Tools Environment and Dependencies 
+1.7 [Tools Environment and Dependencies](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#17-tools-environment-and-dependencies)
 
 1.8 [Recap](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#18-recap)
 
