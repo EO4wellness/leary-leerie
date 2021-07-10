@@ -6,20 +6,7 @@
 
 # Lesson 1 Overview:
 1.1 Meet Your Instructor: Katie Gamanji  @k_gamanii 
- - cloud platform engineer 
- - enable developers to deploy their application 
- - looks at deploying with minimal effort 
- - best accomplished thru a high-degree of automation 
- - scaling 
- - upskilling 
- - constant iteration 
- - user feedback 
- - service mesh 
- - policy based access management 
- - TOC (technical Oversight Committee) member 
- - CNCF (Cloud native computing foundation) 
- - advocate for vender nutrality 
- - KEPTN (a sandbox CNCF project) 
+
 
 
 1.2 Prerequisites 
@@ -122,7 +109,22 @@
 1.8 Recap 
 1.9 Good Luck! 
 
-1.1 Terms 
+1.1 Meet your Instructor 
+ - cloud platform engineer 
+ - enable developers to deploy their application 
+ - looks at deploying with minimal effort 
+ - best accomplished thru a high-degree of automation 
+ - scaling 
+ - upskilling 
+ - constant iteration 
+ - user feedback 
+ - service mesh 
+ - policy based access management 
+ - TOC (technical Oversight Committee) member 
+ - CNCF (Cloud native computing foundation) 
+ - advocate for vender nutrality 
+ - KEPTN (a sandbox CNCF project) 
+Terms 
 - CI/CD Pipeline
 - Container / Containerize 
 - Application 
