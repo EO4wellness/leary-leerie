@@ -19,7 +19,7 @@
 - timeframe to implement 
 *  Requirements and available resources may dictate which architecture is most suitable for a project 
 
-## Intro: Lesson 2 Goal: 
+## 2.1 Intro: Lesson 2 Goal: 
 * By Lesson 2's end, we should be able to evaluate the most suitable architecture for an application
 * Considering: 
 - functional requirements 
@@ -64,10 +64,10 @@ Answers the question: What will help with the implementation of this project?
 19. What is the expected time frame? 
 20. Which tools or languages should be used for development? "Internal Knowledge" 
 
-## L2.3 [Monoliths and Microservices:](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/fcc8c401-8331-4214-9609-f2f8529f50a1/concepts/e883bfb7-b199-4351-b7ee-355a0429fb87)
+## 2.3 [Monoliths and Microservices:](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/fcc8c401-8331-4214-9609-f2f8529f50a1/concepts/e883bfb7-b199-4351-b7ee-355a0429fb87)
 
 
-## L2.11: [Exercise: Endpoints for Application Status](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/fcc8c401-8331-4214-9609-f2f8529f50a1/concepts/a0b4638d-2ca8-4c49-90c8-ea6e729f2552)
+## 2.11: [Exercise: Endpoints for Application Status](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/fcc8c401-8331-4214-9609-f2f8529f50a1/concepts/a0b4638d-2ca8-4c49-90c8-ea6e729f2552)
 - Goal: aims to extend a Python Flask web application with status and metrics endpoints. 
 - Environment Setup
 ```
