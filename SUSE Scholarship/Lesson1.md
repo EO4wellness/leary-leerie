@@ -6,9 +6,6 @@
 
 # Lesson 1 Overview:
 1.1 Meet Your Instructor: Katie Gamanji  @k_gamanii 
-
-
-
 1.2 Prerequisites 
  - be comfortable wtih web application development 
  - write a web application with multiple API endpoints in python 
@@ -109,7 +106,7 @@
 1.8 Recap 
 1.9 Good Luck! 
 
-1.1 Meet your Instructor 
+## 1.1 Meet your Instructor 
  - cloud platform engineer 
  - enable developers to deploy their application 
  - looks at deploying with minimal effort 
@@ -146,7 +143,7 @@ Terms
 - Keptn 
 - sandbox CNCF project 
 
-1.2 Must be comfortable with: 
+## 1.2 Must be comfortable with: 
 - web application development with Python (ie: writing a web application with multiple API endpoints in Python or familiar with a framework like Flask)
 - Using CLI (Comand-Line Interface) (create and navigate directories by command, create files, install packages, binaries, etc)
 - using git commands (create or clone a repo, make changes, comitt them to a branch) have a github account
@@ -155,7 +152,7 @@ Terms
 * install now
 * follow along all demos and examples 
 
-1.3 Course Outline: 
+## 1.3 Course Outline: 
 * course long-looking at realistic examples 
 * pratice applying good development practices 
 * containerize an application before release 
@@ -208,7 +205,7 @@ Terms
   -- business perspective 
 - Tools, Environment & Dependencies
 
-[1.4 Introduction to Cloud-Native ](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65) 
+## [1.4 Introduction to Cloud-Native ](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/6197dd89-0c18-4bb1-998d-e7baa69aef65) 
 - Cloud-native: is the the set of practices that empowers an organization to build and manage applications at scale. 
 - Cloud-native can achieve using private, hybrid, or public cloud providers. 
 -- needs to be agile 
@@ -216,7 +213,7 @@ Terms
 -- integrating customer feedback
 -- adapting to technology
 
-[1.5 CNCF and Cloud-Native Tooling](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/79ae4fb8-2601-43f5-a879-8470d4a6c21c)
+## [1.5 CNCF and Cloud-Native Tooling](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/79ae4fb8-2601-43f5-a879-8470d4a6c21c)
 * Tools to manage containers at scale
 * Container Orchestrators
   - Docker Swarm 
@@ -241,9 +238,9 @@ Terms
   - logs and metrics
   - tracking 
 
-[1.6 Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
+## [1.6 Stakeholders](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/a4eb94d3-e658-475d-bffe-04adf05e2776)
 
-[1.7 Tools Environment and Dependencies](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b)
+## [1.7 Tools Environment and Dependencies](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/41d3074d-ccc2-4fc0-a153-ba7a4ba77b3b)
 Intall: 
 - [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
@@ -252,7 +249,7 @@ Intall:
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) version 6.1.16 or higher 
 
 
-[1.8 Recap](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/e9ed564e-e3c6-4052-971c-e64fd8f57052)
+## [1.8 Recap](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/e9ed564e-e3c6-4052-971c-e64fd8f57052)
 Summary
 
 In the first lesson, we went through:
