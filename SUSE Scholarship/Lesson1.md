@@ -6,30 +6,15 @@
 
 # Lesson 1 Overview:
 1.1 [Meet Your Instructor](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#11-meet-your-instructor): Katie Gamanji  @k_gamanii 
-1.2 [Prerequisites]
-1.3 Course Outlilne 
-* Walk thru realistic examples
-* Follow allong with each video
-* Overview of Cloud Native ecosystem 
-* Architectural models to be considered 
-* design patterns 
-* best practices at implmentation 
-* package an application 
-* deploy kubernetes 
-* paas solution 
-* cloud foundry use 
-* CI/CD 
-* cloud native tooling 
-* ARGO CD 
-* template configuration managers: HELM 
-* containers 
-* microservice based architecture 
-* tools in Cloud Native ecosystem 
-* traceability 
-* stakeholders 
-* key points to consider (tech and business prospectives) 
-* tools to install throughout course
-* follow demos and exercises with solutions closely 
+
+
+1.2 [Prerequisites](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#12-must-be-comfortable-with)
+
+
+1.3 [Course Outlilne](#)
+
+
+
 
 1.4 Introduction to Cloud-Native
 * Cloud Native Tooling 
@@ -185,7 +170,28 @@ Terms
    - Argo CD
 * Template Configuration Managers:
   - Helm 
-
+* Walk thru realistic examples
+* Follow allong with each video
+* Overview of Cloud Native ecosystem 
+* Architectural models to be considered 
+* design patterns 
+* best practices at implmentation 
+* package an application 
+* deploy kubernetes 
+* paas solution 
+* cloud foundry use 
+* CI/CD 
+* cloud native tooling 
+* ARGO CD 
+* template configuration managers: HELM 
+* containers 
+* microservice based architecture 
+* tools in Cloud Native ecosystem 
+* traceability 
+* stakeholders 
+* key points to consider (tech and business prospectives) 
+* tools to install throughout course
+* follow demos and exercises with solutions closely 
 
 - Introduction to Cloud Native
 - Introduction to Principles Cloud Native Advocates. 
