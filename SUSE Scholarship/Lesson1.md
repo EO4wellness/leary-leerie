@@ -24,7 +24,7 @@
 
 1.7 Tools Environment and Dependencies 
 
-1.8 Recap 
+1.8 [Recap](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#18-recap)
 
 1.9 Good Luck! 
 
@@ -268,7 +268,7 @@ In the first lesson, we went through:
     Tools, Environment & Dependencies
 
 
-[1.9 Good Luck](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/74cf0724-e862-4851-91c3-f9c698c8b63c)
+## [1.9 Good Luck](https://classroom.udacity.com/nanodegrees/nd064-1/parts/30cb07da-8fd4-4438-a209-b3457adb5d82/modules/7b21dfa4-aac8-4d24-82c5-65325e6dc691/lessons/092ac437-081d-4946-b54d-a2f537931c13/concepts/74cf0724-e862-4851-91c3-f9c698c8b63c)
 * Adapt quickly
 * change as needed
 * innovation 
