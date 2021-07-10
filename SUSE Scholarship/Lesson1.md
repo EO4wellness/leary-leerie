@@ -20,9 +20,12 @@
 1.5 [CNCS and Cloud-Native Tooling](#)
 
 
-1.6 Stakeholders 
+1.6 [Stakeholders](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#16-stakeholders) 
+
 1.7 Tools Environment and Dependencies 
+
 1.8 Recap 
+
 1.9 Good Luck! 
 
 ## 1.1 Meet your Instructor 
