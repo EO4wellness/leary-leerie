@@ -5,22 +5,8 @@
 * Completed Lesson 1: June 8
 
 # Lesson 1 Overview:
-1.1 Meet Your Instructor: Katie Gamanji  @k_gamanii 
-1.2 Prerequisites 
- - be comfortable wtih web application development 
- - write a web application with multiple API endpoints in python 
- - use a framework such as flask 
- - CLI (command-line interace
- - use commands to navigate directories 
- - create files 
- - install packages 
- - know and use git commands 
- - create or clone a repo 
- - make changes 
- - commit to a main branch 
- - create a docker hub account 
- - create or have a git account 
-
+1.1 [Meet Your Instructor](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#11-meet-your-instructor): Katie Gamanji  @k_gamanii 
+1.2 [Prerequisites]
 1.3 Course Outlilne 
 * Walk thru realistic examples
 * Follow allong with each video
@@ -144,10 +130,23 @@ Terms
 - sandbox CNCF project 
 
 ## 1.2 Must be comfortable with: 
-- web application development with Python (ie: writing a web application with multiple API endpoints in Python or familiar with a framework like Flask)
-- Using CLI (Comand-Line Interface) (create and navigate directories by command, create files, install packages, binaries, etc)
-- using git commands (create or clone a repo, make changes, comitt them to a branch) have a github account
-- create DockerHub account (we will be pushing images to the public registry) 
+ - be comfortable wtih web application development 
+ - write a web application with multiple API endpoints in python 
+ - use a framework such as flask 
+ - CLI (command-line interace)
+ - use commands to navigate directories 
+ - create files 
+ - install packages 
+ - know and use git commands 
+ - create or clone a repo 
+ - make changes 
+ - commit to a main branch 
+ - create a docker hub account 
+ - create or have a git account 
+* web application development with Python (ie: writing a web application with multiple API endpoints in Python or familiar with a framework like Flask)
+* Using CLI (Comand-Line Interface) (create and navigate directories by command, create files, install packages, binaries, etc)
+* using git commands (create or clone a repo, make changes, comitt them to a branch) have a github account
+* create DockerHub account (we will be pushing images to the public registry) 
 * used in course
 * install now
 * follow along all demos and examples 
