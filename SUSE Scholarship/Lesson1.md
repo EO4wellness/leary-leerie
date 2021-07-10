@@ -28,6 +28,9 @@
 
 1.9 [Good Luck!](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#19-good-luck)
 
+[Further Study Resources](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/Lesson1.md#resources)
+
+
 ## 1.1 Meet your Instructor 
  - cloud platform engineer 
  - enable developers to deploy their application 
