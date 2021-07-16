@@ -18,4 +18,14 @@
 * homebrewed jQuery doesn't perform as well as the jQuery library 
 * jQuery is better than JavaScript at Manipulating the DOM
 * manipulating the DOM in JavaScript isn't always easy.
+```
+Example:
+Vanilla JavaScript code:
+
+![JavaScript example](https://github.com/EO4wellness/leary-leerie/blob/master/jQuery/images/VanillaJavaScriptExample.jpg)
+
+Same effect using jQuery: 
+
+```
+*
 
