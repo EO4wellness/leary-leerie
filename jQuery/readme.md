@@ -24,7 +24,7 @@ Vanilla JavaScript code:
 
 ![JavaScript example](https://github.com/EO4wellness/leary-leerie/blob/master/jQuery/images/VanillaJavaScriptExample.jpg)
 
-Same sing jQuery: 
+Same Using jQuery: 
 
 ```
 
