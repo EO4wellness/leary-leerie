@@ -14,6 +14,10 @@
 * 2021-06-13 Week 1: Completed.  
 * 🗓 Daily Scrum Sprint #1 Starts: Monday, June 14th* - committed to and joined the #DailyScrum Sprint 1 team. 
 * 2021-06-25 Finished Course!  Great learning.  Loved the knowledge and overall understanding I gained.  Thank you! 🙏
+* 2021-08-12 Found I've been offered a seat in Phase 2 of this Scholarship.  Made calendar of events/dates. 
+* 2021-08-16 Phase 2 course opens 
+* 2021-08-19 Orientation 
+* 2021-12-06 Last Day-hard deadline
 
 ![Finished](https://www.memesmonkey.com/images/memesmonkey/66/66c23eb864d210adc13a2e82739af040.jpeg)
 
