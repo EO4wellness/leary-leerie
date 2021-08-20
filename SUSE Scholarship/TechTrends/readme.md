@@ -20,3 +20,16 @@ Build an effective, functional, online news sharing platform.
 
 ## Personal Project Contribution: 
 * Packaged and Deployed TechTrends to Kubernetes using a CI/CD pipeline 
+
+## Project TOC
+- this project is contained entirely within this [zip file](*)
+- the zip file contains:
+- argocd - a folder that contains the ArgoCD manifests
+- helm -  a folder that contains the Helm chart files
+- kubernetes - the folder that contains Kubernetes declarative manifests
+- screenshots - the folder that contains all the screenshots
+- docker_commands - the file used to record any used Docker commands and outputs
+- Dockerfile - the file that contains the instructions to package the application
+- .github - folder containing the configuration for GitHub Actions workflows
+
+
