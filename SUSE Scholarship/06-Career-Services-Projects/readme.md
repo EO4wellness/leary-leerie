@@ -2,6 +2,8 @@
 1.  LinkedIn Strategies 
 2.  GitHub Profile and Strategies 
 
-![Project-Completion](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/06-Career-Services-Projects/Images/Career-Projects-Completed.jpg) 
-
+## Career Services Scope: 
 Beyond the projects included with this nanodegree are additional helps available to Udacity ND students (paid or scholarship) which include a GitHub Review by your mentor/peer, as well as review of your LinkedIn with specific suggestions to improve your profile, online presence, and strategy to meet personal career goals. There is also a resume review and cover letter review, with career resource center and guidance available, as well as a place in the career hub for Udacity alumnists to report their progress in getting hired, promoted, or meeting other career goals. 
+
+# Career Projects Completion: 
+![Project-Completion](https://github.com/EO4wellness/leary-leerie/blob/master/SUSE%20Scholarship/06-Career-Services-Projects/Images/Career-Projects-Completed.jpg) 
