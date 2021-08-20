@@ -1,5 +1,5 @@
 # Phase 2 Activity Log: 
-_note:[Archived Phase 1 Participation](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship/Phase1Archive)_ 
+_note: [Archived of previous Phase 1 Participation](https://github.com/EO4wellness/leary-leerie/tree/master/SUSE%20Scholarship/Phase1Archive)_ 
 * Aug 12, 2021: Recieved Udacity email extending a seat for Phase2.
 * Aug 16: MyClassroom opened. Completed intro lessons. 
 * Aug 17: Began reading about first project. Reviewed Docker.
