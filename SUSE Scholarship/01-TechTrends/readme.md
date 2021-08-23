@@ -28,6 +28,7 @@ Build an effective, functional, online news sharing platform.
 - helm -  a folder that contains the Helm chart files
 - kubernetes - the folder that contains Kubernetes declarative manifests
 - screenshots - the folder that contains all the screenshots
+- techtrends - overarching project file 
 - docker_commands - the file used to record any used Docker commands and outputs
 - Dockerfile - the file that contains the instructions to package the application
 - .github - folder containing the configuration for GitHub Actions workflows
