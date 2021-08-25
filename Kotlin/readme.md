@@ -1,4 +1,4 @@
-# [Kotlin Bootcame for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+# [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 by Google 
 * Udacity has a free course for learning Kotlin. https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 
 * this course is broken into six lessons
