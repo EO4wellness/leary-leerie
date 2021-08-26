@@ -30,6 +30,7 @@ returns:
 * likewise 1/2 returns "0" and 1.0/2.0 returns 0.5 
 
 My Follow Along: 
+
 ![L2.3](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.3.jpg) 
 
 * You aren't just stuck with basic operators
@@ -73,10 +74,15 @@ fish.minus( other: 3)
 * Use the code ``` val ``` to assign a value once 
 * you will get an error if you try to assign a value again later.  
 
-![Lesson 2.3 Var error message example](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.3-var-error-message.jpg) 
+![Lesson 2.3 Val error message example](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.3-val-error-message.jpg) 
 
 
+* however with the code ```var``` you can change it: 
+example: 
 
+![var image](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.3-var.jpg) 
+
+* 
 
 ## 2.4 Operators Quiz: 
 
