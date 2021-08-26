@@ -9,7 +9,7 @@
 ```
 
 my results: 
-1[results-image]()
+![results-image](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L1.5.jpg)
 
 
     2. If you do not have it, or do not have the latest version, download and install JDK.
@@ -41,14 +41,33 @@ The above steps have created our first project which is set up to run Kotlin.
 * Locate it from IntellJ IDEA --> Tools --> Kotlin --> Kotlin REPL 
 * type or paste our code (block below) into the REPL 
 ```
+fun printHello () {
+   println ("Hello World")
+}
+
+printHello()
 ```
 * Type Control + Enter to execute the code 
 * Wait
 * You should see "Hello World" (in green, in the default setup theme) 
 
 My Result: 
-![result]() 
+![result](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L1.6.jpg) 
 
 
+Kotolin Documentation: https://kotlinlang.org/docs/home.html  
+
+### CODE DESCRIPTION: 
+* fun designates a function 
+* the bit which follows "fun" is the name of the function 
+* this is followed by a set of parenthesis where the arguments go.  
+* the PrintHello function doesn't include any arguments so the () are blank 
+* Next are a set of curly braces
+* the curly braces frame the function body 
+* inside the function body, we can make calls. 
+* this function makes the println call 
+* this function prints one line of text. namely the string: Hello World 
+(note: no punctuation at the end; no need to specify a return in this case) 
 
 
+these are the only installed tools we're going to be using in this course. 
