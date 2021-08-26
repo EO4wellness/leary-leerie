@@ -205,8 +205,43 @@ all but line 1 are correct kotlin syntax
 
 
 ## 2.5 [Building the Aquarium](https://classroom.udacity.com/courses/ud9011/lessons/605a8cec-a22b-4778-a682-39b35cf8467b/concepts/4b9f4745-ca94-4436-876a-1a0e3ecb963b) 
+no new content--just view of how far we've come in our knowledge base towards building an acquarium 
 
-## 2.6 Quiz
+## 2.6 [Practice Quiz](https://classroom.udacity.com/courses/ud9011/lessons/605a8cec-a22b-4778-a682-39b35cf8467b/concepts/336fff8c-1cab-4243-92b0-384d8493080b)
+
+Practice Basic Operations in Kotlin
+
+When it comes to basic operations, it's a good thing for this to become automatic, something less to think about while you are trying to figure out the solution to your actual programming challenge. There is only one road to automaticity, and that's practice. The following are some starting points for playing in REPL with the operations and concepts introduced in this lesson.
+Practice Time: Basic Operations
+
+Solve the following using the operator methods in one line of code.
+
+If you start with 2 fish, and they breed twice, producing 71 offspring the first time, and 233 offspring the second time, and then 13 fish are swallowed by a hungry moray eel, how many fish do you have left? How many aquariums do you need if you can put 30 fish per aquarium?
+
+    Hint: You can chain method calls.
+    Hint: You can call the methods on numbers, and Kotlin will convert them to objects for you.
+    Bonus question: What is special about all the numbers of fish?
+
+Practice Time: Variables
+
+    Create a String variable rainbowColor, set its color value, then change it.
+    Create a variable blackColor whose value cannot be changed once assigned. Try changing it anyway.
+
+Practice Time: Nullability
+
+    Try to set rainbowColor to null. Declare two variables, greenColor and blueColor. Use two different ways of setting them to null.
+
+Practice Time: Nullability/Lists
+
+    Create a list with two elements that are null; do it in two different ways.
+    Next, create a list where the list is null.
+
+Practice Time: Null Checks
+
+    Create a nullable integer variable called nullTest, and set it to null. Use a null-check that increases the value by one if it's not null, otherwise returns 0, and prints the result.
+
+Hint: Use the Elvis operator. [reminder: elvis operator is ?:]
+
 
 ## 2.7 Strings 
 
