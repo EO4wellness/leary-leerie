@@ -47,6 +47,7 @@ Check that your IntelliJ is installed and up-to-date by following these steps be
 
 
 ```
+* [Installation tips and first Code](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/Installation.md)
 
 ## Lesson 2: Kotlin Basics 
 * use the kotlin interpreter 
