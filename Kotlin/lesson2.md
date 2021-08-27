@@ -284,12 +284,40 @@ in the above code example, the two variable numbers get added before being outpu
 ![2.7-examples of above concepts](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.7-ranges-conditionals-ifelse-when.jpg) 
 
 ## 2.8 Quiz: Strings 
+* This lesson's assignment was to read some code and reply what the outcome was
+* I did that.  
+* Then I checked it by running it 
+* typing and running practice. 
+
+![Lesson2.8 image](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.8.jpg) 
 
 ## 2.9 Quiz: Practice Time 
+* Do the Following Tasks in REPL: 
+* Practice time: 
+  1. Create three String Variables for trout, haddock, and snapper 
+  2. use a tring template to print whether you do or do not like to eat those kinds of fish. 
 
-## 2.10 Arrays and Loops 
+* Practice Time: 
+when statements in Kotlin are like case or switch statements in other languages.
+
+Create a when statement with three comparisons:
+
+    If the length of the fishName is 0, print an error message.
+    If the length is in the range of 3...12, print "Good fish name".
+    If it's anything else, print "OK fish name".
+
+* NOTES: because i'm using the REPL over and over again, it gets junked up / off screen in length.  
+* while you can just close the window and reopen it via Tools->Kotlin->REPL
+* i also found you can use the onscreen (in the REPL) tools 
+* you can also end up with more than one "tab" open and need to close them to find your code 
+
+## 2.10 [Arrays and Loops](https://classroom.udacity.com/courses/ud9011/lessons/605a8cec-a22b-4778-a682-39b35cf8467b/concepts/d66ed4d8-83bf-4017-82ef-98c3868248c1)
+* [Kotlin Language Documentation](http://kotlinlang.org/docs/reference/)
+* [Kotlin Koans](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
+* 
+
 
 ## 2.11 Quiz: Arrays and Loops 
 
 ## 2.13 Lesson 2 Summary
-
+* Resource:  Learn Kotlin by Example: https://play.kotlinlang.org/byExample/overview  
