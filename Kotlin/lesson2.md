@@ -221,20 +221,31 @@ If you start with 2 fish, and they breed twice, producing 71 offspring the first
     Hint: You can chain method calls.
     Hint: You can call the methods on numbers, and Kotlin will convert them to objects for you.
     Bonus question: What is special about all the numbers of fish?
+    
+![Image2.6-basic-operators](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.6-basic-operators.jpg)    
+
 
 Practice Time: Variables
 
     Create a String variable rainbowColor, set its color value, then change it.
     Create a variable blackColor whose value cannot be changed once assigned. Try changing it anyway.
 
+![Image2.6-color-practice](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.6-colors-variable-practice.jpg)  
+
+
 Practice Time: Nullability
 
     Try to set rainbowColor to null. Declare two variables, greenColor and blueColor. Use two different ways of setting them to null.
+
+![Image2.6-null-practices](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.6-null-practice.jpg)  
 
 Practice Time: Nullability/Lists
 
     Create a list with two elements that are null; do it in two different ways.
     Next, create a list where the list is null.
+    
+![Image2.6-list-practice](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.6-list-practice.jpg)  
+
 
 Practice Time: Null Checks
 
@@ -242,8 +253,35 @@ Practice Time: Null Checks
 
 Hint: Use the Elvis operator. [reminder: elvis operator is ?:]
 
+![Image2.6-elvis-practice](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.6-elvis-practice.jpg)  
 
 ## 2.7 Strings 
+* Kotlin has strings
+* they work pretty much like strings do in any other language 
+* concatenate with PLUS + 
+* you can use string templates to use with strings 
+* the dollar value name is replaced by the string text representing its value 
+* Example of: 
+  Template: "I have $numberOfFish fish and $numberOfPlants." 
+  Ouptut: I have 5 fish and 12 plants. 
+* You can also do this: 
+```
+Template Example Code: "I have $(numberOfFish + numberOfPlants) fish and plants." 
+Output of above code: I have 17 fish and plants. 
+```
+in the above code example, the two variable numbers get added before being output 
+* Boolean data type and operators 
+* two equal signs equals a value comparison in Kotlin 
+* likewise greater than, smaller than, equal to, not equal to etc 
+* now we can test for conditions:  ``` if else and when```
+* if else is for comparing values 
+* you can use ranges 
+* ```when``` is Kotlin's way of doing switching.  
+* you can also nest all of these in one another 
+* [Kotlin Language Documentation](http://kotlinlang.org/docs/reference/)
+* [Kotlin Koans](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
+
+![2.7-examples of above concepts](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.7-ranges-conditionals-ifelse-when.jpg) 
 
 ## 2.8 Quiz: Strings 
 
