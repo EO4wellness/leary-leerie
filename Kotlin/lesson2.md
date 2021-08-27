@@ -297,6 +297,7 @@ in the above code example, the two variable numbers get added before being outpu
   1. Create three String Variables for trout, haddock, and snapper 
   2. use a tring template to print whether you do or do not like to eat those kinds of fish. 
 
+![image](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.9.jpg)
 * Practice Time: 
 when statements in Kotlin are like case or switch statements in other languages.
 
@@ -306,10 +307,14 @@ Create a when statement with three comparisons:
     If the length is in the range of 3...12, print "Good fish name".
     If it's anything else, print "OK fish name".
 
+
+![lessson-practice](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.9-when.jpg)
+
 * NOTES: because i'm using the REPL over and over again, it gets junked up / off screen in length.  
 * while you can just close the window and reopen it via Tools->Kotlin->REPL
 * i also found you can use the onscreen (in the REPL) tools 
 * you can also end up with more than one "tab" open and need to close them to find your code 
+* you can also right click within the REPL window and "clear all" 
 
 ## 2.10 [Arrays and Loops](https://classroom.udacity.com/courses/ud9011/lessons/605a8cec-a22b-4778-a682-39b35cf8467b/concepts/d66ed4d8-83bf-4017-82ef-98c3868248c1)
 * [Kotlin Language Documentation](http://kotlinlang.org/docs/reference/)
