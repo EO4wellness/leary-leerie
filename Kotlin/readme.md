@@ -2,6 +2,8 @@
 by Google 
 * Udacity has a free course for learning Kotlin. https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 
 * this course is broken into six lessons
+* this repo contains my notes and code from studying this course
+* What's next?  Here is my general [Kotlin TIL repo:](https://github.com/EO4wellness/T-I-L/tree/main/Kotlin)
 
 ## Lesson 1: Intro
 * intro 
