@@ -319,10 +319,96 @@ Create a when statement with three comparisons:
 ## 2.10 [Arrays and Loops](https://classroom.udacity.com/courses/ud9011/lessons/605a8cec-a22b-4778-a682-39b35cf8467b/concepts/d66ed4d8-83bf-4017-82ef-98c3868248c1)
 * [Kotlin Language Documentation](http://kotlinlang.org/docs/reference/)
 * [Kotlin Koans](https://try.kotlinlang.org/#/Examples/Hello,%20world!/Simplest%20version/Simplest%20version.kt)
-* 
+* if your val variable value is a reference, then you cannot assign it a difference reference later 
+* if you are referencing something that is not immutable, it can still change 
+* val only applies to the reference
+* val doesn't make the object it points to immutable 
+* in the example of ``` val myList = mutableListOf(```... to change the list we can add or remove elements
+* loop over lists or arrays (they are collections) 
+* create an array with ```arrayOf```
+* ```toString``` will convert 
+* Example:   println(Arrays.tostring(mix))
+  this will likely produce an error in the interpreter.  
+  wait for the tool tip 
+  select options+enter to import from the standard library 
+* you can next arrays 
+* then you have an array of arrays 
+* ranges: 
+```
+for (i in "b".."g") print (i) 
+bcdefg
+
+for (i in 1..5) print (i) 
+12345
+
+for (i in 5 downTo1) print (1)
+54321
+
+for (i in 3..6 step 2) print (i)
+35 
+```
 
 
 ## 2.11 Quiz: Arrays and Loops 
+```
+Read the code below, and then select the correct array initialization that will display the corresponding output.
+
+val array = // initalize array here
+val sizes = arrayOf("byte", "kilobyte", "megabyte", "gigabyte",
+            "terabyte", "petabyte", "exabyte")
+for ((i, value) in array.withIndex()) {
+   println("1 ${sizes[i]} = ${value.toLong()} bytes")
+}
+
+Output:
+
+1 byte = 1 bytes
+1 kilobyte = 1000 bytes
+1 megabyte = 1000000 bytes
+1 gigabyte = 1000000000 bytes
+1 terabyte = 1000000000000 bytes
+1 petabyte = 1000000000000000 bytes
+1 exabyte = 1000000000000000000 bytes
+
+```
+Quiz Question
+
+Which of the statements below is the correct way to initialize the array above to give the correct output.
+
+Choices include: 
+- val array = Array(7)
+- val array = {1000}
+- val array = Aray(7){1000.0.pw(it)}
+- val array = Array(7){1000.0.pow(10)}
+
+My response: val array = Aray(7){1000.0.pw(it)}
+
+## 2.12 Practice Time
+1. Quiz Question
+
+Which of these options are good reasons to explicitly make a list immutable? There may be more than 1 correct answer.
+
+Options: 
+- it reduces errors in general (my answer) 
+- prevents accidental changing of objects that were meant to be unchangeable  (my answer) 
+- you cannot create mutable lists in kotlin 
+- immutable lists can hold more items than mutable lists 
+- in a multi-threaded environment, makes the variable thread safe, because once it has been assigned by the initial thread, no thread can change it.  (my answer) 
+
+2.  Practice Time
+
+Looping over arrays and lists is a fundamental technique that has a lot of flexibility in Kotlin. Let's practice.
+Basic example
+
+    Create an integer array of numbers called numbers, from 11 to 15.
+    Create an empty mutable list for Strings.
+    Write a for loop that loops over the array and adds the string representation of each number to the list.
+
+Challenge example
+
+    How can you use a for loop to create (a list of) the numbers between 0 and 100 that are divisible by 7?
+
+
 
 ## 2.13 Lesson 2 Summary
 * Resource:  Learn Kotlin by Example: https://play.kotlinlang.org/byExample/overview  
