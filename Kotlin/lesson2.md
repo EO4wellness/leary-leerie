@@ -326,3 +326,4 @@ Create a when statement with three comparisons:
 
 ## 2.13 Lesson 2 Summary
 * Resource:  Learn Kotlin by Example: https://play.kotlinlang.org/byExample/overview  
+Finished: Aug 28, 2021
