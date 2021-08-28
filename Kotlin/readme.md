@@ -49,12 +49,18 @@ Check that your IntelliJ is installed and up-to-date by following these steps be
 ```
 * [Installation tips and first Code](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/Installation.md)
 
+![Finished](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/Lesson1.jpg)
+
+
 ## Lesson 2: [Kotlin Basics](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/lesson2.md)
 * use the kotlin interpreter 
 * get comfortable with the basic features 
 * write kotlin statemetents 
 * write kotlin expresssions 
 * practice using operators 
+
+![Finished](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/Lesson2.jpg)
+
 
 ## Lesson 3: Functions 
 * Create functions 
