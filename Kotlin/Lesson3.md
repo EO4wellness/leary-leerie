@@ -104,6 +104,13 @@ Exercise Extension:
 
 
 3.4  [Main Argumements](https://classroom.udacity.com/courses/ud9011/lessons/14fb1ae9-8a2e-48ee-9620-68c87c5f833b/concepts/9b054fd9-dfab-430f-add8-2be2d77167c2)
+* This lesson starts with a link to [string templates](https://kotlinlang.org/docs/basic-syntax.html#using-string-templates) in the instructor notes. 
+* While the link was valuable it didn't go to information on strings
+* Obviously something changed since the instructor notes were writen. 
+* I googled it and found this: https://kotlinlang.org/docs/basic-types.html#strings
+* 
+
+
 3.5  Greetings: Kotlin: 
 3.6  Random Day 
 3.7  Quiz: Practice Time 
