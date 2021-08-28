@@ -75,7 +75,35 @@ fun main(args: Array<String>) {
 ![image-log-window](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.2-results-run-main-function.jpg)
 
 3.3  Quiz: Practice Time 
-3.4  Main Argumements 
+* Learned the error message ```the error message "Expecting a top level declaration ``` means you have too many curly braces in your code. 
+
+Exercise One: 
+
+![my solution](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.3.jpg)
+
+![course-solution](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.3-course-solution.jpg)
+
+
+Exercise Extension: 
+* When I first tried to run this code, I had to wait for the text to load, as the instructor mentioned in the first video.
+* Then on a windows computer, i needed to allow the pop out text to appear over the red highlighted "calendar" word
+* then i had to use alt+shift+enter to load the calendar library 
+* before I could run this code. 
+* when I did run it, eventually an error message was returned. 
+* i had to google the error message
+* find the solution on overstack
+* fix the code
+* then re-run it. 
+
+
+![my solution](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.3_extend.jpg)
+
+
+
+![course-solution](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.3-extend-solution.jpg)
+
+
+3.4  [Main Argumements](https://classroom.udacity.com/courses/ud9011/lessons/14fb1ae9-8a2e-48ee-9620-68c87c5f833b/concepts/9b054fd9-dfab-430f-add8-2be2d77167c2)
 3.5  Greetings: Kotlin: 
 3.6  Random Day 
 3.7  Quiz: Practice Time 
