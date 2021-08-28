@@ -62,7 +62,7 @@ Check that your IntelliJ is installed and up-to-date by following these steps be
 ![Finished](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/Lesson2.jpg)
 
 
-## Lesson 3: Functions 
+## [Lesson 3: Functions](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/Lesson3.md)
 * Create functions 
 * call functions 
 * default or variable arguments 
