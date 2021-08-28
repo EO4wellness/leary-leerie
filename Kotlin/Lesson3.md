@@ -25,11 +25,7 @@ fun helloWorld() {
 *  we would envoke the function by calling its name followed by the parenthesis. 
 
 
-```
-fun main(args: Array<String>) {
-    println("Hello, world!")
-}
-```
+
 
 Let's say instead of using the interpreter we want to write a program in IntelliJ, then we would need to follow these steps: 
 1.  In the left hand corner, there is a list of all of our project files and folders. 
@@ -38,6 +34,10 @@ Let's say instead of using the interpreter we want to write a program in Intelli
 
 ![image1](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.2_create-new-class-source-file.jpg)
 
+4. Name the file AMS
+5. Press Okay. 
+6. This now adds the AMS file to the source folder. 
+
 ![image2](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.2_AMS.kt_file-to-write-code.jpg)
 
 * Following these steps creates the file in your source folder. 
@@ -45,6 +45,34 @@ Let's say instead of using the interpreter we want to write a program in Intelli
 * We can use this file to write code. 
 * We will still use the REPL too 
 * We will switch back and forth. 
+
+### Running Code 
+* To run a Kotlin program, we need a main program. 
+* Main is always the entry point for executing Kotlin code. 
+* In Kotlin it looks like this: 
+```
+fun main(args: Array<String>) {
+    println("Hello, world!")
+}
+```
+* it takes an array of strings as its arguments
+* followed by the function body in curly braces 
+* we print "Hello World" 
+* this function does not have a return statement 
+* every Kotlin function returns something 
+* even when nothing is specified 
+* A function like main returns a type unit 
+* this is Kotlins way of saying "no value" 
+* you don't have to explicitly say you are returning nothing 
+* Run this function by clicking on the green arrow, then select AMSkt
+
+![image run program](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.2-run-a-main-function.jpg)
+
+
+* IntelliJ will take a moment to build and execute the code 
+* Then it will show the result in the log window that opens. 
+
+![image-log-window](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.2-results-run-main-function.jpg)
 
 3.3  Quiz: Practice Time 
 3.4  Main Argumements 
