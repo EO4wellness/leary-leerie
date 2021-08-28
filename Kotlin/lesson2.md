@@ -383,6 +383,8 @@ Choices include:
 
 My response: val array = Aray(7){1000.0.pw(it)}
 
+![quiz](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.11.jpg)
+
 ## 2.12 Practice Time
 1. Quiz Question
 
@@ -394,6 +396,9 @@ Options:
 - you cannot create mutable lists in kotlin 
 - immutable lists can hold more items than mutable lists 
 - in a multi-threaded environment, makes the variable thread safe, because once it has been assigned by the initial thread, no thread can change it.  (my answer) 
+
+![quiz-image](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.12.jpg)
+
 
 2.  Practice Time
 
@@ -408,8 +413,23 @@ Challenge example
 
     How can you use a for loop to create (a list of) the numbers between 0 and 100 that are divisible by 7?
 
+2: Solution Code
+```
+var list3 : MutableList<Int> = mutableListOf()
+for (i in 0..100 step 7) list3.add(i)
+print(list3)
+[0, 7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98]
+```
+OR
+```
+for (i in 0..100 step 7) println(i.toString() + " - ")
 
+```
+
+![image](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L2.12-code.jpg)
 
 ## 2.13 Lesson 2 Summary
 * Resource:  Learn Kotlin by Example: https://play.kotlinlang.org/byExample/overview  
 Finished: Aug 28, 2021
+
+![finished](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/Lesson2.jpg)
