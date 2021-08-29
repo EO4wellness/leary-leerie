@@ -114,13 +114,13 @@ Step 1: Pass into Main whom to say hello to.
 Step 2: Select RUN
 Step 3: Edit Configuration 
 
-![L3.4_run_edit-config]() 
+![L3.4_run_edit-config](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.4_run_edit-config.jpg) 
 
 
 Step 4: Type "Kotlin" for the program arguments box. 
 Step 5: "okay" to close the configuration window 
 
-![L3.4_kotlin-okay.jpg]()
+![L3.4_kotlin-okay.jpg](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.4_kotlin-okay.jpg)
 
 
 Step 6: Change your code to use the argument 
@@ -136,8 +136,36 @@ We get this value from ${args{0}}
 We use the formating curly brackets around the (parenthesis value for which item--zero means the first position) 
 and this is an expression. 
 
+![L3.4_example](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/L3.4_example.jpg)
 
-3.5  Greetings: Kotlin: 
+### Statements
+* STATEMENTS:  Lines of code which do not have a value. 
+* statements are common in other languages. 
+* in Kotlin almost everything has a value. 
+* even if the value, in Kotlin, is a unit, it is a value 
+* so... in Kotlin it is said: 
+* Everything in Kotlin is an expression 
+* this means you can use the value of an IF expression right away 
+
+
+
+3.5  [Greetings: Kotlin:](https://classroom.udacity.com/courses/ud9011/lessons/14fb1ae9-8a2e-48ee-9620-68c87c5f833b/concepts/4e7dd6df-9713-4a05-9d99-959854ecea6e)
+```
+Greetings, Kotlin
+Exercise: Greetings, Kotlin
+
+Create a main() function that takes an argument representing the time in 24-hour format (values between and including 0 -> 23).
+
+In the main() function, check if the time is before midday (<12), then print "Good morning, Kotlin"; otherwise, print "Good night, Kotlin".
+Notes:
+
+Remember that all main() function arguments are Strings, so you will have to convert this argument to an Int before you can apply the check.
+Advanced
+
+Try to use Kotlin's string templates to do this in 1 line.
+
+```
+
 3.6  Random Day 
 3.7  Quiz: Practice Time 
 3.8  Fish Food 
