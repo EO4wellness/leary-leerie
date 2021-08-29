@@ -108,7 +108,33 @@ Exercise Extension:
 * While the link was valuable it didn't go to information on strings
 * Obviously something changed since the instructor notes were writen. 
 * I googled it and found this: https://kotlinlang.org/docs/basic-types.html#strings
-* 
+
+### How to Run Main with Arguments: 
+Step 1: Pass into Main whom to say hello to. 
+Step 2: Select RUN
+Step 3: Edit Configuration 
+
+![L3.4_run_edit-config]() 
+
+
+Step 4: Type "Kotlin" for the program arguments box. 
+Step 5: "okay" to close the configuration window 
+
+![L3.4_kotlin-okay.jpg]()
+
+
+Step 6: Change your code to use the argument 
+Step 7: replace ```world``` with a ```$``` to start a string template 
+
+When using a STRING TEMPLATE instead of placing a string, you put instructions of how to get the string. 
+-- from a variable 
+-- from an expression 
+
+In our example case, we are going to insert the value from our argument (Kotlin) 
+We get this value from ${args{0}}
+
+We use the formating curly brackets around the (parenthesis value for which item--zero means the first position) 
+and this is an expression. 
 
 
 3.5  Greetings: Kotlin: 
