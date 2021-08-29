@@ -4,6 +4,7 @@ by Google
 * this course is broken into six lessons
 * this repo contains my notes and code from studying this course
 * What's next?  Here is my general [Kotlin TIL repo:](https://github.com/EO4wellness/T-I-L/tree/main/Kotlin)
+* Course Materials: https://www.youtube.com/playlist?list=PLgoc4E_HHEUXEobX7MrgY8KZ7X-pUY-V- 
 
 ## Lesson 1: Intro
 * intro 
