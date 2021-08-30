@@ -55,7 +55,7 @@ Check that your IntelliJ is installed and up-to-date by following these steps be
 ![Finished](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/images/Lesson1.jpg)
 
 
-## Lesson 2: [Kotlin Basics](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/lesson2.md)
+## Lesson 2: [Kotlin Basics](https://github.com/EO4wellness/leary-leerie/blob/master/Kotlin/Lesson2.md)
 * use the kotlin interpreter 
 * get comfortable with the basic features 
 * write kotlin statemetents 
