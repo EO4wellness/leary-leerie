@@ -14,7 +14,7 @@
 
 ## 2.3 Operators: 
 
-![REPL](https://github.com/EO4wellness/T-I-L/blob/main/Kotlin/IntelliJ-IDEA/KotlinREPL.jpg)
+![REPL](https://github.com/EO4wellness/T-I-L/blob/main/IntelliJ-IDEA/Images/KotlinREPL.jpg)
 
 * To follow along, select Kotlin REPL from the TOOLS menu of IntelliJ in our Hello World project. 
 * Type ``` 1+1``` and then ```control + enter```
