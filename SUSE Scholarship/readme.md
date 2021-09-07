@@ -11,5 +11,5 @@ _note: [Archived of previous Phase 1 Participation](https://github.com/EO4wellne
 * Aug 23: Project work.
 * Aug 24: Began studies lesson 2 Message Passing.
 * Aug 25: Study of Restful APIs, Message Passing-Refactoring From a Monolith) 2.1-2.5
-
+* Daily Progress: ongoing doing at least 1 lesson and doing basic reading/research per day towards completion of project(s).  
 
