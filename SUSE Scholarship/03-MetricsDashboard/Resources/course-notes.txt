@@ -1,0 +1,98 @@
+# Lesson 1: Introduction to Cloud Observability
+
+### 1.  Meet your instructor: Jay Smith 
+* App Modernization Specialist @ Google Cloud 
+* Customer Engingeer - help people learn to use Kubernetes
+* kNative 
+* serverless platforms
+* Tekton
+* CI/CD pipelines 
+
+### 2. Course Overview 
+* Examines Cloud Native Observability
+* What does monitoring and observability look like today?  
+* Tools to collect: 
+   1. system information. 
+   2. application information. 
+   3. create a dashboard. 
+* Learn Best Practices of: 
+	1. SLO
+	2. SLI
+	3. KPI
+* to become an observability expert you must learn: 
+1.  Intro to Cloud Observability 
+2.  Observability tools
+3. SLOs SLIs and KPIs 
+4. Tracing
+5. Building Dashboards 
+* Prometheus:  Data collection tool; collects system information. 
+* Jaeger: collects application information. 
+* Grafana: visualize the information which has been collected. 
+* Metrics we want to measure: SLO, SLI, KPI
+* SLOs: Service level objectives 
+* SLIs: Service level indicators
+* KPIs: Key performance indicators 
+* Distributed Tracing 
+* Create a span to execute a trace on an application 
+* Grafan sources, once set up, allows us to collect all the data we need
+  to make a dashboard.
+* Best Practices to at-a-glance observability
+* [Resource: Glossary]()
+
+```
+Course Outline
+
+Here's an outline of all the lessons and topics in this course, for your reference.
+Lesson 1: Introduction to Cloud Observability
+
+In this first lesson, we'll go over the big picture. Why is observability relevant? And what is your role is as an observability engineer? What tools will you need to be able to conduct observability on your cluster?
+
+    Big Picture: Monitoring in Clusters. We'll introduce the big picture of what cloud observability is and how monitoring developed.
+    Business Stakeholders. As a cloud observability expert, it's important to understand who the various stakeholders are that you'll be interacting with, so you can understand the sort of events you need to monitor for and how others will be using this information.
+    Where to Use Observability. We'll also talk about the conditions under which observability can be applied, and make a distinction between monitoring your system and observing the individual events within an application.
+    Prerequisites. We'll briefly go over the skills and concepts you should already have in order to ensure success in this course.
+    Tools, Environment and Dependencies. Finally, we'll go over a few technical requirements, along with the software and tools you'll need to install for this course.
+
+Lesson 2: Observability Tools
+
+This lesson will get you set up with the tools you need to start doing observability in your cluster.
+
+    Understanding your components. First, we'll look at the big picture. We'll consider three major needs that we will encounter when trying to do observability: System data, application data, and data visualization. Then we'll discuss why the three tools we're going to use—Prometheus, Jaeger, and Grafana—are great choices for addressing each of these needs.
+    Installing Prometheus, Grafana, and Jaeger. Next, we'll get into the details of how to install Prometheus, Grafana, and Jaeger, and how to confirm that the installations were successful.
+    Edge Case: Using ELK. Although the tools we are using in this course are excellent, industry-standard tools, it's always good to be aware of other options you may run into during your time as an observability expert. So at the end of the lesson, we will briefly consider ELK or Elasticsearch, Logstash, Kibana, which is a stack that serves as a popular alternative to the one we use in this course.
+
+Lesson 3: SLOs, SLIs, and Error Budgets
+
+This lesson is all about reliability metrics. In order to observe performance, we first need to get clear on how we are defining and measuring it, and that's what we'll cover here.
+
+    Defining performance. The first thing we need to do is define what we mean by site reliability or performance. We will talk about performance in terms of providing a certain level of service, and we'll go over what are called the four golden signals that are used in site reliability modeling.
+    Service-Level Objectives (SLOs). We also need a clear objective or goal, and this is where Service-Level Objectives (or SLOs) come in. We will talk about what SLOs are and what factors to consider when setting them.
+    Service-level indicators (SLIs) . Once we have a clear definition and objective for the level of performance we want to deliver, we need to consider how we will actually measure this performance. This is done using Service-Level Indicators or SLIs.
+    Error Budgets. Since we cannot guarantee 100% performance, we need to plan for errors. For example, if we are OK with 99% reliability on a metric, that means we have an error budget of 1%. We are deciding that if things get any worse than that 1%, this is a signal to us that an improvement is needed.
+    Building SLAs. Finally, we will bring this all together and examine Service-Level Agreements or SLAs. While you personally won’t have to worry about SLAs as an SRE, it is important to understand the context of SLAs as it does play a part in the overall SRE model.
+
+Lesson 4: Tracing
+
+This lesson is all about tracing. Tracing will allow us to get performance data on our applications, particularly on the latency of the key processes within them.
+
+    Big Picture: What is tracing? First we will talk about the underlying concept of tracing and how it is different from logs. In particular, we will consider why tracing is increasingly popular in diagnosing latency issues.
+    Distributed Tracing. In order to do tracing on our Kubernetes cluster, we need an approach to tracing that can handle microservices. This is called distributed tracing. We will explain what distributed tracing is in the context of Kubernetes applications and why this is such a useful tool.
+    Jaeger. Our tool for distributed tracing is Jaeger. We will discuss the key features of Jaeger as well as the main standards it uses, which are the OpenTracing and OpenTelemetry models.
+    Python Application Tracing. With Prometheus and Grafana, once we installed them they were pretty much ready to go. In contrast, in order to do tracing with Jaeger, we have to actually add code into the application itself to run a trace. We will walk through how to do this with Python applications.
+    Revisiting Logging. Finally, we will revisit logging. Although tracing is incredibly useful for issues involving latency, this doesn't mean that you should abandon logging. We will look at some use cases when you will want to utilize logs and consider how how logs are still useful in tracing.
+
+Lesson 5: Building Dashboards
+
+In this lesson, we'll look at how we can use Grafana to visualize the data we've been collecting with Prometheus and Jaeger, so that we can see the performance of our system and application at a glance.
+
+    Starting with dashboards. First, we'll look at how to set up dashboards with Grafana, and we'll learn the key features of the dashboard UI.
+    Panels. Next, we'll create panels. These are essentially containers for charts and graphs within our dashboards.
+    Metrics. Then we will discuss how to use the Prometheus Query Language (PromQL) to track metrics on our cluster, and how to use Jaeger to track metrics on our application.
+    Edge case: Alternative tools. Finally, we'll look at some alternative tools and learn some of the best practices concerning when we might want to use something other than the Prometheus-Jaeger-Grafana stack for monitoring and observability.
+
+
+```
+
+### 3. What You'll Build 
+
+### 4. What is Observability/Why do you need it? 
